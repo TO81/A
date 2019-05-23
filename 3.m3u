@@ -12,7 +12,11 @@ http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
 http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV: MIDNIGHT SECRETS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: MIDNIGHT SECRETS | HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV: KIDS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: KIDS | HD
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV: S| UHD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: S| UHD
+https://dev.ftv.com/m3u8/PKNI_UHD_SWIMWEAR_S18E01/media/10/newChunk_chunklist__2160@10mbit_HJUS.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV: T| HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: T| HD
+https://dev.ftv.com/m3u8/JKSZ_TEENS_S19E01/chunklist_TEENS_S19E01_1080p@3.5mbit_JYVT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV: K| HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: K| HD
 https://dev.ftv.com/m3u8/PJDT_Fashion_Kids_S19E01/chunklist_Fashion_Kids_S19E01_1080p@3.5mbit_CMSU.m3u8
 
 ###Favourites: Bell###
@@ -53,6 +57,8 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11406
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11584
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/WNYW5.png/150px-WNYW5.png" tvg-name="FOX 5 (New York) | HD"  group-title="Fav",FOX 5 (New York) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11273
+#EXTINF:-1 tvg-id="cw.us" tvg-name="CW 11 (New York) | HD" tvg-logo="http://149.56.14.45/Logo/english/CW-en.png" group-title="Fav",CW 11 (New York) | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/141
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/200px-PBS_Logo.svg.png" tvg-name="PBS (Boston) | HD"  group-title="Fav",PBS (Boston) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23915
 #EXTINF:-1 tvg-id="NBCKPRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/KPRC-TV_Logo.png/100px-KPRC-TV_Logo.png" tvg-name="NBC 2 (Houston) | HD"  group-title="Fav",NBC 2 (Houston) | HD
@@ -226,6 +232,8 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11406
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11584
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/WNYW5.png/150px-WNYW5.png" tvg-name="FOX 5 (New York) | HD"  group-title="Fav",FOX 5 (New York) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11273
+#EXTINF:-1 tvg-id="cw.us" tvg-name="CW 11 (New York) | HD" tvg-logo="http://149.56.14.45/Logo/english/CW-en.png" group-title="Fav",CW 11 (New York) | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/141
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/200px-PBS_Logo.svg.png" tvg-name="PBS (Boston) | HD"  group-title="Fav",PBS (Boston) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23915
 #EXTINF:-1 tvg-id="NBCKPRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/KPRC-TV_Logo.png/100px-KPRC-TV_Logo.png" tvg-name="NBC 2 (Houston) | HD"  group-title="Fav",NBC 2 (Houston) | HD
@@ -589,18 +597,18 @@ http://aljazeera-ara-HD-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147
 http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/286
 #EXTINF:-1 tvg-id="" tvg-name="LBC EUROPE | HD" group-title="Arabic",LBC EUROPE | HD
 http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/6176
-#EXTINF:-1 tvg-id="" tvg-name="LBC SATELLITE | HD" group-title="Arabic",LBC SATELLITE | HD
-http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/283
+#EXTINF:-1 tvg-id="" tvg-name="LBC SATELLITE" group-title="Arabic",LBC SATELLITE
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBC 2 INTERNATIONAL" group-title="Arabic",LBC 2 INTERNATIONAL
 http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/17308
 #EXTINF:-1 tvg-id="" tvg-name="LDC" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f3/Ldc_2013.jpg" group-title="Arabic",LDC
 http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/284
 #EXTINF:-1 tvg-id="" tvg-name="FUTURE TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD0Jb8mJYiFmV2lYFFdh64DtmyejaKv3W-zxA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Arabic",FUTURE TV
-http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/281
+http://livecdnh2.tvanywhere.ae/hls/future/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL JADEED" tvg-logo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL_400x400.jpg" group-title="Arabic",AL JADEED
-http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/277
+http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OTV" group-title="Arabic",OTV
-http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/288
+http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBN | HD" tvg-logo="http://www.znn-lb.com/wp-content/uploads/2017/11/nbn-600x360.jpg" group-title="Arabic",NBN | HD
 http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/287
 #EXTINF:-1 tvg-id="" tvg-name="AL MANAR" tvg-logo="https://worldnews-sy.com/wp-content/uploads/2016/12/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B1.png" group-title="Arabic",AL MANAR
@@ -613,6 +621,18 @@ http://109.236.92.216:9090/Fatafeat/mpegts
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABY | HD" group-title="Arabic",AL ARABY | HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1 | HD" group-title="Arabic",MBC 1 | HD
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2 | HD" group-title="Arabic",MBC 2 | HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3 | HD" group-title="Arabic",MBC 3 | HD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4 | HD" group-title="Arabic",MBC 4 | HD
+http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC MAX | HD" group-title="Arabic",MBC MAX | HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION | HD" group-title="Arabic",MBC ACTION | HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MECCA | HD" group-title="Arabic",MECCA | HD
 http://m.live.net.sa:1935/live/quran/chunklist_w1660804461.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA | HD" group-title="Arabic",AL ARABIYA | HD
@@ -621,6 +641,8 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_b4500000.m3u
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b4500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA MUBASHER" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBmuO8RqkEEXW5u0YZivxgpvqzu5-zjRol29w=s900-mo-c-c0xffffffff-rj-k-no" group-title="Arabic",AL JAZEERA MUBASHER
 http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/660
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA DOCUMENTARY" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBmuO8RqkEEXW5u0YZivxgpvqzu5-zjRol29w=s900-mo-c-c0xffffffff-rj-k-no" group-title="Arabic",AL JAZEERA DOCUMENTARY
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY NEWS ARABIC" tvg-logo="https://www.skynewsarabia.com/static/web-rev/img/app-banner/sna_logo_192_20_Pad.png" group-title="Arabic",SKY NEWS ARABIC
 https://stream.skynewsarabia.com/hls/sna_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUSSIA TODAY ARABIC" tvg-logo="https://www.theweek.co.uk/sites/theweek/files/styles/16x8_465/public/8/54/140721-russia-today-logo_0.jpg" group-title="Arabic",RUSSIA TODAY ARABIC
@@ -631,6 +653,20 @@ http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/664
 http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/663
 #EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="Arabic",DW ARABIC
 http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/671
+#EXTINF:-1 tvg-id="" tvg-name="TARAB | HD" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Zal-designstyle-jungle-m.png" group-title="Arabic",TARAB | HD
+http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/6110
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC" group-title="Arabic",ROTANA CLASSIC
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA AFLAM" group-title="Arabic",ROTANA AFLAM
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA" group-title="Arabic",ROTANA CINEMA
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA DRAMA" group-title="Arabic",ROTANA DRAMA
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KHALIJIAH" group-title="Arabic",ROTANA KAHLIJIAH
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLIP" group-title="Arabic",ROTANA CLIP
+http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARABICA MUSIC" group-title="Arabic",ARABICA MUSIC
 http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/280
 
@@ -672,6 +708,8 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11406
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11584
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/WNYW5.png/150px-WNYW5.png" tvg-name="FOX 5 (New York) | HD"  group-title="Bell",FOX 5 (New York) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11273
+#EXTINF:-1 tvg-id="cw.us" tvg-name="CW 11 (New York) | HD" tvg-logo="http://149.56.14.45/Logo/english/CW-en.png" group-title="Bell",CW 11 (New York) | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/141
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/200px-PBS_Logo.svg.png" tvg-name="PBS (Boston) | HD"  group-title="Bell",PBS (Boston) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23915
 #EXTINF:-1 tvg-id="NBCKPRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/KPRC-TV_Logo.png/100px-KPRC-TV_Logo.png" tvg-name="NBC 2 (Houston) | HD"  group-title="Bell",NBC 2 (Houston) | HD
@@ -845,6 +883,8 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11406
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11584
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/WNYW5.png/150px-WNYW5.png" tvg-name="FOX 5 (New York) | HD"  group-title="Dish",FOX 5 (New York) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11273
+#EXTINF:-1 tvg-id="cw.us" tvg-name="CW 11 (New York) | HD" tvg-logo="http://149.56.14.45/Logo/english/CW-en.png" group-title="Dish",CW 11 (New York) | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/141
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/200px-PBS_Logo.svg.png" tvg-name="PBS (Boston) | HD"  group-title="Dish",PBS (Boston) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23915
 #EXTINF:-1 tvg-id="NBCKPRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/KPRC-TV_Logo.png/100px-KPRC-TV_Logo.png" tvg-name="NBC 2 (Houston) | HD"  group-title="Dish",NBC 2 (Houston) | HD
@@ -1247,6 +1287,30 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/23526
 
 ###Sports###
 
+#EXTINF:-1 tvg-id="beIN Sports 1 | HD" tvg-name="beIN Sports 1 | HD" tvg-logo="http://149.56.14.45/Logo/2018/urywpr1482147233.png" group-title="SPORTS",beIN Sports 1 | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/551
+#EXTINF:-1 tvg-id="beIN Sports 2 | HD" tvg-name="beIN Sports 2 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/BeIN_SPORTS_2HD_Couleur.jpg" group-title="SPORTS",beIN Sports 2 | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/550
+#EXTINF:-1 tvg-id="beIN Sports 3 | HD" tvg-name="beIN Sports 3 | HD" tvg-logo="http://149.56.14.45/Logo/2018/gmt9nj1504235003.png" group-title="SPORTS",beIN Sports 3 | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/549
+#EXTINF:-1 tvg-id="beIN Sports 4 | HD" tvg-name="beIN Sports 4 | HD" tvg-logo="http://149.56.14.45/Logo/2018/akcwk91504235015.png" group-title="SPORTS",beIN Sports 4 | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/548
+#EXTINF:-1 tvg-id="beIN Sports 5 | HD" tvg-name="beIN Sports 5 | HD" tvg-logo="http://149.56.14.45/Logo/2018/9bcudi1504235025.png" group-title="SPORTS",beIN Sports 5 | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/547
+#EXTINF:-1 tvg-id="beIN Sports 6 | HD" tvg-name="beIN Sports 6 | HD" tvg-logo="http://149.56.14.45/Logo/2018/13joyq1504235036.png" group-title="SPORTS",beIN Sports 6 | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/546
+#EXTINF:-1 tvg-id="beIN Sports 7 | HD" tvg-name="beIN Sports 7 | HD" tvg-logo="http://149.56.14.45/Logo/2018/yeqxpd1504235047.png" group-title="SPORTS",beIN Sports 7 | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/545
+#EXTINF:-1 tvg-id="beIN Sports 8 | HD" tvg-name="beIN Sports 8 | HD" tvg-logo="http://149.56.14.45/Logo/2018/rxtw4n1504235056.png" group-title="SPORTS",beIN Sports 8 | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/544
+#EXTINF:-1 tvg-id="beIN Sports 9 | HD" tvg-name="beIN Sports 9 | HD" tvg-logo="http://149.56.14.45/Logo/2018/2vy1ff1504235070.png" group-title="SPORTS",beIN Sports 9 | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/543
+#EXTINF:-1 tvg-id="beIN Sports 10 | HD" tvg-name="beIN Sports 10 | HD" tvg-logo="http://149.56.14.45/Logo/2018/gf6lrp1504235081.png" group-title="SPORTS",beIN Sports 10 | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/554
+#EXTINF:-1 tvg-id="beIN Sports 11 | HD" tvg-name="beIN Sports 11 | HD" tvg-logo="http://149.56.14.45/Logo/2018/o4qaz91504235090.png" group-title="SPORTS",beIN Sports 11 | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/553
+#EXTINF:-1 tvg-id="beIN Sports 12 | HD" tvg-name="beIN Sports 12 | HD" tvg-logo="http://149.56.14.45/Logo/2018/kgyxt91504235101.png" group-title="SPORTS",beIN Sports 12 | HD
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/552
 #EXTINF:-1 tvg-id="ComcastSportsNetBayArea.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/NBCSN.jpg" tvg-name="US: CSN BAY AREA | HD"  group-title="SPORTS",US: CSN BAY AREA | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11340
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/NBCSN.jpg" tvg-name="US: CSN BOSTON | HD"  group-title="SPORTS",US: CSN BOSTON | HD
@@ -2062,15 +2126,6 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/19768
 http://beastiptv.tv:8080/TO81/OWwlIXipop/19767
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="RADIO: VIRGIN RADIO | HITLIST"  group-title="MUSIC",RADIO: VIRGIN RADIO | HITLIST
 http://beastiptv.tv:8080/TO81/OWwlIXipop/19766
-
-###Arabic Backup###
-
-#EXTINF:-1 tvg-id="" tvg-name="AL JADEED" tvg-logo="https://www.el7sry2day.info/wp-content/uploads/2019/03/12417677_1126976907312973_432228068824476498_n-500x300.jpg" group-title="Arabic (Backup)",AL JADEED
-http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/6172
-#EXTINF:-1 tvg-id="" tvg-name="TELE LIBAN" tvg-logo="http://lebanonvoyager.com/temp/wp-content/uploads/2018/04/tl.jpg" group-title="Arabic (Backup)",TELE LIBAN
-http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/285
-#EXTINF:-1 tvg-id="" tvg-name="TELE LIBAN" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Arabic (Backup)",TELE LIBAN
-http://62.210.141.179:8000/ibrahim/123456/167
 
 ###Bell VIP###
 
@@ -3414,6 +3469,25 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/23612
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23611
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Zooey_Deschanel_May_2014_%28cropped%29.png" tvg-name="BEAST-PIX: || ZOOEY DESCHANEL"  group-title="PPV MOVIES",BEAST-PIX: || ZOOEY DESCHANEL
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23610
+
+###Arabic Backup###
+
+#EXTINF:-1 tvg-id="" tvg-name="LDC" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f3/Ldc_2013.jpg" group-title="Arabic",LDC
+http://livecdnh2.tvanywhere.ae/hls/ldc/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LBC SATELLITE | HD" group-title="Arabic",LBC SATELLITE | HD
+http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/283
+#EXTINF:-1 tvg-id="" tvg-name="FUTURE TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD0Jb8mJYiFmV2lYFFdh64DtmyejaKv3W-zxA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Arabic",FUTURE TV
+http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/281
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEED" tvg-logo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL_400x400.jpg" group-title="Arabic",AL JADEED
+http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/277
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEED" tvg-logo="https://www.el7sry2day.info/wp-content/uploads/2019/03/12417677_1126976907312973_432228068824476498_n-500x300.jpg" group-title="Arabic (Backup)",AL JADEED
+http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/6172
+#EXTINF:-1 tvg-id="" tvg-name="OTV" group-title="Arabic",OTV
+http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/288
+#EXTINF:-1 tvg-id="" tvg-name="TELE LIBAN" tvg-logo="http://lebanonvoyager.com/temp/wp-content/uploads/2018/04/tl.jpg" group-title="Arabic (Backup)",TELE LIBAN
+http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/285
+#EXTINF:-1 tvg-id="" tvg-name="TELE LIBAN" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Arabic (Backup)",TELE LIBAN
+http://62.210.141.179:8000/ibrahim/123456/167
 
 ###24/7###
 
@@ -9371,3 +9445,185 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/22178
 http://beastiptv.tv:8080/TO81/OWwlIXipop/22177
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="SINSATIONS || [SD] TRANSGENDER"  group-title="XXX",SINSATIONS || [SD] TRANSGENDER
 http://beastiptv.tv:8080/TO81/OWwlIXipop/22176
+#EXTINF:-1 tvg-id="" tvg-name="-= Adults ( 18) =-" tvg-logo="" group-title="XXX",-= Adults ( 18) =-
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/7493
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Barely Legal (18 )" tvg-logo="" group-title="XXX",Barely Legal (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19529
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Beate-Uhse.TV (18 )" tvg-logo="" group-title="XXX",Beate-Uhse.TV (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19528
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Blue Hustler (18 )" tvg-logo="" group-title="XXX",Blue Hustler (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19527
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Brazzers TV (18 )" tvg-logo="" group-title="XXX",Brazzers TV (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19526
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Brazzers TV Europe (18 )" tvg-logo="" group-title="XXX",Brazzers TV Europe (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19525
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Dorcel HD (18 )" tvg-logo="" group-title="XXX",Dorcel HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19524
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Dorcel XXX HD (18 )" tvg-logo="" group-title="XXX",Dorcel XXX HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19523
+#EXTINF:-1 tvg-id="" tvg-name="XXX : DUSK! (18 )" tvg-logo="" group-title="XXX",DUSK! (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19522
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Emanuelle ( 18)" tvg-logo="" group-title="XXX",Emanuelle ( 18)
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19521
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Erox HD (18 )" tvg-logo="" group-title="XXX",Erox HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19520
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Eroxxx HD (18 )" tvg-logo="" group-title="XXX",Eroxxx HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19519
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Evil Angel HD (18 )" tvg-logo="" group-title="XXX",Evil Angel HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19518
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Exotica Plus (18 )" tvg-logo="" group-title="XXX",Exotica Plus (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19517
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Extasy HD (18 )" tvg-logo="" group-title="XXX",Extasy HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19516
+#EXTINF:-1 tvg-id="" tvg-name="XXX : French Lover (18 )" tvg-logo="" group-title="XXX",French Lover (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19511
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Hot TV (18 )" tvg-logo="" group-title="XXX",Hot TV (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19510
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Hustler HD (18 )" tvg-logo="" group-title="XXX",Hustler HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19509
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Hustler TV (18 )" tvg-logo="" group-title="XXX",Hustler TV (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19508
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Jasmin TV (18 )" tvg-logo="" group-title="XXX",Jasmin TV (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19507
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Meiden Van Holland Hard (18 )" tvg-logo="" group-title="XXX",Meiden Van Holland Hard (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19504
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Nuart TV (18 )" tvg-logo="" group-title="XXX",Nuart TV (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19501
+#EXTINF:-1 tvg-id="" tvg-name="XXX : O la la TV (18 )" tvg-logo="" group-title="XXX",O la la TV (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19500
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Passie XXX (18 )" tvg-logo="" group-title="XXX",Passie XXX (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19498
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Passion XXX (18 )" tvg-logo="" group-title="XXX",Passion XXX (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19497
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Penthouse 1 HD (18 )" tvg-logo="" group-title="XXX",Penthouse 1 HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19496
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Penthouse 2 HD (18 )" tvg-logo="" group-title="XXX",Penthouse 2 HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19495
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Penthouse Black (18 )" tvg-logo="" group-title="XXX",Penthouse Black (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19494
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Pink Erotic (18 )" tvg-logo="" group-title="XXX",Pink Erotic (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19493
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Pink Erotic 2 (18 )" tvg-logo="" group-title="XXX",Pink Erotic 2 (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19492
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Pink Erotic 3 (18 )" tvg-logo="" group-title="XXX",Pink Erotic 3 (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19491
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Pink Erotic 4 (18 )" tvg-logo="" group-title="XXX",Pink Erotic 4 (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19490
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Pink Erotic 5 (18 )" tvg-logo="" group-title="XXX",Pink Erotic 5 (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19489
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Pink Erotic 6 (18 )" tvg-logo="" group-title="XXX",Pink Erotic 6 (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19488
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Pink Erotic 7 (18 )" tvg-logo="" group-title="XXX",Pink Erotic 7 (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19487
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Pink Erotic 8 (18 )" tvg-logo="" group-title="XXX",Pink Erotic 8 (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19486
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Pink O TV (18 )" tvg-logo="" group-title="XXX",Pink O TV (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19485
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Playboy (18 )" tvg-logo="" group-title="XXX",Playboy (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19484
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Playboy Europe (18 )" tvg-logo="" group-title="XXX",Playboy Europe (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19483
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Private HD (18 )" tvg-logo="" group-title="XXX",Private HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19482
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Prive TV (18 )" tvg-logo="" group-title="XXX",Prive TV (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19481
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Reality Kings (18 )" tvg-logo="" group-title="XXX",Reality Kings (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19480
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Redlight HD (18 )" tvg-logo="" group-title="XXX",Redlight HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19479
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Russian Night (18 )" tvg-logo="" group-title="XXX",Russian Night (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19478
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Sct XXX (18 )" tvg-logo="" group-title="XXX",Sct XXX (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19477
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Secret Circle (18 )" tvg-logo="" group-title="XXX",Secret Circle (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19476
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Sext & Senso (18 )" tvg-logo="" group-title="XXX",Sext & Senso (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19475
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Sextreme (18 )" tvg-logo="" group-title="XXX",Sextreme (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19474
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Stars XXX HD (18 )" tvg-logo="" group-title="XXX",Stars XXX HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19472
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Super One HD (18 )" tvg-logo="" group-title="XXX",Super One HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19471
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Venus TV (18 )" tvg-logo="" group-title="XXX",Venus TV (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19470
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Visit X (18 )" tvg-logo="" group-title="XXX",Visit X (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19469
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Vivid Red HD (18 )" tvg-logo="" group-title="XXX",Vivid Red HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19468
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Vivid TV Europe (18 )" tvg-logo="" group-title="XXX",Vivid TV Europe (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19467
+#EXTINF:-1 tvg-id="" tvg-name="XXX : X Bizarre (18 )" tvg-logo="" group-title="XXX",X Bizarre (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19466
+#EXTINF:-1 tvg-id="" tvg-name="XXX : X Bunga Bunga (18 )" tvg-logo="" group-title="XXX",X Bunga Bunga (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19465
+#EXTINF:-1 tvg-id="" tvg-name="XXX : X Desire (18 )" tvg-logo="" group-title="XXX",X Desire (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19464
+#EXTINF:-1 tvg-id="" tvg-name="XXX : X Dream TV (18 )" tvg-logo="" group-title="XXX",X Dream TV (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19463
+#EXTINF:-1 tvg-id="" tvg-name="XXX : X Dream TV 2 (18 )" tvg-logo="" group-title="XXX",X Dream TV 2 (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19462
+#EXTINF:-1 tvg-id="" tvg-name="XXX : XXL (18 )" tvg-logo="" group-title="XXX",XXL (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19459
+#EXTINF:-1 tvg-id="" tvg-name="XXX : XY Max HD (18 )" tvg-logo="" group-title="XXX",XY Max HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19458
+#EXTINF:-1 tvg-id="" tvg-name="XXX : XY Mix HD (18 )" tvg-logo="" group-title="XXX",XY Mix HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19457
+#EXTINF:-1 tvg-id="" tvg-name="XXX : XY Plus HD (18 )" tvg-logo="" group-title="XXX",XY Plus HD (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19456
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Zest TV (18 )" tvg-logo="" group-title="XXX",Zest TV (18 )
+http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/19455
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="Nubiles Porn: Ricky"  group-title="XXX",Nubiles Porn: Ricky
+http://cdn.servitubes.com/videos/e/e/6/1/f/ee61f46e421e18382ff152b4cdc74c413236429a.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="Two 18 year olds"  group-title="XXX",Two 18 year olds
+http://cdn.justporno.sex/video_hd/1761/17615.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="CLIPS: Gerta"  group-title="XXX",CLIPS: Gerta
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_gerta_12minute.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="CLIPS: Irina"  group-title="XXX",CLIPS: Irina
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ilina_12minute.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="CLIPS: Jane"  group-title="XXX",CLIPS: Jane
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_jane_12minute.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="CLIPS: Lacie Channing"  group-title="XXX",CLIPS: Lacie Channing
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_lacie_channing_8minutes.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="CLIPS: Mirabella"  group-title="XXX",CLIPS: Mirabella
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_mirabella_12minute.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="CLIPS: Natalia Rossi"  group-title="XXX",CLIPS: Natalia Rossi
+http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="CLIPS: Neona"  group-title="XXX",CLIPS: Neona
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_neona_12minute.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="CLIPS: Sara Luvv"  group-title="XXX",CLIPS: Sara Luvv
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_sara_luvv_8minutes.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="CLIPS: Sasha"  group-title="XXX",CLIPS: Sasha
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_sasha_12minute.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="CLIPS: Rissa"  group-title="XXX",CLIPS: Rissa
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_rissa_maxxx_8minutes.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="CLIPS: Chichi Medina"  group-title="XXX",CLIPS: Chichi Medina
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="CLIPS: Chloe Foster"  group-title="XXX",CLIPS: Chloe Foster
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="CLIPS: Dakota Skye"  group-title="XXX",CLIPS: Dakota Skye
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="CLIPS: Demida"  group-title="XXX",CLIPS: Demida
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="Videos:Adult 4K: VOD1"  group-title="XXX",Videos:Adult 4K: VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="Videos:Adult 4K: VOD2"  group-title="XXX",Videos:Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="Videos:Adult 4K: VOD3"  group-title="XXX",Videos:Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="Videos:Adult 4K: VOD4"  group-title="XXX",Videos:Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="Videos:Adult 4K: VOD5"  group-title="XXX",Videos:Adult 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="Videos:Adult 4K: VOD6"  group-title="XXX",Videos:Adult 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="Videos:Adult 4K: VOD7"  group-title="XXX",Videos:Adult 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="Videos:Adult 4K: VOD8"  group-title="XXX",Videos:Adult 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="Videos:Adult 4K: VOD9"  group-title="XXX",Videos:Adult 4K: VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="Videos:Adult 4K: VOD10"  group-title="XXX",Videos:Adult 4K: VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="Videos:Adult 4K: VOD11"  group-title="XXX",Videos:Adult 4K: VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
