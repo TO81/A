@@ -593,8 +593,6 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11134
 
 #EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA ARABIC | HD" tvg-logo="https://i.ytimg.com/vi/FzLzeDo_FU8/hqdefault_live.jpg?sqp=CKiPieYF-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB4T3Sh7I9nMWR2d8c0g-8PySSowA" group-title="Arabic",AL JAZEERA ARABIC | HD
 http://aljazeera-ara-HD-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="MTV | HD" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="Arabic",MTV | HD
-http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/286
 #EXTINF:-1 tvg-id="" tvg-name="LBC EUROPE | HD" group-title="Arabic",LBC EUROPE | HD
 http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/6176
 #EXTINF:-1 tvg-id="" tvg-name="LBC SATELLITE" group-title="Arabic",LBC SATELLITE
@@ -605,6 +603,8 @@ http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/17308
 http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/284
 #EXTINF:-1 tvg-id="" tvg-name="FUTURE TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD0Jb8mJYiFmV2lYFFdh64DtmyejaKv3W-zxA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Arabic",FUTURE TV
 http://livecdnh2.tvanywhere.ae/hls/future/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV | HD" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="Arabic",MTV | HD
+http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/286
 #EXTINF:-1 tvg-id="" tvg-name="AL JADEED" tvg-logo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL_400x400.jpg" group-title="Arabic",AL JADEED
 http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OTV" group-title="Arabic",OTV
