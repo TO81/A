@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-***Favourites: Miscellaneous***
+###Favourites: Miscellaneous###
 
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="Fav",TRACE URBAN | HD
 http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/18117
@@ -13,7 +13,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV: KIDS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: KIDS | HD
 https://dev.ftv.com/m3u8/PJDT_Fashion_Kids_S19E01/chunklist_Fashion_Kids_S19E01_1080p@3.5mbit_CMSU.m3u8
 
-***Favourites: Bell***
+###Favourites: Bell###
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CBC_Television_2009.svg/120px-CBC_Television_2009.svg.png" tvg-name="CBC TORONTO | HD"  group-title="Fav",CBC TORONTO | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23965
@@ -214,7 +214,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/19804
 #EXTINF:-1 tvg-id="MusicFatafati.in" tvg-logo="Logo N/A" tvg-name="MUSIC CHOICE: ALTERNATIVE| HD"  group-title="Fav",MUSIC CHOICE: ALTERNATIVE | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/19847
 
-***Favourites: Dish***
+###Favourites: Dish###
 
 #EXTINF:-1 tvg-id="nbc.wnbc.new.york.ny.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/150px-WNBC_4_NY.svg.png" tvg-name="NBC 4 (New York) | HD"  group-title="Fav",NBC 4 (New York) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11454
@@ -577,7 +577,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11171
 #EXTINF:-1 tvg-id="NewEnglandSportsNetwork.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/New_England_Sports_Network_logo.png" tvg-name="NEW ENGLAND SPORTS NETWORK | HD"  group-title="Fav",NEW ENGLAND SPORTS NETWORK | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11134
 
-***Arabic***
+###Arabic###
 
 #EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA ARABIC | HD" tvg-logo="https://i.ytimg.com/vi/FzLzeDo_FU8/hqdefault_live.jpg?sqp=CKiPieYF-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB4T3Sh7I9nMWR2d8c0g-8PySSowA" group-title="Arabic",AL JAZEERA ARABIC | HD
 http://aljazeera-ara-HD-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8?sd=10&rebase=on
@@ -630,7 +630,7 @@ http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/671
 #EXTINF:-1 tvg-id="" tvg-name="ARABICA MUSIC" group-title="Arabic",ARABICA MUSIC
 http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/280
 
-***Dish***
+###Dish###
 
 #EXTINF:-1 tvg-id="nbc.wnbc.new.york.ny.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/150px-WNBC_4_NY.svg.png" tvg-name="NBC 4 (New York) | HD"  group-title="Dish",NBC 4 (New York) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11454
@@ -997,7 +997,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11171
 #EXTINF:-1 tvg-id="NewEnglandSportsNetwork.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/New_England_Sports_Network_logo.png" tvg-name="NEW ENGLAND SPORTS NETWORK | HD"  group-title="Dish",NEW ENGLAND SPORTS NETWORK | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11134
 
-***Bell***
+###Bell###
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CBC_Television_2009.svg/120px-CBC_Television_2009.svg.png" tvg-name="CBC TORONTO | HD"  group-title="Bell",CBC TORONTO | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23965
@@ -1198,7 +1198,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/19804
 #EXTINF:-1 tvg-id="MusicFatafati.in" tvg-logo="Logo N/A" tvg-name="MUSIC CHOICE: ALTERNATIVE| HD"  group-title="Bell",MUSIC CHOICE: ALTERNATIVE | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/19847
 
-***MLB Extra Innings***
+###MLB Extra Innings###
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/140px-MLBNetworkLogo.svg.png" tvg-name="US: MLB NETWORK | HD"  group-title="MLB",US: MLB NETWORK | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11177
@@ -1243,7 +1243,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/23527
 #EXTINF:-1 tvg-id="MATCH18.HOME.MLB" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/250px-MLB_Extra_Innings.svg.png/revision/latest?cb=20150904004653" tvg-name="MLB 18"  group-title="MLB",MLB 18
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23526
 
-***NBA League Pass***
+###NBA League Pass###
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" tvg-name="NBA TV (24/7 Coverage)"  group-title="NBA",NBA TV (24/7 Coverage)
 http://beastiptv.tv:8080/TO81/OWwlIXipop/12483
@@ -1368,7 +1368,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/17498
 #EXTINF:-1 tvg-id="nba.9" tvg-logo="https://lh3.googleusercontent.com/s4W-CdLXBRNXHbEc8HPuycTwMggxHIHhATUSUSywr8UpgnPzkdNCSu_L1zpCxNVD1fDVrg=s85" tvg-name="NBA 9 BACKUP"  group-title="NBA",NBA 9 BACKUP
 http://beastiptv.tv:8080/TO81/OWwlIXipop/17497
 
-***NHL Centre Ice***
+###NHL Centre Ice###
 
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/NHL-Network-logo-2011.png" tvg-name="US: NHL NETWORK | HD"  group-title="NHL",US: NHL NETWORK | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11128
@@ -1407,7 +1407,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/12579
 #EXTINF:-1 tvg-id="MATCH15.NHL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/NHL_Center_Ice.svg/200px-NHL_Center_Ice.svg.png" tvg-name="NHL Center Ice Plus 15"  group-title="NHL",NHL Center Ice Plus 15
 http://beastiptv.tv:8080/TO81/OWwlIXipop/12578
 
-***Nascar***
+###Nascar###
 
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="NASCAR: All-Star Race (5/18 8PM)"  group-title="NASCAR",NASCAR: All-Star Race (5/18 8PM)
 http://beastiptv.tv:8080/TO81/OWwlIXipop/21211
@@ -1450,7 +1450,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/21206
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="NASCAR: TOYOTA OWNERS 400 (4/13-7:30PM)"  group-title="NASCAR",NASCAR: TOYOTA OWNERS 400 (4/13-7:30PM)
 http://beastiptv.tv:8080/TO81/OWwlIXipop/21215
 
-***Arabic Backup***
+###Arabic Backup###
 
 #EXTINF:-1 tvg-id="" tvg-name="AL JADEED" tvg-logo="https://www.el7sry2day.info/wp-content/uploads/2019/03/12417677_1126976907312973_432228068824476498_n-500x300.jpg" group-title="Arabic (Backup)",AL JADEED
 http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/6172
@@ -1459,7 +1459,7 @@ http://tv.zalhd.vip:20002/Mohammadsabry/3O7R31HIcK/285
 #EXTINF:-1 tvg-id="" tvg-name="TELE LIBAN" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Arabic (Backup)",TELE LIBAN
 http://62.210.141.179:8000/ibrahim/123456/167
 
-***Music/Radio (Other)***
+###Music/Radio (Other)###
 
 #EXTINF:-1 tvg-id="CMT.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/COUNTRY.png" tvg-name="COUNTRY MUSIC | HD"  group-title="MUSIC",US: COUNTRY MUSIC | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11343
@@ -1622,7 +1622,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/19767
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="RADIO: VIRGIN RADIO | HITLIST"  group-title="MUSIC",RADIO: VIRGIN RADIO | HITLIST
 http://beastiptv.tv:8080/TO81/OWwlIXipop/19766
 
-***PPV Boxing/UFC/Wrestling***
+###PPV Boxing/UFC/Wrestling###
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/dx5K7KtcKwwKLkF1qmYus-O6CYV0eVpfZlHs68I58Je-AprUdpciopAddRbQ1HPtUMl0lw=s85" tvg-name="UFC 24/7"  group-title="PPV SPORTS",UFC 24/7
 http://beastiptv.tv:8080/TO81/OWwlIXipop/10522
@@ -1689,7 +1689,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/17186
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="PPV: EVENT LINK 5"  group-title="PPV SPORTS",PPV: EVENT LINK 5
 http://beastiptv.tv:8080/TO81/OWwlIXipop/17185
 
-***Bell (Other)***
+###Bell (Other)###
 
 #EXTINF:-1 tvg-id="AlAan.ae" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/ae.jpg" tvg-name="CA: A&E | HD"  group-title="CANADA",CA: A&E | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/10699
@@ -1968,7 +1968,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/10526
 #EXTINF:-1 tvg-id="YesTV.ca" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/YesTV_Canada.svg_-3.png" tvg-name="CA: YES TV (Ontario) | HD"  group-title="CANADA",CA: YES TV (Ontario) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/10525
 
-***Bell French (Other)***
+###Bell French (Other)###
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/althistory/images/c/c5/Flag_of_French_Canada_.png/revision/latest/scale-to-width-down/640?cb=20150824140228" tvg-name="###### FRENCH CANADIAN ######"  group-title="CANADA",###### FRENCH CANADIAN ######
 http://beastiptv.tv:8080/TO81/OWwlIXipop/15408
@@ -2071,7 +2071,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/15361
 #EXTINF:-1 tvg-id="zeste.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Zeste_%28TV_network_-_logo%29.svg/160px-Zeste_%28TV_network_-_logo%29.svg.png" tvg-name="CA|FR: ZESTE"  group-title="CANADA",CA|FR: ZESTE
 http://beastiptv.tv:8080/TO81/OWwlIXipop/15360
 
-***Kids***
+###Kids###
 
 #EXTINF:-1 tvg-id="CartoonNetwork.ca" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/cartoon_network2.jpg" tvg-name="CA: CARTOON NETWORK | HD"  group-title="KIDS",CA: CARTOON NETWORK | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/10682
@@ -2132,7 +2132,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11803
 #EXTINF:-1 tvg-id="Tinypop.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/New_Tiny_Pop_Logo_2018.png/230px-New_Tiny_Pop_Logo_2018.png" tvg-name="UK: TINY POP"  group-title="KIDS",UK: TINY POP
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11672
 
-***Sports***
+###Sports###
 
 #EXTINF:-1 tvg-id="ComcastSportsNetBayArea.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/NBCSN.jpg" tvg-name="US: CSN BAY AREA | HD"  group-title="SPORTS",US: CSN BAY AREA | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11340
@@ -2513,7 +2513,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/16608
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Bleacher_Report_Logo.svg/revision/latest/scale-to-width-down/200?cb=20140329001557" tvg-name="BR Live 25 | HD:"  group-title="SPORTS",BR Live 25 | HD:
 http://beastiptv.tv:8080/TO81/OWwlIXipop/16607
 
-***Dish (Other)***
+###Dish (Other)###
 
 #EXTINF:-1 tvg-id="abc.wabc.new.york.ny.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/abc.png" tvg-name="US: ABC EAST | HD"  group-title="UNITED STATES",US: ABC EAST | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/17219
@@ -2894,7 +2894,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11021
 #EXTINF:-1 tvg-id="WorldFishingNetwork.ca" tvg-logo="https://cartt.ca/sites/default/files/styles/large/public/field/image/WORLD_FISHING_NETWORK_3.jpg" tvg-name="US: WORLD FISHING NETWORK | SD"  group-title="UNITED STATES",US: WORLD FISHING NETWORK | SD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11019
 
-***USA Regionals***
+###USA Regionals###
 
 #EXTINF:-1 tvg-id="CBSKIRO.us" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bb/HYlM8Q1OJClx1nOVOazUsw29466.jpg/revision/latest/scale-to-width-down/200?cb=20170723075835" tvg-name="US: CBS (EAST) | SD"  group-title="UNITED STATES",US: CBS (EAST) | SD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/15779
@@ -3763,7 +3763,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/15602
 #EXTINF:-1 tvg-id="NBC6WTVJ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" tvg-name="US: NBC 6 (Miami) | HD"  group-title="NBC LOCALS",US: NBC 6 (Miami) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/15601
 
-***UK***
+###UK###
 
 #EXTINF:-1 tvg-id="4Music.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/175px-4Music_logo_2018.svg.png" tvg-name="UK: 4 MUSIC | SD"  group-title="UNITED KINGDOM",UK: 4 MUSIC | SD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/12010
@@ -4270,7 +4270,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11653
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/130px-Yesterday_logo_2012.svg.png" tvg-name="UK: YESTERDAY SD"  group-title="UNITED KINGDOM",UK: YESTERDAY SD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11652
 
-***Soccer/Europe Sports***
+###Soccer/Europe Sports###
 
 #EXTINF:-1 tvg-id="ginxesportstv.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/GINX_Esports_TV_Logo.png/200px-GINX_Esports_TV_Logo.png" tvg-name="US : Ginx TV | UHD"  group-title="UNITED KINGDOM",US : Ginx TV | UHD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/15813
@@ -4537,7 +4537,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/21787
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="iFollow | SUNDERLAND GAMES"  group-title="SOCCER US/UK",iFollow | SUNDERLAND GAMES
 http://beastiptv.tv:8080/TO81/OWwlIXipop/21782
 
-***Spanish***
+###Spanish###
 
 #EXTINF:-1 tvg-id="AlAan.ae" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/A_%26_E_BLEU_HD_2.png/revision/latest/scale-to-width-down/185?cb=20150308143941" tvg-name="ES: A&E | HD"  group-title="SPANISH",ES: A&E | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/15321
@@ -4890,7 +4890,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/15187
 #EXTINF:-1 tvg-id="PinkClassic.rs" tvg-logo="Logo N/A" tvg-name="LATINO: I CLASSIC HD  (MX)"  group-title="SPANISH",LATINO: I CLASSIC HD  (MX)
 http://beastiptv.tv:8080/TO81/OWwlIXipop/15147
 
-***24/7***
+###24/7###
 
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="24/7 | WWE Wtrestlemania"  group-title="24/7",24/7 | WWE Wtrestlemania
 http://beastiptv.tv:8080/TO81/OWwlIXipop/17076
@@ -6287,7 +6287,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/20512
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="24/7 || Z NATION"  group-title="24/7",24/7 || Z NATION
 http://beastiptv.tv:8080/TO81/OWwlIXipop/20511
 
-***Latino***
+###Latino###
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/94px-A%26E_Network_logo.svg.png" tvg-name="LATINO: A&E | HD"  group-title="LATINO",LATINO: A&E | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23296
@@ -7014,7 +7014,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/23122
 #EXTINF:-1 tvg-id="ClaroSports.co" tvg-logo="Logo N/A" tvg-name="LATINO: WINSPORTS | HD"  group-title="LATINO",LATINO: WINSPORTS | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23121
 
-***Brazil***
+###Brazil###
 
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="BRAZIL: A&E | HD"  group-title="BRAZIL",BRAZIL: A&E | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23120
@@ -7835,7 +7835,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/22708
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="BRAZIL: Zoomoo | SD"  group-title="BRAZIL",BRAZIL: Zoomoo | SD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/22707
 
-***Italy***
+###Italy###
 
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="IT: Alice"  group-title="ITALY",IT: Alice
 http://beastiptv.tv:8080/TO81/OWwlIXipop/22706
@@ -8138,7 +8138,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/22558
 #EXTINF:-1 tvg-id="MoviesOK.in" tvg-logo="Logo N/A" tvg-name="IT: Videolina"  group-title="ITALY",IT: Videolina
 http://beastiptv.tv:8080/TO81/OWwlIXipop/22557
 
-***Portugal***
+###Portugal###
 
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="PT:: 1 1"  group-title="PORTUGAL",PT:: 1 1
 http://beastiptv.tv:8080/TO81/OWwlIXipop/22556
@@ -8649,7 +8649,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/22295
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="Logo N/A" tvg-name="PT:SPORT TV 1 | HD*"  group-title="PORTUGAL",PT:SPORT TV 1 | HD*
 http://beastiptv.tv:8080/TO81/OWwlIXipop/22263
 
-***PPV Movies***
+###PPV Movies###
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/How_to_Train_Your_Dragon_3_poster.png" tvg-name="BEAST-PIX: 01 || HOW TO TRAIN YOUR DRAGON THE HIDDEN WORLD"  group-title="PPV MOVIES",BEAST-PIX: 01 || HOW TO TRAIN YOUR DRAGON THE HIDDEN WORLD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23809
@@ -9050,7 +9050,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/23611
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Zooey_Deschanel_May_2014_%28cropped%29.png" tvg-name="BEAST-PIX: || ZOOEY DESCHANEL"  group-title="PPV MOVIES",BEAST-PIX: || ZOOEY DESCHANEL
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23610
 
-***Bell VIP***
+###Bell VIP###
 
 #EXTINF:-1 tvg-id="AandE.ca" tvg-logo="https://www.dropbox.com/s/kxljq4dwscuyepg/Photo%20Apr%2029%2C%209%2011%2050%20PM.png?dl=1" tvg-name="CA VIP: A&E HD"  group-title="VIP CANADA *NEW*",CA VIP: A&E HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23985
@@ -9229,7 +9229,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/23898
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/150px-The_Weather_Channel_logo_2005-present.svg.png" tvg-name="CA VIP: WEATHER CHANNEL HD"  group-title="VIP CANADA *NEW*",CA VIP: WEATHER CHANNEL HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23897
 
-***Adult***
+###Adult###
 
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="XXX: ADULT 01 | UHD"  group-title="XXX",XXX: ADULT 01 | UHD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/22243
