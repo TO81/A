@@ -53,7 +53,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11406
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11584
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/WNYW5.png/150px-WNYW5.png" tvg-name="FOX 5 (New York) | HD"  group-title="Fav",FOX 5 (New York) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11273
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/200px-PBS_Logo.svg.png" tvg-name="PBS | HD"  group-title="Fav",PBS | HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/200px-PBS_Logo.svg.png" tvg-name="PBS (Boston) | HD"  group-title="Fav",PBS (Boston) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23915
 #EXTINF:-1 tvg-id="NBCKPRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/KPRC-TV_Logo.png/100px-KPRC-TV_Logo.png" tvg-name="NBC 2 (Houston) | HD"  group-title="Fav",NBC 2 (Houston) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11471
@@ -226,7 +226,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11406
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11584
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/WNYW5.png/150px-WNYW5.png" tvg-name="FOX 5 (New York) | HD"  group-title="Fav",FOX 5 (New York) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11273
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/200px-PBS_Logo.svg.png" tvg-name="PBS | HD"  group-title="Fav",PBS | HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/200px-PBS_Logo.svg.png" tvg-name="PBS (Boston) | HD"  group-title="Fav",PBS (Boston) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23915
 #EXTINF:-1 tvg-id="NBCKPRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/KPRC-TV_Logo.png/100px-KPRC-TV_Logo.png" tvg-name="NBC 2 (Houston) | HD"  group-title="Fav",NBC 2 (Houston) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11471
@@ -672,7 +672,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11406
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11584
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/WNYW5.png/150px-WNYW5.png" tvg-name="FOX 5 (New York) | HD"  group-title="Bell",FOX 5 (New York) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11273
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/200px-PBS_Logo.svg.png" tvg-name="PBS | HD"  group-title="Bell",PBS | HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/200px-PBS_Logo.svg.png" tvg-name="PBS (Boston) | HD"  group-title="Bell",PBS (Boston) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23915
 #EXTINF:-1 tvg-id="NBCKPRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/KPRC-TV_Logo.png/100px-KPRC-TV_Logo.png" tvg-name="NBC 2 (Houston) | HD"  group-title="Bell",NBC 2 (Houston) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11471
@@ -845,7 +845,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11406
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11584
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/WNYW5.png/150px-WNYW5.png" tvg-name="FOX 5 (New York) | HD"  group-title="Dish",FOX 5 (New York) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11273
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/200px-PBS_Logo.svg.png" tvg-name="PBS | HD"  group-title="Dish",PBS | HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/200px-PBS_Logo.svg.png" tvg-name="PBS (Boston) | HD"  group-title="Dish",PBS (Boston) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/23915
 #EXTINF:-1 tvg-id="NBCKPRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/KPRC-TV_Logo.png/100px-KPRC-TV_Logo.png" tvg-name="NBC 2 (Houston) | HD"  group-title="Dish",NBC 2 (Houston) | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11471
