@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 tvg-id="ABCWCVB.us" tvg-name="ABC HD" tvg-logo="http://149.56.14.45/Logo/2018/ABC.png" group-title="US/CAN - Entertainment",ABC HD
 http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/114
 #EXTINF:-1 tvg-id="nbcwbts.us" tvg-name="NBC HD" tvg-logo="http://149.56.14.45/Logo/english/NBC-en.png" group-title="US/CAN - Entertainment",NBC HD
@@ -1527,6 +1527,8 @@ http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/10502
 http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/10503
 #EXTINF:-1 tvg-id="" tvg-name="-=  L E B A N O N   =-" tvg-logo="http://149.56.14.45/Logo/AR/cedar.png" group-title="Arabic",-=  L E B A N O N   =-
 http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/6470
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA ARABIC | HD" tvg-logo="https://i.ytimg.com/vi/FzLzeDo_FU8/hqdefault_live.jpg?sqp=CKiPieYF-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB4T3Sh7I9nMWR2d8c0g-8PySSowA" group-title="Arabic",AL JAZEERA ARABIC | HD
+http://aljazeera-ara-HD-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="AR:MTV Lebanon 2" tvg-logo="http://149.56.14.45/Logo/AR/mtv_lb.png" group-title="Arabic",AR:MTV Lebanon 2
 http://epic1.ddns.net:80/GoAndroid./ebPmfe9OSj/494
 #EXTINF:-1 tvg-id="" tvg-name="AR : MTV LEBANON" tvg-logo="http://149.56.14.45/Logo/ARLOGO/MTV.png" group-title="Arabic",AR : MTV LEBANON
