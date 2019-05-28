@@ -8,14 +8,20 @@ http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
 http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" tvg-name="TRACE URBAN | SD"  group-title="Fav",TRACE URBAN | SD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/22332
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV Global | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: Global | HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV Paris | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: Paris | HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV l'Original | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",Fashion TV l'Original | HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV: MIDNIGHT SECRETS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: MIDNIGHT SECRETS | HD
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV: S | UHD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: S | UHD
-https://dev.ftv.com/m3u8/PKNI_UHD_SWIMWEAR_S18E01/media/10/newChunk_chunklist__2160@10mbit_HJUS.m3u8
+http://dev.ftv.com/m3u8/PKNI_UHD_SWIMWEAR_S18E01/media/10/newChunk_chunklist__2160@10mbit_HJUS.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV: T | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: T | HD
-https://dev.ftv.com/m3u8/JKSZ_TEENS_S19E01/chunklist_TEENS_S19E01_1080p@3.5mbit_JYVT.m3u8
+http://dev.ftv.com/m3u8/JKSZ_TEENS_S19E01/chunklist_TEENS_S19E01_1080p@3.5mbit_JYVT.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV: K | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: K | HD
-https://dev.ftv.com/m3u8/PJDT_Fashion_Kids_S19E01/chunklist_Fashion_Kids_S19E01_1080p@3.5mbit_CMSU.m3u8
+http://dev.ftv.com/m3u8/PJDT_Fashion_Kids_S19E01/chunklist_Fashion_Kids_S19E01_1080p@3.5mbit_CMSU.m3u8
 
 ###Favourites: Bell###
 
@@ -544,7 +550,7 @@ http://beastiptv.tv:8080/TO81/OWwlIXipop/11093
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11304
 #EXTINF:-1 tvg-id="EPIXHits.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/EpixHits.png" tvg-name="EPIX HITS | HD"  group-title="Fav",EPIX HITS | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11305
-#EXTINF:-1 tvg-id="EpixDriveIn.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Epix-Drive-In_2400_Color_Dark.png" tvg-name="EPIX DRIVE IN | UHD"  group-title="Fav",EPIX DRIVE IN | UHD
+#EXTINF:-1 tvg-id="EpixDriveIn.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Epix-Drive-In_2400_Color_Dark.png" tvg-name="EPIX DRIVE IN | UHD"  group-title="Fav",EPIX DRIVE IN | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11306
 #EXTINF:-1 tvg-id="MGM.us" tvg-logo="https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/I/m/Mgmlogo_new.jpg" tvg-name="MGM | HD"  group-title="Fav",MGM | HD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/11178
