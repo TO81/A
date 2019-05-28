@@ -1,4 +1,7 @@
 ﻿#EXTM3U
+
+###Favourites: Miscellaneous###
+
 #EXTINF:-1 tvg-id="" tvg-name="CN TOWER: CAMERA 1 | HD" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="Fav",CN TOWER: CAMERA 1 | HD
 http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CN TOWER: CAMERA 2 | HD" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="Fav",CN TOWER: CAMERA 2 | HD
@@ -6,7 +9,7 @@ http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" tvg-name="TRACE URBAN | SD"  group-title="Fav",TRACE URBAN | SD
 http://beastiptv.tv:8080/TO81/OWwlIXipop/22332
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV: MIDNIGHT SECRETS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: MIDNIGHT SECRETS | HD
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV: S | UHD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: S | UHD
 https://dev.ftv.com/m3u8/PKNI_UHD_SWIMWEAR_S18E01/media/10/newChunk_chunklist__2160@10mbit_HJUS.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV: T | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: T | HD
