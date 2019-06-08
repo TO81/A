@@ -568,9 +568,7 @@ http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/510
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/815
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="FUTURE TV [-6 Hours]" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD0Jb8mJYiFmV2lYFFdh64DtmyejaKv3W-zxA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Arabic",FUTURE TV [-6 Hours]
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/15395
-#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV | HD" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="Arabic",MTV | HD
-http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/18685
-#EXTINF:-1 tvg-id="" tvg-name="MTV | HD [-6 Hours]" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="Arabic",MTV | HD
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV | HD [-6 Hours]" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="Arabic",MTV | HD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/15148
 #EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="AL JADEED" tvg-logo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL_400x400.jpg" group-title="Arabic",AL JADEED
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/19280
