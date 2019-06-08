@@ -35,9 +35,9 @@ http://dev.ftv.com/m3u8/PKNI_UHD_SWIMWEAR_S18E01/media/10/newChunk_chunklist__21
 http://dev.ftv.com/m3u8/JKSZ_TEENS_S19E01/chunklist_TEENS_S19E01_1080p@3.5mbit_JYVT.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV: K | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: K | HD
 http://dev.ftv.com/m3u8/PJDT_Fashion_Kids_S19E01/chunklist_Fashion_Kids_S19E01_1080p@3.5mbit_CMSU.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LUXE TV | HD" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/LUXE-logo.png" group-title="Arabic",LUXE TV | HD
+#EXTINF:-1 tvg-id="" tvg-name="LUXE TV | HD" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/LUXE-logo.png" group-title="Fav",LUXE TV | HD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/18758
-#EXTINF:-1 tvg-id="" tvg-name="WOW | UHD" tvg-logo="https://www.wowway.com/assets/img/WOW_Logo_only.png" group-title="WOW | UHD
+#EXTINF:-1 tvg-id="" tvg-name="WOW | UHD" tvg-logo="https://www.wowway.com/assets/img/WOW_Logo_only.png" group-title="Fav",WOW | UHD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/18740
 #EXTINF:-1 tvg-id="" tvg-name="TRACE SPORT STARS | HD" tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/2016/11/logo_sport1.png" group-title="Fav",TRACE SPORT STARS | HD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/18756
