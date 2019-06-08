@@ -58,7 +58,7 @@ http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/2433
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/2442
 #EXTINF:-1 tvg-id="citytv.ca" tvg-logo="http://149.56.14.45/Logo/2018/Citytv.png" tvg-name="CITY TV (Toronto) | HD"  group-title="Fav",CITY TV (Toronto) | HD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/9205
-#EXTINF:-1 tvg-id="" tvg-name="CTV 2 (Toronto) | HD" tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2-490x490.png" group-title="US/CAN - Entertainment",CTV 2 (Toronto) | HD
+#EXTINF:-1 tvg-id="" tvg-name="CTV 2 (Toronto) | HD" tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2-490x490.png" group-title="Fav",CTV 2 (Toronto) | HD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/21
 #EXTINF:-1 tvg-id="chch.ca" tvg-name="CHCH (Toronto) | HD" tvg-logo="http://149.56.14.45/Logo/2018/yrrqvq1478066813.png" group-title="Fav",CHCH (Toronto) | HD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/4226
@@ -66,7 +66,7 @@ http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/4226
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/19326
 #EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/english/CBC-en.png" tvg-name="CBC (Edmonton) | HD"  group-title="Fav",CBC (Edmonton) | HD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/19335
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL (Calgary) | HD" tvg-logo="https://cdn.canadasatellite.ca/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/g/l/global_calgary.jpg" group-title="Canada Local",GLOBAL (Calgary) | HD
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL (Calgary) | HD" tvg-logo="https://cdn.canadasatellite.ca/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/g/l/global_calgary.jpg" group-title="Fav",GLOBAL (Calgary) | HD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/19341
 #EXTINF:-1 tvg-id="CBUT.ca" tvg-logo="http://149.56.14.45/Logo/english/CBC-en.png" tvg-name="CBC (Vancouver) | HD"  group-title="Fav",CBC (Vancouver) | HD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/19337
