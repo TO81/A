@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" tvg-name="TRACE URBAN | HD"  group-title="Fav",TRACE URBAN | HD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/18755
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live USA | HD" tvg-logo="" group-title="Fav",MTV Live USA | HD
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live USA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/MTV_Live.svg/1200px-MTV_Live.svg.png" group-title="Fav",MTV Live USA | HD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/22949
 #EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="MTV BASE UK" tvg-logo="http://149.56.14.45/Logo/2018/xpwqvr1433522069.png" group-title="Fav",MTV BASE UK
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/4810
