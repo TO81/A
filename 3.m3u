@@ -248,9 +248,9 @@ http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/6
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/10396
 #EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="W NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/2018/uwqsqs1473376857.png" group-title="Fav",W NETWORK | HD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/8799
-#EXTINF:-1 tvg-id="bravo.ca" tvg-name="BRAVO CANADA | HD" tvg-logo="http://149.56.14.45/Logo/english/bravo_ca-en.png" group-title="US/CAN - Entertainment",BRAVO CANADA | HD
+#EXTINF:-1 tvg-id="bravo.ca" tvg-name="BRAVO CANADA | HD" tvg-logo="http://149.56.14.45/Logo/english/bravo_ca-en.png" group-title="Fav",BRAVO CANADA | HD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/1057
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="BRAVO USA | HD" tvg-logo="http://149.56.14.45/Logo/english/bravo-en.png" group-title="US/CAN - Entertainment",BRAVO HD | USA
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="BRAVO USA | HD" tvg-logo="http://149.56.14.45/Logo/english/bravo-en.png" group-title="Fav",BRAVO HD | USA
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/103
 #EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="E! CANADA | HD" tvg-logo="http://149.56.14.45/Logo/english/e_global_us_hd-en.png" group-title="Fav",E! CANADA | HD
 http://epic1.ddns.net:80/QMBHNCQU/DFKKNGCT/22
