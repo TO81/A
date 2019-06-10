@@ -575,7 +575,7 @@ http://213.162.202.9:8000/play/a00y/index.m3u8
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18747
 #EXTINF:-1 tvg-id="LBC.lb" tvg-name="LBC SATELLITE" tvg-logo="http://149.56.14.45/Logo/AR/LBCHD_lb.png" group-title="Arabic",LBC SATELLITE
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/511
-#EXTINF:-1 tvg-id="" tvg-name="LBC SATELLITE | HD [-6 Hours]" tvg-logo="http://149.56.14.45/Logo/AR/LBCHD_lb.png" group-title="Arabic",LBC SATELLITE | HD [-6 hours]
+#EXTINF:-1 tvg-id="" tvg-name="LBC SATELLITE [-6 Hours]| HD" tvg-logo="http://149.56.14.45/Logo/AR/LBCHD_lb.png" group-title="Arabic",LBC SATELLITE [-6 Hours] | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15394
 #EXTINF:-1 tvg-id="" tvg-name="FATAFEAT | HD" group-title="Arabic",FATAFEAT | HD
 http://109.236.92.216:9090/Fatafeat/mpegts
