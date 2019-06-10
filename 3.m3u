@@ -568,7 +568,7 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/821
 #EXTINF:-1 tvg-id="" tvg-name="AL MANAR" tvg-logo="https://worldnews-sy.com/wp-content/uploads/2016/12/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B1.png" group-title="Arabic",AL MANAR
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18802
 #EXTINF:-1 tvg-id="" tvg-name="TELE LIBAN" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Arabic",TELE LIBAN
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/871
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/2737.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC | HD" group-title="Arabic",ROTANA CLASSIC | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18747
 #EXTINF:-1 tvg-id="LBC.lb" tvg-name="LBC SATELLITE" tvg-logo="http://149.56.14.45/Logo/AR/LBCHD_lb.png" group-title="Arabic",LBC SATELLITE
@@ -603,14 +603,14 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/880
 http://m.live.net.sa:1935/live/quran/chunklist_w1660804461.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA | HD" group-title="Arabic",AL ARABIYA | HD
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_b4500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS ARABIYA | HD" tvg-logo="https://www.skynewsarabia.com/static/web-rev/img/app-banner/sna_logo_192_20_Pad.png" group-title="Arabic",SKY NEWS ARABIYA | HD
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA AL HADATH | HD" group-title="Arabic",AL ARABIYA AL HADATH | HD
 http://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b4500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA MUBASHER" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBmuO8RqkEEXW5u0YZivxgpvqzu5-zjRol29w=s900-mo-c-c0xffffffff-rj-k-no" group-title="Arabic",AL JAZEERA MUBASHER
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/appleman.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA DOCUMENTARY" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBmuO8RqkEEXW5u0YZivxgpvqzu5-zjRol29w=s900-mo-c-c0xffffffff-rj-k-no" group-title="Arabic",AL JAZEERA DOCUMENTARY
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS ARABIC" tvg-logo="https://www.skynewsarabia.com/static/web-rev/img/app-banner/sna_logo_192_20_Pad.png" group-title="Arabic",SKY NEWS ARABIC
-https://stream.skynewsarabia.com/hls/sna_480.m3u8
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA AFLAM" group-title="Arabic",ROTANA AFLAM
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18749
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA | HD" group-title="Arabic",ROTANA CINEMA | HD
@@ -623,8 +623,8 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18746
 http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARABICA MUSIC" group-title="Arabic",ARABICA MUSIC
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18801
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO | HD" tvg-logo="" group-title="Arabic",NATGEO | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18804
+#EXTINF:-1 tvg-id="" tvg-name="TELE LIBAN" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Arabic",TELE LIBAN
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/871
 
 
 ###AUSTRALIA###
@@ -713,10 +713,6 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/126
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/127
 #EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="SPORTSNET WORLD | HD" tvg-logo="http://149.56.14.45//Logo/sports/SportsnetWorldHD.png" group-title="Sports",SPORTSNET WORLD | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1106
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1 | HD" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" group-title="Sports",FOX SPORTS 1 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/35
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2 | HD" tvg-logo="http://149.56.14.45/Logo/2018/uxxtrt1433944508.png" group-title="Sports",FOX SPORTS 2 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/34
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN | HD" tvg-logo="http://149.56.14.45/Logo/2018/xuprrx1472105225.png" group-title="Sports",ESPN | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/89
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 | HD" tvg-logo="http://149.56.14.45/Logo/2018/xryqyp1472105342.png" group-title="Sports",ESPN 2 | HD
@@ -725,6 +721,10 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/87
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/88
 #EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPN U | HD" tvg-logo="http://149.56.14.45/Logo/2018/wuqypq1434501650.png" group-title="Sports",ESPN U | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1231
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1 | HD" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" group-title="Sports",FOX SPORTS 1 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/35
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2 | HD" tvg-logo="http://149.56.14.45/Logo/2018/uxxtrt1433944508.png" group-title="Sports",FOX SPORTS 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/34
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 (West) | HD" tvg-logo="" group-title="Sports",FOX SPORTS 1 (West) | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19070
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (West) | HD" tvg-logo="" group-title="Sports",FOX SPORTS 2 (West) | HD
