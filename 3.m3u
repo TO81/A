@@ -14,15 +14,21 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4808
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4804
 #EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV HITS UK" tvg-logo="http://149.56.14.45/Logo/2018/vxrxrt1433522140.png" group-title="Fav",MTV HITS UK
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4807
-#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTV MUSIC UK" tvg-logo="http://149.56.14.45/Logo/2018/twupws1433789396.png" group-title="Fav",MTV MUSIC UK
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4806
 #EXTINF:-1 tvg-id="BETjams.us" tvg-name="BET JAMS | HD" tvg-logo="" group-title="Fav",BET JAMS | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22958
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV: MS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: MS | HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV 1: L'ORIGINAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",Fashion TV 1: L'ORIGINAL | HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV 3: PARIS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV 3: PARIS | HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV 9: GLOBAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV 9: GLOBAL | HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID FASHION | HD" tvg-logo="http://acrotv.com/images/broad/20181126195123531.jpg" group-title="Fav",ID FASHION | HD
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LUXE TV | HD" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/LUXE-logo.png" group-title="Fav",LUXE TV | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18758
-#EXTINF:-1 tvg-id="" tvg-name="WOW | UHD" tvg-logo="https://www.wowway.com/assets/img/WOW_Logo_only.png" group-title="Fav",WOW | UHD
+#EXTINF:-1 tvg-id="" tvg-name="INSIGHT | HD" tvg-logo="https://www.ses.com/sites/default/files/styles/card/public/2017-10/INsight%20TV.png" group-title="Fav",INSIGHT | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18740
 #EXTINF:-1 tvg-id="" tvg-name="TRACE SPORT STARS | HD" tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/2016/11/logo_sport1.png" group-title="Fav",TRACE SPORT STARS | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18756
