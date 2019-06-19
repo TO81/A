@@ -18,12 +18,14 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4807
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22958
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV: MS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: MS | HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV 1: L'ORIGINAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",Fashion TV 1: L'ORIGINAL | HD
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV 1: L'ORIGINAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV 1: L'ORIGINAL | HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV 3: PARIS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV 3: PARIS | HD
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV 3: PARIS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV 3: PARIS | HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV 9: GLOBAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV 9: GLOBAL | HD
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV 9: GLOBAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV 9: GLOBAL | HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL FASHION CHANNEL | HD" tvg-logo="https://i.imgur.com/qcrsf49.png" group-title="Fav",GLOBAL FASHION CHANNEL | HD
+https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID FASHION | HD" tvg-logo="http://acrotv.com/images/broad/20181126195123531.jpg" group-title="Fav",ID FASHION | HD
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LUXE TV | HD" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/LUXE-logo.png" group-title="Fav",LUXE TV | HD
@@ -742,6 +744,35 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 http://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8
 
 
+#MUSIC PASS###
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" tvg-name="TRACE URBAN | HD"  group-title="Fav",TRACE URBAN | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18755
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="UK : MTV MUSIC UK" tvg-logo="http://149.56.14.45/Logo/2018/twupws1433789396.png" group-title="Music Pass",UK : MTV MUSIC UK
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4806
+#EXTINF:-1 tvg-id="" tvg-name="TRACE MZIKI (Kenya) | HD" tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="Music Pass",TRACE MZIKI (Kenya) | HD
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICA (South Africa) | HD" tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/sites/23/2016/11/logo_africa-1.png" group-title="Music Pass",TRACE AFRICA (South Africa) | HD
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE KITOKO (Congo) | HD" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="Music Pass",TRACE KITOKO (Congo) | HD
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA (Mozambique) | HD" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="Music Pass",TRACE TOCA (Mozambique) | HD
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE NAIJA (Nigeria) | HD" tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png" group-title="Music Pass",TRACE NAIJA (Nigeria) | HD
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="UK : MTV BASE" tvg-logo="http://149.56.14.45/Logo/2018/xpwqvr1433522069.png" group-title="Music Pass",UK : MTV BASE
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4810
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="UK : MTV HITS" tvg-logo="http://149.56.14.45/Logo/2018/vxrxrt1433522140.png" group-title="Music Pass",UK : MTV HITS
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4807
+#EXTINF:-1 tvg-id="MTV+1" tvg-name="UK : MTV ONE" tvg-logo="" group-title="Music Pass",UK : MTV ONE
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4805
+#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="UK : MTV DANCE" tvg-logo="http://149.56.14.45/Logo/2018/xusuwy1433522237.png" group-title="Music Pass",UK : MTV DANCE
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4808
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="UK : MTV ROCKS" tvg-logo="http://149.56.14.45/Logo/2018/qyuuus1433522058.png" group-title="Music Pass",UK : MTV ROCKS
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4804
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="UK : MTV CLASSIC" tvg-logo="http://149.56.14.45/Logo/2018/rsxrvr1433522224.png" group-title="Music Pass",UK : MTV CLASSIC
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4809
+
+
 ###SPORTS###
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1 | HD" tvg-logo="http://149.56.14.45/Logo/sports/TSNHD.png" group-title="Sports",TSN 1 | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/124
@@ -1383,30 +1414,6 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4811
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4812
 #EXTINF:-1 tvg-id="TCM.uk" tvg-name="UK HD : TCM HD" tvg-logo="http://149.56.14.45/Logo/2018/ququus1480365662.png" group-title="UK - Entertainment",UK HD : TCM HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4595
-#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="UK : MTV MUSIC UK" tvg-logo="http://149.56.14.45/Logo/2018/twupws1433789396.png" group-title="Music Pass",UK : MTV MUSIC UK
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4806
-#EXTINF:-1 tvg-id="" tvg-name="TRACE MZIKI (Kenya) | HD" tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="Music Pass",TRACE MZIKI (Kenya) | HD
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICA (South Africa) | HD" tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/sites/23/2016/11/logo_africa-1.png" group-title="Music Pass",TRACE AFRICA (South Africa) | HD
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE KITOKO (Congo) | HD" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="Music Pass",TRACE KITOKO (Congo) | HD
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA (Mozambique) | HD" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="Music Pass",TRACE TOCA (Mozambique) | HD
-http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE NAIJA (Nigeria) | HD" tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png" group-title="Music Pass",TRACE NAIJA (Nigeria) | HD
-http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="UK : MTV BASE" tvg-logo="http://149.56.14.45/Logo/2018/xpwqvr1433522069.png" group-title="Music Pass",UK : MTV BASE
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4810
-#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="UK : MTV HITS" tvg-logo="http://149.56.14.45/Logo/2018/vxrxrt1433522140.png" group-title="Music Pass",UK : MTV HITS
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4807
-#EXTINF:-1 tvg-id="MTV+1" tvg-name="UK : MTV ONE" tvg-logo="" group-title="Music Pass",UK : MTV ONE
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4805
-#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="UK : MTV DANCE" tvg-logo="http://149.56.14.45/Logo/2018/xusuwy1433522237.png" group-title="Music Pass",UK : MTV DANCE
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4808
-#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="UK : MTV ROCKS" tvg-logo="http://149.56.14.45/Logo/2018/qyuuus1433522058.png" group-title="Music Pass",UK : MTV ROCKS
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4804
-#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="UK : MTV CLASSIC" tvg-logo="http://149.56.14.45/Logo/2018/rsxrvr1433522224.png" group-title="Music Pass",UK : MTV CLASSIC
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4809
 #EXTINF:-1 tvg-id="VH1.uk" tvg-name="UK : VH1" tvg-logo="http://149.56.14.45/Logo/2018/xupvyu1433781173.png" group-title="UK - Entertainment",UK : VH1
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4711
 #EXTINF:-1 tvg-id="4Music.uk" tvg-name="UK : 4 MUSIC" tvg-logo="http://149.56.14.45/Logo/2018/xssupr1433779372.png" group-title="UK - Entertainment",UK : 4 MUSIC
