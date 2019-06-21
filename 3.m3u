@@ -1,558 +1,831 @@
 ﻿#EXTM3U
 
-###Favourites: Miscellaneous###
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" tvg-name="TRACE URBAN | HD"  group-title="Fav",TRACE URBAN | HD
+###MUSIC###
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" tvg-name="TRACE URBAN | HD"  group-title="Music",TRACE URBAN | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18755
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live USA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/MTV_Live.svg/1200px-MTV_Live.svg.png" group-title="Fav",MTV Live USA | HD
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live USA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/MTV_Live.svg/1200px-MTV_Live.svg.png" group-title="Music",MTV Live USA | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22949
-#EXTINF:-1 tvg-id="BETjams.us" tvg-name="BET JAMS | HD" tvg-logo="" group-title="Fav",BET JAMS | HD
+#EXTINF:-1 tvg-id="BETjams.us" tvg-name="BET JAMS | HD" tvg-logo="https://sc.dish.com/shared/images/station-logos/BETJM.png" group-title="Music",BET JAMS | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22958
-#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="MTV BASE UK" tvg-logo="http://149.56.14.45/Logo/2018/xpwqvr1433522069.png" group-title="Fav",MTV BASE UK
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="MTV BASE UK" tvg-logo="http://149.56.14.45/Logo/2018/xpwqvr1433522069.png" group-title="Music",MTV BASE UK
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4810
-#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="MTV DANCE UK" tvg-logo="http://149.56.14.45/Logo/2018/xusuwy1433522237.png" group-title="Fav",MTV DANCE UK
+#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="MTV DANCE UK" tvg-logo="http://149.56.14.45/Logo/2018/xusuwy1433522237.png" group-title="Music",MTV DANCE UK
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4808
-#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="MTV ROCKS UK" tvg-logo="http://149.56.14.45/Logo/2018/qyuuus1433522058.png" group-title="Fav",MTV ROCKS UK
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="MTV ROCKS UK" tvg-logo="http://149.56.14.45/Logo/2018/qyuuus1433522058.png" group-title="Music",MTV ROCKS UK
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4804
-#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV HITS UK" tvg-logo="http://149.56.14.45/Logo/2018/vxrxrt1433522140.png" group-title="Fav",MTV HITS UK
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV HITS UK" tvg-logo="http://149.56.14.45/Logo/2018/vxrxrt1433522140.png" group-title="Music",MTV HITS UK
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4807
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV: MS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: MS | HD
+#EXTINF:-1 tvg-id="" tvg-name="TRACE MZIKI (Kenya) | HD" tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="Music",TRACE MZIKI (Kenya) | HD
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICA (South Africa) | HD" tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/sites/23/2016/11/logo_africa-1.png" group-title="Music",TRACE AFRICA (South Africa) | HD
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE KITOKO (Congo) | HD" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="Music",TRACE KITOKO (Congo) | HD
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA (Mozambique) | HD" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="Music",TRACE TOCA (Mozambique) | HD
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE NAIJA (Nigeria) | HD" tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png" group-title="Music",TRACE NAIJA (Nigeria) | HD
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+
+
+###FASHION###
+
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV: MS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fashion",FASHION TV: MS | HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV 1: L'ORIGINAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV 1: L'ORIGINAL | HD
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV 1: L'ORIGINAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fashion",FASHION TV 1: L'ORIGINAL | HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV 3: PARIS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV 3: PARIS | HD
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV 3: PARIS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fashion",FASHION TV 3: PARIS | HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV 9: GLOBAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV 9: GLOBAL | HD
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV 9: GLOBAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fashion",FASHION TV 9: GLOBAL | HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL FASHION CHANNEL | HD" tvg-logo="https://i.imgur.com/qcrsf49.png" group-title="Fav",GLOBAL FASHION CHANNEL | HD
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL FASHION CHANNEL | HD" tvg-logo="https://i.imgur.com/qcrsf49.png" group-title="Fashion",GLOBAL FASHION CHANNEL | HD
 https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID FASHION | HD" tvg-logo="http://acrotv.com/images/broad/20181126195123531.jpg" group-title="Fav",ID FASHION | HD
+#EXTINF:-1 tvg-id="" tvg-name="ID FASHION | HD" tvg-logo="http://acrotv.com/images/broad/20181126195123531.jpg" group-title="Fashion",ID FASHION | HD
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LUXE TV | HD" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/LUXE-logo.png" group-title="Fav",LUXE TV | HD
+#EXTINF:-1 tvg-id="" tvg-name="LUXE TV | HD" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/LUXE-logo.png" group-title="Fashion",LUXE TV | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18758
-#EXTINF:-1 tvg-id="" tvg-name="INSIGHT | HD" tvg-logo="https://www.ses.com/sites/default/files/styles/card/public/2017-10/INsight%20TV.png" group-title="Fav",INSIGHT | HD
+#EXTINF:-1 tvg-id="" tvg-name="INSIGHT | HD" tvg-logo="https://www.ses.com/sites/default/files/styles/card/public/2017-10/INsight%20TV.png" group-title="Fashion",INSIGHT | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18740
-#EXTINF:-1 tvg-id="" tvg-name="TRACE SPORT STARS | HD" tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/2016/11/logo_sport1.png" group-title="Fav",TRACE SPORT STARS | HD
+#EXTINF:-1 tvg-id="" tvg-name="TRACE SPORT STARS | HD" tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/2016/11/logo_sport1.png" group-title="Fashion",TRACE SPORT STARS | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18756
 
-###Favourites: Bell###
 
-#EXTINF:-1 tvg-id="cbcatlantic.ca" tvg-name="CBC (Halifax) | HD" tvg-logo="http://149.56.14.45/Logo/english/CBC-en.png" group-title="Fav",CBC (Halifax) |  HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/28
-#EXTINF:-1 tvg-id="ctvatlantic.ca" tvg-name="CTV (Halifax) | HD" tvg-logo="http://149.56.14.45/Logo/english/CTV_Atlantic-en.png" group-title="Fav",CTV (Halifax) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/26
-#EXTINF:-1 tvg-id="GlobalHalifaxCIHF.ca" tvg-name="GLOBAL (Halifax) | HD" tvg-logo="http://149.56.14.45/Logo/english/Global-en.png" group-title="Fav",GLOBAL (Halifax) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10383
-#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-logo="http://149.56.14.45/Logo/english/CBC-en.png" tvg-name="CBC (Toronto) | HD"  group-title="Fav",CBC (Toronto) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19328
-#EXTINF:-1 tvg-id="CTV.ca" tvg-logo="http://149.56.14.45/Logo/2018/y6u5bh1489435042.png" tvg-name="CTV (Toronto) | HD"  group-title="Fav",CTV (Toronto) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2433
-#EXTINF:-1 tvg-id="global.ca" tvg-logo="http://149.56.14.45/Logo/2018/y6u5bh1489435042.png" tvg-name="GLOBAL (Toronto) | HD"  group-title="Fav",GLOBAL (Toronto) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2442
-#EXTINF:-1 tvg-id="citytv.ca" tvg-logo="http://149.56.14.45/Logo/2018/Citytv.png" tvg-name="CITY TV (Toronto) | HD"  group-title="Fav",CITY TV (Toronto) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9205
-#EXTINF:-1 tvg-id="" tvg-name="CTV 2 (Toronto) | HD" tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2-490x490.png" group-title="Fav",CTV 2 (Toronto) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/21
-#EXTINF:-1 tvg-id="chch.ca" tvg-name="CHCH (Toronto) | HD" tvg-logo="http://149.56.14.45/Logo/2018/yrrqvq1478066813.png" group-title="Fav",CHCH (Toronto) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4226
-#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/english/CBC-en.png" tvg-name="CBC (Winnipeg) | HD"  group-title="Fav",CBC (Winnipeg) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19326
-#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/english/CBC-en.png" tvg-name="CBC (Edmonton) | HD"  group-title="Fav",CBC (Edmonton) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19335
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL (Calgary) | HD" tvg-logo="https://cdn.canadasatellite.ca/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/g/l/global_calgary.jpg" group-title="Fav",GLOBAL (Calgary) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19341
-#EXTINF:-1 tvg-id="CBUT.ca" tvg-logo="http://149.56.14.45/Logo/english/CBC-en.png" tvg-name="CBC (Vancouver) | HD"  group-title="Fav",CBC (Vancouver) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19337
-#EXTINF:-1 tvg-id="globaledmonton.ca" tvg-logo="http://149.56.14.45/Logo/english/Global-en.png" tvg-name="GLOBAL (BC) | HD"  group-title="Fav",GLOBAL (BC) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1067
-#EXTINF:-1 tvg-id="nbcwbts.us" tvg-logo="http://149.56.14.45/Logo/2018/NBC.png" tvg-name="NBC 10 (Boston) | HD"  group-title="Fav",NBC 10 (Boston) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10459
-#EXTINF:-1 tvg-id="ABCWABC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Wabc_2013.png/175px-Wabc_2013.png" tvg-name="ABC 7 (New York) | HD"  group-title="Fav",ABC 7 (New York) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18418
-#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-logo="http://149.56.14.45/Logo/2018/CBS_.png" tvg-name="CBS 4 (Boston) | HD"  group-title="Fav",CBS 4 (Boston) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/146
-#EXTINF:-1 tvg-id="FOX25WFXT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/WNYW5.png/150px-WNYW5.png" tvg-name="FOX 25 (Boston) | HD"  group-title="Fav",FOX 25 (Boston) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/21
-#EXTINF:-1 tvg-id="cw.us" tvg-name="CW 11 (New York) | HD" tvg-logo="http://149.56.14.45/Logo/english/CW-en.png" group-title="Fav",CW 11 (New York) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/141
-#EXTINF:-1 tvg-id="pbswetk.us" tvg-logo="http://149.56.14.45/Logo/english/pbs-en.png" tvg-name="PBS 2 (Boston) | HD"  group-title="Fav",PBS 2 (Boston) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/57
-#EXTINF:-1 tvg-id="NBC6WTVJ.us" tvg-name="NBC 6 (Miami) | HD" tvg-logo="https://media.nbcmiami.com/images/1200*675/blue+nbc+6+logo.jpg" group-title="Fav",NBC 6 (Miami) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18484
-#EXTINF:-1 tvg-id="ABC10WPLG.us" tvg-name="ABC 10 (Miami) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" group-title="Fav",ABC 10 (Miami) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18421
-#EXTINF:-1 tvg-id="NBCKPRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/KPRC-TV_Logo.png/100px-KPRC-TV_Logo.png" tvg-name="NBC 2 (Houston) | HD"  group-title="Fav",NBC 2 (Houston) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18477
-#EXTINF:-1 tvg-id="ABC13KTRKTV.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/ABC_13_KTRK_Houston_2015_logo.png" tvg-name="ABC 13 (Houston) | HD"  group-title="Fav",ABC 13 (Houston) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18402
-#EXTINF:-1 tvg-id="CBSKHOU.us" tvg-logo="http://149.56.14.45/Logo/2018/CBS_.png" tvg-name="CBS 11 (Dallas) | HD"  group-title="Fav",CBS 11 (Dallas) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18470
-#EXTINF:-1 tvg-id="FOXKDFW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/KRIV.png/125px-KRIV.png" tvg-name="FOX 4 (Dallas) | HD"  group-title="Fav",FOX 4 (Dallas) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18442
-#EXTINF:-1 tvg-id="FOXKRIV.us" tvg-name="FOX 7 (Austin) | HD" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/4d/8e/94/4d8e9427-6e28-6a0c-d70c-c4304523f8be/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg" group-title="Fav",FOX 7 (Austin) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18438
-#EXTINF:-1 tvg-id="NBC4KNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/KNBC_4_logo.png/180px-KNBC_4_logo.png" tvg-name="NBC 4 (Los Angeles) | HD"  group-title="Fav",NBC 4 (Los Angeles) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18481
-#EXTINF:-1 tvg-id="ABC7KABCTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/KABC-TV_Logo.png/170px-KABC-TV_Logo.png" tvg-name="ABC 7 (Los Angeles) | HD"  group-title="Fav",ABC 7 (Los Angeles) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18399
-#EXTINF:-1 tvg-id="CBSKCBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" tvg-name="CBS 2 (Los Angeles) | HD"  group-title="Fav",CBS 2 (Los Angeles) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18474
-#EXTINF:-1 tvg-id="Fox11KTTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/KTTV_Fox_11_logo.png/125px-KTTV_Fox_11_logo.png" tvg-name="FOX 11 (Los Angeles) | HD"  group-title="Fav",FOX 11 (Los Angeles) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18449
-#EXTINF:-1 tvg-id="peachtree.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Peachtree.png/200px-Peachtree.png" tvg-name="PEACH TREE | HD"  group-title="Fav",PEACH TREE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1066
-#EXTINF:-1 tvg-id="hbo.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" tvg-name="HBO | HD"  group-title="Fav",HBO | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/23
-#EXTINF:-1 tvg-id="hbo2.ca" tvg-logo="https://www.dropbox.com/s/jfm6l9sfosmsjto/HBO2.jpg?dl=1" tvg-name="HBO 2 | HD"  group-title="Fav",HBO 2 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/17
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSNHD.png" tvg-name="TSN 1 | HD"  group-title="Fav",TSN 1 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/124
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN2HD.png" tvg-name="TSN 2 | HD"  group-title="Fav",TSN 2 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/123
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN3HD.png" tvg-name="TSN 3 | HD"  group-title="Fav",TSN 3 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/122
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN4HD.png" tvg-name="TSN 4 | HD"  group-title="Fav",TSN 4 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/121
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN5HD.png" tvg-name="TSN 5 | HD"  group-title="Fav",TSN 5 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/120
-#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetOntarioHD.png" tvg-name="SPORTSNET ONTARIO | HD"  group-title="Fav",SPORTSNET ONTARIO | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/128
-#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetEastHD.png" tvg-name="SPORTSNET EAST | HD"  group-title="Fav",SPORTSNET EAST | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/130
-#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetPacificHD.png" tvg-name="SPORTSNET PACIFIC | HD"  group-title="Fav",SPORTSNET PACIFIC | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/127
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetWestHD.png" tvg-name="SPORTSNET WEST | HD"  group-title="Fav",SPORTSNET WEST | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/126
-#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetoneHD.png" tvg-name="SPORTSNET ONE | HD"  group-title="Fav",SPORTSNET ONE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/129
-#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-logo="http://149.56.14.45/Logo/sports/Sportsnet360HD.png" tvg-name="SPORTSNET 360 | HD"  group-title="Fav",SPORTSNET 360 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11853
-#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-logo="http://149.56.14.45//Logo/sports/SportsnetWorldHD.png" tvg-name="SPORTSNET WORLD | HD"  group-title="Fav",SPORTSNET WORLD | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1106
-#EXTINF:-1 tvg-id="beINSport.ca" tvg-logo="http://149.56.14.45/Logo/sports/BeinSportsUSAHD.png" tvg-name="BEIN SPORTS CANADA | HD"  group-title="Fav",BEIN SPORTS CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10444
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-logo="http://149.56.14.45/Logo/sports/NBATV.png" tvg-name="NBA TV CANADA | HD"  group-title="Fav",NBA TV CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9
-#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-logo="http://149.56.14.45/Logo/nhl/NHL-Network.png" tvg-name="NHL NETWORK | HD"  group-title="Fav",NHL NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/32
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/mlb-network.png" tvg-name="MLB NETWORK | HD"  group-title="Fav",MLB NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/74
-#EXTINF:-1 tvg-id="" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/mlbsz.png" tvg-name="MLB STRIKE ZONE | HD"  group-title="Fav",MLB STRIKE ZONE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18650
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/yptxsp1478034120.png" tvg-name="NFL NETWORK | HD"  group-title="Fav",NFL NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/62
-#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/swppwq1434505673.png" tvg-name="NFL REDZONE | HD"  group-title="Fav",NFL REDZONE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4401
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="http://149.56.14.45/Logo/sports/thefightnetwork.png" tvg-name="FIGHT NETWORK | HD"  group-title="Fav",FIGHT NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10443
-#EXTINF:-1 tvg-id="FightBox.UK" tvg-logo="http://149.56.14.45/Logo/2018/uypswt1444749022.png" tvg-name="FIGHT BOK UK | HD"  group-title="Fav",FIGHT BOX UK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9300
-#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/uypswt1444749022.png" tvg-name="FIGHT BOK ARABIC | HD"  group-title="Fav",FIGHT BOX ARABIC | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18759
-#EXTINF:-1 tvg-id="UFCTV.us" tvg-logo="http://media2.giga.de/2016/05/ufc-fight-pass-rcm992x0.jpg" tvg-name="UFC FIGHT PASS | HD"  group-title="Fav",UFC FIGHT PASS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19281
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.goleopards.com/images/2007/11/8/Dish_network_ppv_logo.gif" tvg-name="PPV SPORTS EVENTS | HD"  group-title="Fav",PPV SPORTS EVENTS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10502
-#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-_Blox-8k_Sc/VlyRV6Tw_eI/AAAAAAAAAi0/pNCQHtyGgqg/s1600/tv-tv-channels-sports-channels-a16-1.jpg" tvg-name="SKY SPORTS BOX OFFICE EVENTS | HD"  group-title="Fav",SKY SPORTS BOX OFFICE EVENTS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10503
-#EXTINF:-1 tvg-id="WWE.us" tvg-logo="http://149.56.14.45/Logo/sports/wwe.png" tvg-name="WWE | HD"  group-title="Fav",WWE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2
-#EXTINF:-1 tvg-id="cbcnews.ca" tvg-logo="http://149.56.14.45/Logo/english/cbc_news.jpg" tvg-name="CBC NEWS NETWORK | HD"  group-title="Fav",CBC NEWS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/147
-#EXTINF:-1 tvg-id="ctvnews.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/CTV_News_Channel_2011.svg/1200px-CTV_News_Channel_2011.svg.png" tvg-name="CTV NEWS CHANNEL | HD"  group-title="Fav",CTV NEWS CHANNEL | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1089
-#EXTINF:-1 tvg-id="cp24.ca" tvg-logo="http://149.56.14.45/Logo/english/509_CP24-en.png" tvg-name="CP 24 | HD"  group-title="Fav",CP 24 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/144
-#EXTINF:-1 tvg-id="businessnews.ca" tvg-logo="http://149.56.14.45/Logo/2018/txypxp1478066803.png" tvg-name="BNN | HD"  group-title="Fav",BNN | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1072
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="http://149.56.14.45/Logo/2018/yystpx1433945387.png" tvg-name="AL JAZEERA ENGLISH"  group-title="Fav",AL JAZEERA ENGLISH
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4907
-#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="http://149.56.14.45/Logo/2018/upqurr1480590611.png" tvg-name="FRANCE 24 ENGLISH | HD"  group-title="Fav",FRANCE 24 ENGLISH | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4835
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-logo="http://149.56.14.45/Logo/2018/BBCWORLD.png" tvg-name="BBC WORLD NEWS | HD"  group-title="Fav",BBC WORLD NEWS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4894
-#EXTINF:-1 tvg-id="cnn.us" tvg-logo="http://149.56.14.45/Logo/english/CNN_HD-en.png" tvg-name="CNN | HD"  group-title="Fav",CNN | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/27
-#EXTINF:-1 tvg-id="hln.us" tvg-logo="http://149.56.14.45/Logo/english/502_HLN-en.png" tvg-name="HLN | HD"  group-title="Fav",HLN | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/27
-#EXTINF:-1 tvg-id="msnbc.us" tvg-logo="http://149.56.14.45/Logo/english/msnbc-en.png" tvg-name="MSNBC | HD"  group-title="Fav",MSNBC | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1
-#EXTINF:-1 tvg-id="foxnews.us" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" tvg-name="FOX NEWS | HD"  group-title="Fav",FOX NEWS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/84
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" tvg-name="BBC EARTH CANADA | HD"  group-title="Fav",BBC EARTH CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/14697
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" tvg-name="BBC EARTH POLAND | HD"  group-title="Fav",BBC EARTH POLAND | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19669
-#EXTINF:-1 tvg-id="" tvg-logo="http://my-hd.tv/shared/img/channels/Planet-earth.png" tvg-name="PLANET EARTH ARABIC | HD"  group-title="Fav",PLANET EARTH ARABIC | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18750
-#EXTINF:-1 tvg-id="natgeowild.ca" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD CANADA | HD"  group-title="Fav",NAT GEO WILD CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD USA| HD"  group-title="Fav",NAT GEO WILD USA| HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10518
-#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD UK | HD"  group-title="Fav",NAT GEO WILD UK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9423
-#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD ARABIC | HD"  group-title="Fav",NAT GEO WILD ARABIC | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18751
-#EXTINF:-1 tvg-id="NatGeo.mx" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD SPANISH | HD"  group-title="Fav",NAT GEO WILD SPANISH | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9947
-#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD PORTUGUESE | HD"  group-title="Fav",NAT GEO WILD PORTUGUESE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18973
-#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD POLISH | HD"  group-title="Fav",NAT GEO WILD POLISH | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19608
-#EXTINF:-1 tvg-id="" tvg-logo=https://banner2.kisspng.com/20180409/jte/kisspng-nat-geo-people-national-geographic-television-chan-eslimi-5acbd9458a35c9.8843066715233088695661.jpg" tvg-name="NAT GEO PEOPLE POLISH | HD"  group-title="Fav",NAT GEO PEOPLE POLISH | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18752
-#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/discovery.png" tvg-name="DISCOVERY SCIENCE USA| HD"  group-title="Fav",DISCOVERY SCIENCE USA| HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/25
-#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/discovery.png" tvg-name="DISCOVERY SCIENCE UK | HD"  group-title="Fav",DISCOVERY SCIENCE UK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4857
-#EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/velocity.png" tvg-name="MOTORTREND USA| HD"  group-title="Fav",MOTORTREND USA| HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/24
-#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-logo="http://149.56.14.45/Logo/2018/6mn8pk1515367247.png" tvg-name="MOTORS TV UK | HD" group-title="Fav",MOTORS TV UK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4813
-#EXTINF:-1 tvg-id="" tvg-logo="http://gobx.com/wp-content/uploads/2017/08/134-Motorvision-HD.png" tvg-name="MOTORVISION ARABIC | HD" group-title="Fav",MOTORVISION ARABIC | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18762
-#EXTINF:-1 tvg-id="foodnetwork.ca" tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/04/logo_tv_foodnetwork_apr2017.png" tvg-name="FOOD NETWORK CANADA | HD"  group-title="Fav",FOOD NETWORK CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1042
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/FOODNETWORK.png" tvg-name="FOOD NETWORK USA| HD" group-title="Fav",FOOD NETWORK USA| HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11552
-#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="FOOD NETWORK UK | HD" tvg-logo="http://149.56.14.45/Logo/2018/wrrrvu1433970560.png" group-title="Fav",FOOD NETWORK UK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4839
-#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="COOKING CHANNEL USA| HD" tvg-logo="http://149.56.14.45/Logo/2018/893p2e1494156845.png" group-title="Fav",COOKING CHANNEL USA| HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12090
-#EXTINF:-1 tvg-id="" tvg-name="SBS FOOD AUSTRALIA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/SBS_Food_logo.svg/1200px-SBS_Food_logo.svg.png" group-title="Fav",SBS FOOD AUSTRALIA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15126
-#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="GOOD FOOD UK | HD" tvg-logo="http://149.56.14.45/Logo/2018/truwtt1433964123.png" group-title="Fav",GOOD FOOD UK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4831
-#EXTINF:-1 tvg-id="hgtv.ca" tvg-name="HGTV CANADA | HD" tvg-logo="http://149.56.14.45/Logo/english/hgtv-en.png" group-title="Fav",HGTV CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/16
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV USA | HD" tvg-logo="http://149.56.14.45/Logo/2018/HGTVHD.png" group-title="Fav",HGTV USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1312
-#EXTINF:-1 tvg-id="doityourselfnetwork.us" tvg-name="DIY NETWORK USA| HD" tvg-logo="http://149.56.14.45/Logo/2018/DIYNETWORK.png" group-title="Fav",DIY NETWORK USA| HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1091
-#EXTINF:-1 tvg-id="slice.ca" tvg-name="SLICE TV | HD" tvg-logo="http://149.56.14.45/Logo/english/slice-en.png" group-title="Fav",SLICE TV | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/5
-#EXTINF:-1 tvg-id="lifetimetv.ca" tvg-name="LIFETIME | HD" tvg-logo="http://149.56.14.45/Logo/english/lifetime-en.png" group-title="Fav",LIFETIME CANADA| HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="LIFETIME MOVIES USA| HD" tvg-logo="http://149.56.14.45/Logo/2018/vvtpys1433779816.png" group-title="Fav",LIFETIME MOVIES USA| HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11555
-#EXTINF:-1 tvg-id="Toprahwinfreynetwork.ca" tvg-name="OWN CANADA | HD" tvg-logo="http://149.56.14.45/Logo/english/OWN-en.jpg" group-title="Fav",OWN CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/6
-#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="OWN USA | HD" tvg-logo="http://149.56.14.45/Logo/english/OWN-en.jpg" group-title="Fav",OWN USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10396
-#EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="W NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/2018/uwqsqs1473376857.png" group-title="Fav",W NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8799
-#EXTINF:-1 tvg-id="bravo.ca" tvg-name="BRAVO CANADA | HD" tvg-logo="http://149.56.14.45/Logo/english/bravo_ca-en.png" group-title="Fav",BRAVO CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1057
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="BRAVO USA | HD" tvg-logo="http://149.56.14.45/Logo/english/bravo-en.png" group-title="Fav",BRAVO HD | USA
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/103
-#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="E! CANADA | HD" tvg-logo="http://149.56.14.45/Logo/english/e_global_us_hd-en.png" group-title="Fav",E! CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22
-#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! USA| HD" tvg-logo="http://149.56.14.45/Logo/english/e_global_us_hd-en.png" group-title="Fav",E! USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12224
-#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="E! UK | HD" tvg-logo="http://149.56.14.45/Logo/2018/tyvqqr1433945535.png" group-title="Fav",E! UK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4848
-#EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-name="GAME SHOW NETWORK CANADA | HD" tvg-logo="http://149.56.14.45/Logo/english/GSN_ca-en.png" group-title="Fav",GAME SHOW NETWORK CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/40
-#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="GAME SHOW NETWORK USA| HD" tvg-logo="http://149.56.14.45/Logo/english/GSN_ca-en.png" group-title="Fav",GAME SHOW NETWORK USA| HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15659
-#EXTINF:-1 tvg-id="comedynetwork.ca" tvg-name="THE COMEDY NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/2018/THECOMEDYNETWORK.png" group-title="Fav",THE COMEDY NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1309
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="COMEDY CENTRAL | HD" tvg-logo="http://149.56.14.45/Logo/2018/ywxrqy1443637497.png" group-title="Fav",COMEDY CENTRAL | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/92
-#EXTINF:-1 tvg-id="showcase.ca" tvg-name="SHOWCASE | HD" tvg-logo="http://149.56.14.45/Logo/english/showcase-en.png" group-title="Fav",SHOWCASE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1073
-#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="HISTORY TV CANADA | HD" tvg-logo="http://149.56.14.45/Logo/2018/wrsxux1435675016.png" group-title="Fav",HISTORY TV CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15
-#EXTINF:-1 tvg-id="historychannel.us" tvg-name="HISTORY TV USA | HD" tvg-logo="http://149.56.14.45/Logo/2018/wrsxux1435675016.png" group-title="Fav",HISTORY TV USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10516
-#EXTINF:-1 tvg-id="history2.ca" tvg-name="H2 UK" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png" group-title="Fav",H2 UK
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/81
-#EXTINF:0, tvg-id="nbcwbts.us" tvg-logo="http://149.56.14.45/Logo/2018/NBC.png" tvg-name="NBC 10 (Boston) | HD"  group-title="Fav",NBC 10 (Boston) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10459
-#EXTINF:0, tvg-id="ABCWABC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Wabc_2013.png/175px-Wabc_2013.png" tvg-name="ABC 7 (New York) | HD"  group-title="Fav",ABC 7 (New York) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18418
-#EXTINF:0, tvg-id="CBSWBZ.us" tvg-logo="http://149.56.14.45/Logo/2018/CBS_.png" tvg-name="CBS 4 (Boston) | HD"  group-title="Fav",CBS 4 (Boston) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/146
-#EXTINF:0, tvg-id="FOX25WFXT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/WNYW5.png/150px-WNYW5.png" tvg-name="FOX 25 (Boston) | HD"  group-title="Fav",FOX 25 (Boston) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/21
-#EXTINF:0, tvg-id="cw.us" tvg-logo="http://149.56.14.45/Logo/english/CW-en.png" tvg-name="CW 11 (New York) | HD"  group-title="Fav",CW 11 (New York) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/141
-#EXTINF:0, tvg-id="pbswetk.us" tvg-logo="http://149.56.14.45/Logo/english/pbs-en.png" tvg-name="PBS 2 (Boston) | HD"  group-title="Fav",PBS 2 (Boston) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/57
-#EXTINF:0, tvg-id="NBC6WTVJ.us" tvg-logo="https://media.nbcmiami.com/images/1200*675/blue+nbc+6+logo.jpg" tvg-name="NBC 6 (Miami) | HD"  group-title="Fav",NBC 6 (Miami) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18484
-#EXTINF:0, tvg-id="ABC10WPLG.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" tvg-name="ABC 10 (Miami) | HD"  group-title="Fav",ABC 10 (Miami) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18421
-#EXTINF:0, tvg-id="NBCKPRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/KPRC-TV_Logo.png/100px-KPRC-TV_Logo.png" tvg-name="NBC 2 (Houston) | HD"  group-title="Fav",NBC 2 (Houston) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18477
-#EXTINF:0, tvg-id="ABC13KTRKTV.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/ABC_13_KTRK_Houston_2015_logo.png" tvg-name="ABC 13 (Houston) | HD"  group-title="Fav",ABC 13 (Houston) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18402
-#EXTINF:0, tvg-id="CBSKHOU.us" tvg-logo="http://149.56.14.45/Logo/2018/CBS_.png" tvg-name="CBS 11 (Dallas) | HD"  group-title="Fav",CBS 11 (Dallas) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18470
-#EXTINF:0, tvg-id="FOXKDFW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/KRIV.png/125px-KRIV.png" tvg-name="FOX 4 (Dallas) | HD"  group-title="Fav",FOX 4 (Dallas) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18442
-#EXTINF:0, tvg-id="FOXKRIV.us" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/4d/8e/94/4d8e9427-6e28-6a0c-d70c-c4304523f8be/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg" tvg-name="FOX 7 (Austin) | HD"  group-title="Fav",FOX 7 (Austin) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18438
-#EXTINF:0, tvg-id="NBC4KNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/KNBC_4_logo.png/180px-KNBC_4_logo.png" tvg-name="NBC 4 (Los Angeles) | HD"  group-title="Fav",NBC 4 (Los Angeles) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18481
-#EXTINF:0, tvg-id="ABC7KABCTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/KABC-TV_Logo.png/170px-KABC-TV_Logo.png" tvg-name="ABC 7 (Los Angeles) | HD"  group-title="Fav",ABC 7 (Los Angeles) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18399
-#EXTINF:0, tvg-id="CBSKCBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" tvg-name="CBS 2 (Los Angeles) | HD"  group-title="Fav",CBS 2 (Los Angeles) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18474
-#EXTINF:0, tvg-id="Fox11KTTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/KTTV_Fox_11_logo.png/125px-KTTV_Fox_11_logo.png" tvg-name="FOX 11 (Los Angeles) | HD"  group-title="Fav",FOX 11 (Los Angeles) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18449
-#EXTINF:0, tvg-id="usanetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/yswxwr1433432126.png" tvg-name="USA NETWORK | HD"  group-title="Fav",USA NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/43
-#EXTINF:0, tvg-id="tvlandeast.us" tvg-logo="http://149.56.14.45/Logo/english/TVLAND-en.jpg" tvg-name="TV LAND | HD"  group-title="Fav",TV LAND | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/45
-#EXTINF:0, tvg-id="comedycentral.us" tvg-logo="http://149.56.14.45/Logo/2018/ywxrqy1443637497.png" tvg-name="COMEDY CENTRAL | HD"  group-title="Fav",COMEDY CENTRAL | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/92
-#EXTINF:0, tvg-id="lifetimemovies.us" tvg-logo="http://149.56.14.45/Logo/2018/vvtpys1433779816.png" tvg-name="LIFETIME USA | HD"  group-title="Fav",LIFETIME USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11555
-#EXTINF:0, tvg-id="lmn.us" tvg-logo="http://149.56.14.45/Logo/2018/vxqtwx1434505261.png" tvg-name="LIFETIME MOVIE NETWORK | HD"  group-title="Fav",LIFETIME MOVIE NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9473
-#EXTINF:0, tvg-id="foodnetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/FOODNETWORK.png" tvg-name="FOOD NETWORK USA | HD"  group-title="Fav",FOOD NETWORK USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11552
-#EXTINF:0, tvg-id="cookingchannel.us" tvg-logo="http://149.56.14.45/Logo/2018/893p2e1494156845.png" tvg-name="COOKING CHANNEL USA | HD"  group-title="Fav",COOKING CHANNEL USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12090
-#EXTINF:0, tvg-id="doityourselfnetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/DIYNETWORK.png" tvg-name="DIY NETWORK USA | HD"  group-title="Fav",DIY NETWORK USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1091
-#EXTINF:0, tvg-id="hgtv.us" tvg-logo="http://149.56.14.45/Logo/2018/HGTVHD.png" tvg-name="HGTV USA | HD"  group-title="Fav",HGTV USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1312
-#EXTINF:0, tvg-id="eentertainment.us" tvg-logo="https://banner2.kisspng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" tvg-name="E! USA | HD"  group-title="Fav",E! USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12224
-#EXTINF:0, tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/2947360184a43fbc9a0c2c5e628f4c62a2768078f9c402f7cf891671e072ad75.png" tvg-name="PEOPLE TV | HD"  group-title="Fav",PEOPLE TV | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15661
-#EXTINF:0, tvg-id="gameshownetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" tvg-name="GAME SHOW NETWORK USA | HD"  group-title="Fav",GAME SHOW NETWORK USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15659
-#EXTINF:0, tvg-id="PopTV.us" tvg-logo="http://149.56.14.45/Logo/2018/txuvrp1470050756.png" tvg-name="POP TV | HD"  group-title="Fav",POP TV | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10519
-#EXTINF:0, tvg-id="aande.us" tvg-logo="http://149.56.14.45/Logo/2018/xyuqsu1435097077.png" tvg-name="A&E USA | HD"  group-title="Fav",A&E USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11553
-#EXTINF:0, tvg-id="fyi.us" tvg-logo="http://149.56.14.45/Logo/2018/svrrts1433430996.png" tvg-name="FYI | HD"  group-title="Fav",FYI | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12222
-#EXTINF:0, tvg-id="historychannel.us" tvg-logo="http://149.56.14.45/Logo/2018/wrsxux1435675016.png" tvg-name="HISTORY TV USA | HD"  group-title="Fav",HISTORY TV USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10516
-#EXTINF:0, tvg-id="History2.uk" tvg-logo="https://www.thelogodb.com/images/media/logo/yupvts1433779656.png/small" tvg-name="H2 UK"  group-title="Fav",H2 UK
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9430
-#EXTINF:0, tvg-id="viceland.us" tvg-logo="http://149.56.14.45/Logo/2018/VICELAND.png" tvg-name="VICELAND USA | HD"  group-title="Fav",VICELAND USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4225
-#EXTINF:0, tvg-id="syfy.us" tvg-logo="http://149.56.14.45/Logo/english/SyFy-en.png" tvg-name="SYFY | HD"  group-title="Fav",SYFY | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/50
-#EXTINF:0, tvg-id="BET.us" tvg-logo="http://149.56.14.45/Logo/2018/BET.png" tvg-name="BET | HD"  group-title="Fav",BET | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10381
-#EXTINF:0, tvg-id="fxx.us" tvg-logo="http://149.56.14.45/Logo/2018/zwe5zj1493834492.png" tvg-name="FXX USA | HD"  group-title="Fav",FXX USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12325
-#EXTINF:0, tvg-id="sundancetv.us" tvg-logo="http://149.56.14.45/Logo/2018/SUNDANCETV.png" tvg-name="SUNDANCE TV | HD"  group-title="Fav",SUNDANCE TV | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8522
-#EXTINF:0, tvg-id="oxygen.us" tvg-logo="https://www.thelogodb.com/images/media/logo/wrpsqu1467823002.png/small" tvg-name="OXYGEN | HD"  group-title="Fav",OXYGEN | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2499
-#EXTINF:0, tvg-id="bravo.us" tvg-logo="http://149.56.14.45/Logo/english/bravo-en.png" tvg-name="BRAVO USA | HD"  group-title="Fav",BRAVO USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/103
-#EXTINF:0, tvg-id="amc.us" tvg-logo="http://149.56.14.45/Logo/2018/AMC.png" tvg-name="AMC USA | HD"  group-title="Fav",AMC USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12216
-#EXTINF:0, tvg-id="turnerclassicmovies.us" tvg-logo="Logo N/A" tvg-name="TCM USA | HD"  group-title="Fav",TCM USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15915
-#EXTINF:0, tvg-id="independentfilmchannel.us" tvg-logo="http://149.56.14.45/Logo/2018/fskqq21500254386.png" tvg-name="IFC USA | HD"  group-title="Fav",IFC USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12220
-#EXTINF:0, tvg-id="bbcamerica.us" tvg-logo="http://149.56.14.45/Logo/2018/tpsvpw1477930423.png" tvg-name="BBC AMERICA | HD"  group-title="Fav",BBC AMERICA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12219
-#EXTINF:0, tvg-id="fx.us" tvg-logo="http://149.56.14.45/Logo/english/fx-en.png" tvg-name="FX USA | HD"  group-title="Fav",FX USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/20
-#EXTINF:0, tvg-id="fxx.us" tvg-logo="http://149.56.14.45/Logo/2018/zwe5zj1493834492.png" tvg-name="FXX USA | HD"  group-title="Fav",FXX USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12325
-#EXTINF:0, tvg-id="tnt.us" tvg-logo="http://149.56.14.45/Logo/english/TNT_HD-en.png" tvg-name="TNT | HD"  group-title="Fav",TNT | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/47
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT (West) | HD"  group-title="Fav",TNT (West) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19075
-#EXTINF:0, tvg-id="TBS.us" tvg-logo="http://149.56.14.45/Logo/english/tbs-en.png" tvg-name="TBS | HD"  group-title="Fav",TBS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/49
-#EXTINF:0, tvg-id="espn.us" tvg-logo="http://149.56.14.45/Logo/2018/xuprrx1472105225.png" tvg-name="ESPN | HD"  group-title="Fav",ESPN | HD
+###SPORTS###
+
+#EXTINF:0, tvg-id="espn.us" tvg-logo="https://www.pngfind.com/pngs/m/48-489555_fichierlogo-espnpng-mdash-wikip-233dia-espn-channel-logo.png" tvg-name="ESPN | HD"  group-title="Sports",ESPN | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/89
-#EXTINF:0, tvg-id="ESPN2.us" tvg-logo="http://149.56.14.45/Logo/2018/xryqyp1472105342.png" tvg-name="ESPN 2 | HD"  group-title="Fav",ESPN 2 | HD
+#EXTINF:0, tvg-id="ESPN2.us" tvg-logo="https://www.pngfind.com/pngs/m/202-2026794_http-espn-hd-channel-logo-transparent-hd-png.png" tvg-name="ESPN 2 | HD"  group-title="Sports",ESPN 2 | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/87
-#EXTINF:0, tvg-id="ESPNNews.us" tvg-logo="http://149.56.14.45/Logo/2018/vtsutx1434501589.png" tvg-name="ESPNEWS | HD"  group-title="Fav",ESPNEWS | HD
+#EXTINF:0, tvg-id="ESPNNews.us" tvg-logo="https://sc.dish.com/shared/images/station-logos/esnws.png" tvg-name="ESPNEWS | HD"  group-title="Sports",ESPNEWS | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/88
-#EXTINF:0, tvg-id="espnu.us" tvg-logo="http://149.56.14.45/Logo/2018/wuqypq1434501650.png" tvg-name="ESPN U | HD"  group-title="Fav",ESPN U | HD
+#EXTINF:0, tvg-id="espnu.us" tvg-logo="https://secure.espncdn.com/combiner/i?img=/watchespn/images/channels/1x/espnu.png&cquality=40" tvg-name="ESPN U | HD"  group-title="Sports",ESPN U | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1231
-#EXTINF:0, tvg-id="foxsports1.us" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" tvg-name="FOX SPORTS 1 | HD"  group-title="Fav",FOX SPORTS 1 | HD
+#EXTINF:0, tvg-id="foxsports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" tvg-name="FOX SPORTS 1 | HD"  group-title="Sports",FOX SPORTS 1 | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/35
-#EXTINF:0, tvg-id="foxsports2.us" tvg-logo="http://149.56.14.45/Logo/2018/uxxtrt1433944508.png" tvg-name="FOX SPORTS 2 | HD"  group-title="Fav",FOX SPORTS 2 | HD
+#EXTINF:0, tvg-id="foxsports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" tvg-name="FOX SPORTS 2 | HD"  group-title="Sports",FOX SPORTS 2 | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/34
-#EXTINF:0, tvg-id="mlbnetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/mlb-network.png" tvg-name="MLB NETWORK | HD"  group-title="Fav",MLB NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/74
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MLB STRIKE ZONE | HD"  group-title="Fav",MLB STRIKE ZONE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18650
-#EXTINF:0, tvg-id="nflnetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/yptxsp1478034120.png" tvg-name="NFL NETWORK | HD"  group-title="Fav",NFL NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/62
-#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/swppwq1434505673.png" tvg-name="NFL REDZONE | HD"  group-title="Fav",NFL REDZONE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4401
-#EXTINF:0, tvg-id="NBATV.us" tvg-logo="http://149.56.14.45/Logo/2018/xutptv1433429127.png" tvg-name="NBA TV USA | HD"  group-title="Fav",NBA TV USA | HD
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSNHD.png" tvg-name="TSN 1 | HD"  group-title="Sports",TSN 1 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/124
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN2HD.png" tvg-name="TSN 2 | HD"  group-title="Sports",TSN 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/123
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN3HD.png" tvg-name="TSN 3 | HD"  group-title="Sports",TSN 3 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/122
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN4HD.png" tvg-name="TSN 4 | HD"  group-title="Sports",TSN 4 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/121
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN5HD.png" tvg-name="TSN 5 | HD"  group-title="Sports",TSN 5 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/120
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-logo="http://149.56.14.45/Logo/sports/Sportsnet360HD.png" tvg-name="SPORTSNET 360 | HD"  group-title="Sports",SPORTSNET 360 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11853
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetoneHD.png" tvg-name="SPORTSNET ONE | HD"  group-title="Sports",SPORTSNET ONE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/129
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetOntarioHD.png" tvg-name="SPORTSNET ONTARIO | HD"  group-title="Sports",SPORTSNET ONTARIO | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/128
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetEastHD.png" tvg-name="SPORTSNET EAST | HD"  group-title="Sports",SPORTSNET EAST | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/130
+#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetPacificHD.png" tvg-name="SPORTSNET PACIFIC | HD"  group-title="Sports",SPORTSNET PACIFIC | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/127
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetWestHD.png" tvg-name="SPORTSNET WEST | HD"  group-title="Sports",SPORTSNET WEST | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/126
+#EXTINF:-1 tvg-id="nbatv.ca" tvg-logo="http://149.56.14.45/Logo/sports/NBATV.png" tvg-name="NBA TV CANADA | HD"  group-title="Sports",NBA TV CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9
+#EXTINF:0, tvg-id="NBATV.us" tvg-logo="http://149.56.14.45/Logo/2018/xutptv1433429127.png" tvg-name="NBA TV USA | HD"  group-title="Sports",NBA TV USA | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8516
-#EXTINF:0, tvg-id="nhlnetwork.us" tvg-logo="http://149.56.14.45/Logo/nhl/NHL-Network.png" tvg-name="NHL NETWORK USA | HD"  group-title="Fav",NHL NETWORK USA | HD
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-logo="http://149.56.14.45/Logo/nhl/NHL-Network.png" tvg-name="NHL NETWORK USA | HD"  group-title="Sports",NHL NETWORK USA | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/32
-#EXTINF:0, tvg-id="CBSSports.ca" tvg-logo="http://149.56.14.45/Logo/sports/cbs_sports_network_color.png" tvg-name="CBS SPORTS NETWORK | HD"  group-title="Fav",CBS SPORTS NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/98
-#EXTINF:0, tvg-id="nbcsportsboston.us" tvg-logo="http://149.56.14.45/Logo/sports/nbc_sports_network.png" tvg-name="NBC SPORTS NETWORK | HD"  group-title="Fav",NBC SPORTS NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/33
-#EXTINF:0, tvg-id="MTV.us" tvg-logo="http://149.56.14.45/Logo/english/MTV-en.png" tvg-name="MTV | HD"  group-title="Fav",MTV | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/73
-#EXTINF:0, tvg-id="MTV2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/1200px-MTV2_logo_2013.svg.png" tvg-name="MTV 2 | HD"  group-title="Fav",MTV 2 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22951
-#EXTINF:0, tvg-id="MTVClassic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MTV_Classic_US.svg/1250px-MTV_Classic_US.svg.png" tvg-name="MTV CLASSIC | HD"  group-title="Fav",MTV CLASSIC | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22950
-#EXTINF:0, tvg-id="vh1.us" tvg-logo="http://149.56.14.45/Logo/english/vh1-en.png" tvg-name="VH1 | HD"  group-title="Fav",VH1 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/38
-#EXTINF:0, tvg-id="fusetv.us" tvg-logo="http://149.56.14.45/Logo/2018/wyxtrx1433430139.png" tvg-name="FUSE | HD"  group-title="Fav",FUSE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10514
-#EXTINF:0, tvg-id="CMT.us" tvg-logo="Logo N/A" tvg-name="CMT USA | HD"  group-title="Fav",CMT USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22956
-#EXTINF:0, tvg-id="discoverychannel.us" tvg-logo="http://149.56.14.45/Logo/2018/usyusu1480364903.png" tvg-name="DISCOVERY USA | HD"  group-title="Fav",DISCOVERY USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1108
-#EXTINF:0, tvg-id="tlc.ca" tvg-logo="http://149.56.14.45/Logo/english/tlc-en.png" tvg-name="TLC CANADA | HD"  group-title="Fav",TLC CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4
-#EXTINF:0, tvg-id="animalplanet.us" tvg-logo="http://149.56.14.45/Logo/english/AnimalPlanetHD-en.png" tvg-name="ANIMAL PLANET | HD"  group-title="Fav",ANIMAL PLANET | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/29
-#EXTINF:0, tvg-id="hallmark.us" tvg-logo="http://149.56.14.45/Logo/2018/HALLMARKCHANNEL.png" tvg-name="HALLMARK CHANNEL | HD"  group-title="Fav",HALLMARK CHANNEL | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/80
-#EXTINF:0, tvg-id="HallmarkDrama.us" tvg-logo="Logo N/A" tvg-name="HALLMARK DRAMA | HD"  group-title="Fav",HALLMARK DRAMA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15660
-#EXTINF:0, tvg-id="hallmarkmoviesmysteries.us" tvg-logo="http://149.56.14.45/Logo/2018/rrxuqr1434502642.png" tvg-name="HALLMARK MOVIES & MYSTERIES | HD"  group-title="Fav",HALLMARK MOVIES & MYSTERIES | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8721
-#EXTINF:0, tvg-id="oprahwinfreynetwork.us" tvg-logo="https://www.thelogodb.com/images/media/logo/vypxqw1433452640.png/small" tvg-name="OWN USA | HD"  group-title="Fav",OWN USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10396
-#EXTINF:0, tvg-id="natgeo.us" tvg-logo="http://149.56.14.45/Logo/2018/NATIONALGEOGRAPHICHD.png" tvg-name="NAT GEO USA | HD"  group-title="Fav",NAT GEO USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10517
-#EXTINF:0, tvg-id="natgeowild.us" tvg-logo="http://149.56.14.45/Logo/2018/NATGEOWILDHHD.png" tvg-name="NAT GEO WILD USA | HD"  group-title="Fav",NAT GEO WILD USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10518
-#EXTINF:0, tvg-id="investigationdiscovery.us" tvg-logo="http://149.56.14.45/Logo/english/id-en.png" tvg-name="ID USA | HD"  group-title="Fav",ID USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13
-#EXTINF:0, tvg-id="discoveryscience.us" tvg-logo="http://149.56.14.45/Logo/2018/wwyqwt1462874376.png" tvg-name="DISCOVERY SCIENCE USA | HD"  group-title="Fav",DISCOVERY SCIENCE USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/25
-#EXTINF:0, tvg-id="destinationamerica.us" tvg-logo="https://www.thelogodb.com/images/media/logo/vtqswx1434500778.png/small" tvg-name="DESTINATION AMERICA | HD"  group-title="Fav",DESTINATION AMERICA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/90
-#EXTINF:0, tvg-id="travelchannel.us" tvg-logo="Logo N/A" tvg-name="TRAVEL CHANNEL USA | HD"  group-title="Fav",TRAVEL CHANNEL USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10351
-#EXTINF:0, tvg-id="cnn.us" tvg-logo="http://149.56.14.45/Logo/english/CNN_HD-en.png" tvg-name="CNN | HD"  group-title="Fav",CNN | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/27
-#EXTINF:0, tvg-id="hln.us" tvg-logo="http://149.56.14.45/Logo/english/502_HLN-en.png" tvg-name="HLN | HD"  group-title="Fav",HLN | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/14
-#EXTINF:0, tvg-id="bloombergtv.us" tvg-logo="https://www.thelogodb.com/images/media/logo/vpqsxx1434057106.png/small" tvg-name="BLOOMBERG TV | HD"  group-title="Fav",BLOOMBERG TV | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/104
-#EXTINF:0, tvg-id="foxnews.us" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" tvg-name="FOX NEWS CHANNEL | HD"  group-title="Fav",FOX NEWS CHANNEL | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/84
-#EXTINF:0, tvg-id="foxbusiness.us" tvg-logo="http://149.56.14.45/Logo/2018/xtqpxr1434502104.png" tvg-name="FOX BUSINESS NETWORK | HD"  group-title="Fav",FOX BUSINESS NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/85
-#EXTINF:0, tvg-id="cnbc.us" tvg-logo="http://149.56.14.45/Logo/2018/pfsn7f1505903340.png" tvg-name="CNBC | HD"  group-title="Fav",CNBC | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/93
-#EXTINF:0, tvg-id="CNBCWorld.us" tvg-logo="Logo N/A" tvg-name="CNBC WORLD | HD"  group-title="Fav",CNBC WORLD | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22955
-#EXTINF:0, tvg-id="msnbc.us" tvg-logo="http://149.56.14.45/Logo/english/msnbc-en.png" tvg-name="MSNBC | HD"  group-title="Fav",MSNBC | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1
-#EXTINF:0, tvg-id="CSPAN.us" tvg-logo="http://167.114.64.174:7000/Logo/english/c-span.jpg" tvg-name="CSPAN | HD"  group-title="Fav",CSPAN | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/102
-#EXTINF:0, tvg-id="CSPAN2.us" tvg-logo="http://167.114.64.174:7000/Logo/english/c-span2.jpg" tvg-name="CSPAN 2 | HD"  group-title="Fav",CSPAN 2 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/101
-#EXTINF:0, tvg-id="weatherchannel.us" tvg-logo="Logo N/A" tvg-name="THE WEATHER CHANNEL USA | HD"  group-title="Fav",THE WEATHER CHANNEL USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1313
-#EXTINF:0, tvg-id="discoveryvelocity.us" tvg-logo="http://149.56.14.45/Logo/2018/ysysuu1434506168.png" tvg-name="MOTORTREND | HD"  group-title="Fav",MOTORTREND | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/24
-#EXTINF:0, tvg-id="ION.us" tvg-logo="http://149.56.14.45/Logo/2018/56ap9c1510667882.png" tvg-name="ION | HD"  group-title="Fav",ION | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8124
-#EXTINF:0, tvg-id="Logo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" tvg-name="LOGO | HD"  group-title="Fav",LOGO | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22952
-#EXTINF:0, tvg-id="RTInternational.ru" tvg-logo="http://149.56.14.45/Logo/2018/qywxss1477939997.png" tvg-name="RUSSIA TODAY NEWS | HD"  group-title="Fav",RUSSIA TODAY NEWS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4784
-#EXTINF:0, tvg-id="BBCWorldNews.uk" tvg-logo="http://149.56.14.45/Logo/2018/BBCWORLD.png" tvg-name="BBC WORLD NEWS"  group-title="Fav",BBC WORLD NEWS
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4894
-#EXTINF:0, tvg-id="ReelzChannel.us" tvg-logo="Logo N/A" tvg-name="REELZ | HD"  group-title="Fav",REELZ | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22539
-#EXTINF:0, tvg-id="hbo.us" tvg-logo="http://149.56.14.45/Logo/2018/vtqqws1509310608.png" tvg-name="HBO USA | HD"  group-title="Fav",HBO USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11839
-#EXTINF:0, tvg-id="HBO2.us" tvg-logo="Logo N/A" tvg-name="HBO 2 USA | HD"  group-title="Fav",HBO 2 USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22963
-#EXTINF:0, tvg-id="hbo.ca" tvg-logo="http://149.56.14.45/Logo/movies/hbo_polska-en.png" tvg-name="HBO CANADA | HD"  group-title="Fav",HBO CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/23
-#EXTINF:0, tvg-id="hbo2.ca" tvg-logo="http://149.56.14.45/Logo/2018/HBO2.png" tvg-name="HBO 2 CANADA | HD"  group-title="Fav",HBO 2 CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/17
-#EXTINF:0, tvg-id="hbofamily.us" tvg-logo="http://149.56.14.45/Logo/movies/hbo-family-en.png" tvg-name="HBO FAMILY | HD"  group-title="Fav",HBO FAMILY | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/79
-#EXTINF:0, tvg-id="hbocomedy.us" tvg-logo="http://149.56.14.45/Logo/2018/y8a09q1509311697.png" tvg-name="HBO COMEDY | HD"  group-title="Fav",HBO COMEDY | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4476
-#EXTINF:0, tvg-id="hbozone.us" tvg-logo="http://149.56.14.45/Logo/movies/hbo-zone-en.png" tvg-name="HBO ZONE | HD"  group-title="Fav",HBO ZONE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/78
-#EXTINF:0, tvg-id="Cinemax.us" tvg-logo="http://149.56.14.45/Logo/2018/xvqrqu1444832987.png" tvg-name="CINEMAX | HD"  group-title="Fav",CINEMAX | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/96
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="CINEMAX (West) | HD"  group-title="Fav",CINEMAX (West) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22964
-#EXTINF:0, tvg-id="ActionMax.us" tvg-logo="http://149.56.14.45/Logo/2018/vrruyr1467823469.png" tvg-name="CINEMAX ACTION MAX | HD"  group-title="Fav",CINEMAX ACTION MAX | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/95
-#EXTINF:0, tvg-id="showtime.us" tvg-logo="http://149.56.14.45/Logo/2018/vtysts1467823060.png" tvg-name="SHOWTIME | HD"  group-title="Fav",SHOWTIME | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/6734
-#EXTINF:0, tvg-id="showtime2.us" tvg-logo="http://149.56.14.45/Logo/2018/wxqxys1433428470.png" tvg-name="SHOWTIME 2 | HD"  group-title="Fav",SHOWTIME 2 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11840
-#EXTINF:0, tvg-id="showtimeshowcase.us" tvg-logo="http://149.56.14.45/Logo/movies/showtime_color-en.png" tvg-name="SHOWTIME SHOWCASE | HD"  group-title="Fav",SHOWTIME SHOWCASE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/56
-#EXTINF:0, tvg-id="starz.us" tvg-logo="http://149.56.14.45/Logo/2018/tvxvws1476447168.png" tvg-name="STARZ | HD"  group-title="Fav",STARZ | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/52
-#EXTINF:0, tvg-id="starzedge.us" tvg-logo="http://149.56.14.45/Logo/2018/sqypqr1461446864.png" tvg-name="STARZ EDGE | HD"  group-title="Fav",STARZ EDGE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/53
-#EXTINF:0, tvg-id="StarzKidsFamily.us" tvg-logo="http://149.56.14.45/Logo/2018/yytpsy1461446972.png" tvg-name="STARZ KIDS & FAMILY | HD"  group-title="Fav",STARZ KIDS & FAMILY | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/51
-#EXTINF:0, tvg-id="bether.us" tvg-logo="https://banner2.kisspng.com/20180430/sxe/kisspng-bet-her-logo-tv-television-channel-5ae71688b110d6.8660265715250940247253.jpg" tvg-name="BET HER | HD"  group-title="Fav",BET HER | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15911
-#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/BET_Soul_Logo.png" tvg-name="BET SOUL | HD"  group-title="Fav",BET SOUL | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22957
-#EXTINF:0, tvg-id="BETjams.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/BET_Jams_Logo.png" tvg-name="BET JAMS | HD"  group-title="Fav",BET JAMS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22958
-#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" tvg-name="MTV U | HD"  group-title="Fav",MTV U | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22948
-#EXTINF:0, tvg-id="MTVLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/MTV_Live.svg/1024px-MTV_Live.svg.png" tvg-name="MTV LIVE | HD"  group-title="Fav",MTV LIVE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22949
-#EXTINF:0, tvg-id="epix.us" tvg-logo="Logo N/A" tvg-name="EPIX | HD"  group-title="Fav",EPIX | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19074
-#EXTINF:0, tvg-id="fxmoviechannel.us" tvg-logo="Logo N/A" tvg-name="FXM | HD"  group-title="Fav",FXM | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9513
-#EXTINF:0, tvg-id="mgm.us" tvg-logo="Logo N/A" tvg-name="MGM | HD"  group-title="Fav",MGM | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18648
-#EXTINF:0, tvg-id="sony.us" tvg-logo="Logo N/A" tvg-name="SONY MOVIES | HD"  group-title="Fav",SONY MOVIES | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15662
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="OUTSIDE TV | HD"  group-title="Fav",OUTSIDE TV | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13713
-#EXTINF:0, tvg-id="foxsoccerplus.us" tvg-logo="https://www.soccernation.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-01-at-2.59.33-PM.png" tvg-name="FOX SOCCER PLUS | HD"  group-title="Fav",FOX SOCCER PLUS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10512
-#EXTINF:0, tvg-id="beinsports.us" tvg-logo="http://149.56.14.45/Logo/sports/BeinSportsUSAHD.png" tvg-name="BEIN SPORTS USA | HD"  group-title="Fav",BEIN SPORTS USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/37
-#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/6iblrh1494150426.png" tvg-name="WORLD FISHING NETWORK | HD"  group-title="Fav",WORLD FISHING NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13698
-#EXTINF:0, tvg-id="SportsmanChannel.us" tvg-logo="http://149.56.14.45/Logo/2018/qrpyxs1433452623.png" tvg-name="SPORTSMAN CHANNEL | HD"  group-title="Fav",SPORTSMAN CHANNEL | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13697
-#EXTINF:0, tvg-id="outdoorchannel.us" tvg-logo="http://149.56.14.45/Logo/2018/yqxrpv1444920887.png" tvg-name="OUTDOOR CHANNEL | HD"  group-title="Fav",OUTDOOR CHANNEL | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13696
-#EXTINF:0, tvg-id="TennisChannel.us" tvg-logo="http://149.56.14.45/Logo/sports/tennis-channel.png" tvg-name="TENNIS CHANNEL | HD"  group-title="Fav",TENNIS CHANNEL | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/48
-#EXTINF:0, tvg-id="golfchannel.us" tvg-logo="http://149.56.14.45/Logo/sports/golf_channel_us.png" tvg-name="THE GOLF CHANNEL USA | HD"  group-title="Fav",THE GOLF CHANNEL USA | HD
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/mlb-network.png" tvg-name="MLB NETWORK | HD"  group-title="Sports",MLB NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/74
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/yptxsp1478034120.png" tvg-name="NFL NETWORK | HD"  group-title="Sports",NFL NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/62
+#EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE | HD" tvg-logo="http://149.56.14.45/Logo/2018/swppwq1434505673.png" group-title="Sports",NFL REDZONE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4401
+#EXTINF:0, tvg-id="golfchannel.us" tvg-logo="http://149.56.14.45/Logo/sports/golf_channel_us.png" tvg-name="THE GOLF CHANNEL USA | HD"  group-title="Sports",THE GOLF CHANNEL USA | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/82
-#EXTINF:0, tvg-id="LonghornNetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/qbvu6b1499694699.png" tvg-name="LONGHORN NETWORK | HD"  group-title="Fav",LONGHORN NETWORK | HD
+#EXTINF:0, tvg-id="nbcsportsboston.us" tvg-logo="http://149.56.14.45/Logo/sports/nbc_sports_network.png" tvg-name="NBC SPORTS NETWORK | HD"  group-title="Sports",NBC SPORTS NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/33
+#EXTINF:0, tvg-id="CBSSports.ca" tvg-logo="http://149.56.14.45/Logo/sports/cbs_sports_network_color.png" tvg-name="CBS SPORTS NETWORK | HD"  group-title="Sports",CBS SPORTS NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/98
+#EXTINF:0, tvg-id="LonghornNetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/qbvu6b1499694699.png" tvg-name="LONGHORN NETWORK | HD"  group-title="Sports",LONGHORN NETWORK | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9512
-#EXTINF:0, tvg-id="secnetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/SEC_network.png" tvg-name="SEC NETWORK | HD"  group-title="Fav",SEC NETWORK | HD
+#EXTINF:0, tvg-id="secnetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/SEC_network.png" tvg-name="SEC NETWORK | HD"  group-title="Sports",SEC NETWORK | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/39
-#EXTINF:0, tvg-id="PAC12Network.us" tvg-logo="Logo N/A" tvg-name="PAC 12 NETWORK | HD"  group-title="Fav",PAC 12 NETWORK | HD
+#EXTINF:0, tvg-id="PAC12Network.us" tvg-logo="Logo N/A" tvg-name="PAC 12 NETWORK | HD"  group-title="Sports",PAC 12 NETWORK | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/16714
-#EXTINF:0, tvg-id="bigtennetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/big-ten-network.png" tvg-name="BIG TEN NETWORK | HD"  group-title="Fav",BIG TEN NETWORK | HD
+#EXTINF:0, tvg-id="bigtennetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/big-ten-network.png" tvg-name="BIG TEN NETWORK | HD"  group-title="Sports",BIG TEN NETWORK | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9514
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ITV BOX OFFICE PPV SPORTS | HD"  group-title="Fav",ITV BOX OFFICE PPV SPORTS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10502
-#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/vturwx1438213534.png" tvg-name="SKY SPORTS BOX OFFICE PPV | HD"  group-title="Fav",SKY SPORTS BOX OFFICE PPV | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10503
-#EXTINF:0, tvg-id="UFCTV.us" tvg-logo="Logo N/A" tvg-name="UFC FIGHT PASS | HD"  group-title="Fav",UFC FIGHT PASS | HD
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-logo="http://149.56.14.45//Logo/sports/SportsnetWorldHD.png" tvg-name="SPORTSNET WORLD | HD"  group-title="Sports",SPORTSNET WORLD | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1106
+#EXTINF:-1 tvg-id="beINSport.ca" tvg-logo="http://149.56.14.45/Logo/sports/BeinSportsUSAHD.png" tvg-name="BEIN SPORTS CANADA | HD"  group-title="Sports",BEIN SPORTS CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10444
+#EXTINF:0, tvg-id="beinsports.us" tvg-logo="http://149.56.14.45/Logo/sports/BeinSportsUSAHD.png" tvg-name="BEIN SPORTS USA | HD"  group-title="Sports",BEIN SPORTS USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/37
+#EXTINF:0, tvg-id="foxsoccerplus.us" tvg-logo="https://www.soccernation.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-01-at-2.59.33-PM.png" tvg-name="FOX SOCCER PLUS | HD"  group-title="Sports",FOX SOCCER PLUS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10512
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS NEWS | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FoxSportsNews_logo_1.png/revision/latest?cb=20130509121604" group-title="Sports",FOX SPORTS NEWS | HD
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0, tvg-id="WillowCricket.us" tvg-logo="http://149.56.14.45/Logo/sports/willow_cricket.png" tvg-name="WILLOW CRICKET | HD"  group-title="Sports",WILLOW CRICKET | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/41
+#EXTINF:0, tvg-id="TennisChannel.us" tvg-logo="http://149.56.14.45/Logo/sports/tennis-channel.png" tvg-name="TENNIS CHANNEL | HD"  group-title="Sports",TENNIS CHANNEL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/48
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/6iblrh1494150426.png" tvg-name="WORLD FISHING NETWORK | HD"  group-title="Sports",WORLD FISHING NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13698
+#EXTINF:0, tvg-id="SportsmanChannel.us" tvg-logo="http://149.56.14.45/Logo/2018/qrpyxs1433452623.png" tvg-name="SPORTSMAN CHANNEL | HD"  group-title="Sports",SPORTSMAN CHANNEL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13697
+#EXTINF:0, tvg-id="outdoorchannel.us" tvg-logo="http://149.56.14.45/Logo/2018/yqxrpv1444920887.png" tvg-name="OUTDOOR CHANNEL | HD"  group-title="Sports",OUTDOOR CHANNEL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13696
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="OUTSIDE TV | HD"  group-title="Sports",OUTSIDE TV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13713
+#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV AU | HD" tvg-logo="" group-title="Sports",REDBULL TV AU | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15122
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS ILLUSTRATED | HD" tvg-logo="" group-title="Sports",SPORTS ILLUSTRATED | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/14199
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/sports/wwe.png" group-title="Sports",WWE NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BOXNATION UK | HD" tvg-logo="http://149.56.14.45/Logo/2018/vuvwsr1433336020.png" group-title="Sports",BOXNATION UK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4884
+#EXTINF:-1 tvg-id="FightBox.UK" tvg-name="FIGHTBOX UK | HD" tvg-logo="http://149.56.14.45/Logo/2018/uypswt1444749022.png" group-title="Sports",FIGHTBOX UK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9300
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="FIGHT NETWORK CANADA | HD" tvg-logo="http://149.56.14.45/Logo/sports/thefightnetwork.png" group-title="Sports",FIGHT NETWORK CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10443
+#EXTINF:0, tvg-id="UFCTV.us" tvg-logo="Logo N/A" tvg-name="UFC FIGHT PASS | HD"  group-title="Sports",UFC FIGHT PASS | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19281
-#EXTINF:0, tvg-id="WillowCricket.us" tvg-logo="http://149.56.14.45/Logo/sports/willow_cricket.png" tvg-name="WILLOW CRICKET | HD"  group-title="Fav",WILLOW CRICKET | HD
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/vturwx1438213534.png" tvg-name="SKY SPORTS BOX OFFICE PPV | HD"  group-title="Sports",SKY SPORTS BOX OFFICE PPV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10503
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ITV BOX OFFICE PPV SPORTS | HD"  group-title="Sports",ITV BOX OFFICE PPV SPORTS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10502
+
+
+###MLB EXTRA INNINGS###
+
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/MLB EXTRA INNINGS/mlb-network.png" group-title="MLB Extra Innings",MLB NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/74
+#EXTINF:-1 tvg-id="" tvg-name="MLB STRIKE ZONE | HD" tvg-logo="https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fwww.blogcdn.com%2Fwww.engadget.com%2Fmedia%2F2012%2F04%2Fmlb-network-strike-zone.jpg&client=amp-blogside-v2&signature=1222ab4a11812461da03e610bc0cc1f5b8c6ea75" group-title="MLB Extra Innings",MLB STRIKE ZONE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18650
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 1 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22846
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 2 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22845
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 3 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 3 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22844
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 4 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 4 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22843
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 5 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 5 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22842
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 6 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 6 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22841
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 7 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 7 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22840
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 8 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 8 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22839
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 9 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 9 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22838
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 1 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22813
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 2 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22812
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 3 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 3 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22811
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 4 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 4 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22810
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 5 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 5 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22809
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 6 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 6 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22808
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 7 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 7 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22807
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 8 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 8 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22806
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 9 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 9 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22805
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 10 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 10 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22804
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 11 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 11 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22803
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 12 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 12 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22802
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 13 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 13 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22801
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 14 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 14 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22800
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 15 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 15 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22799
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 16 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 16 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22798
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 17 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 17 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22797
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 18 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 18 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22796
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 19 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 19 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22795
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 20 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 20 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22794
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 21 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 21 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22793
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 22 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 22 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22792
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 23 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 23 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22791
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 24 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 24 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22790
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 25 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 25 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22789
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 26 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 26 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22788
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 27 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 27 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22787
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 28 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 28 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22786
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 29 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 29 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22785
+
+
+###BELL###
+
+#EXTINF:-1 tvg-id="cbcatlantic.ca" tvg-name="CBC (Halifax) | HD" tvg-logo="http://149.56.14.45/Logo/english/CBC-en.png" group-title="Bell",CBC (Halifax) |  HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/28
+#EXTINF:-1 tvg-id="ctvatlantic.ca" tvg-name="CTV (Halifax) | HD" tvg-logo="http://149.56.14.45/Logo/english/CTV_Atlantic-en.png" group-title="Bell",CTV (Halifax) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/26
+#EXTINF:-1 tvg-id="GlobalHalifaxCIHF.ca" tvg-name="GLOBAL (Halifax) | HD" tvg-logo="http://149.56.14.45/Logo/english/Global-en.png" group-title="Bell",GLOBAL (Halifax) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10383
+#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-logo="http://149.56.14.45/Logo/english/CBC-en.png" tvg-name="CBC (Toronto) | HD"  group-title="Bell",CBC (Toronto) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19328
+#EXTINF:-1 tvg-id="CTV.ca" tvg-logo="http://149.56.14.45/Logo/2018/y6u5bh1489435042.png" tvg-name="CTV (Toronto) | HD"  group-title="Bell",CTV (Toronto) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2433
+#EXTINF:-1 tvg-id="global.ca" tvg-logo="http://149.56.14.45/Logo/2018/y6u5bh1489435042.png" tvg-name="GLOBAL (Toronto) | HD"  group-title="Bell",GLOBAL (Toronto) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2442
+#EXTINF:-1 tvg-id="citytv.ca" tvg-logo="http://149.56.14.45/Logo/2018/Citytv.png" tvg-name="CITY TV (Toronto) | HD"  group-title="Bell",CITY TV (Toronto) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9205
+#EXTINF:-1 tvg-id="" tvg-name="CTV 2 (Toronto) | HD" tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2-490x490.png" group-title="Bell",CTV 2 (Toronto) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/21
+#EXTINF:-1 tvg-id="chch.ca" tvg-name="CHCH (Toronto) | HD" tvg-logo="http://149.56.14.45/Logo/2018/yrrqvq1478066813.png" group-title="Bell",CHCH (Toronto) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4226
+#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/english/CBC-en.png" tvg-name="CBC (Winnipeg) | HD"  group-title="Bell",CBC (Winnipeg) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19326
+#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/english/CBC-en.png" tvg-name="CBC (Edmonton) | HD"  group-title="Bell",CBC (Edmonton) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19335
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL (Calgary) | HD" tvg-logo="https://cdn.canadasatellite.ca/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/g/l/global_calgary.jpg" group-title="Bell",GLOBAL (Calgary) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19341
+#EXTINF:-1 tvg-id="CBUT.ca" tvg-logo="http://149.56.14.45/Logo/english/CBC-en.png" tvg-name="CBC (Vancouver) | HD"  group-title="Bell",CBC (Vancouver) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19337
+#EXTINF:-1 tvg-id="globaledmonton.ca" tvg-logo="http://149.56.14.45/Logo/english/Global-en.png" tvg-name="GLOBAL (BC) | HD"  group-title="Bell",GLOBAL (BC) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1067
+#EXTINF:-1 tvg-id="nbcwbts.us" tvg-logo="http://149.56.14.45/Logo/2018/NBC.png" tvg-name="NBC 10 (Boston) | HD"  group-title="Bell",NBC 10 (Boston) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10459
+#EXTINF:-1 tvg-id="ABCWABC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Wabc_2013.png/175px-Wabc_2013.png" tvg-name="ABC 7 (New York) | HD"  group-title="Bell",ABC 7 (New York) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18418
+#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-logo="http://149.56.14.45/Logo/2018/CBS_.png" tvg-name="CBS 4 (Boston) | HD"  group-title="Bell",CBS 4 (Boston) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/146
+#EXTINF:-1 tvg-id="FOX25WFXT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/WNYW5.png/150px-WNYW5.png" tvg-name="FOX 25 (Boston) | HD"  group-title="Bell",FOX 25 (Boston) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/21
+#EXTINF:-1 tvg-id="cw.us" tvg-name="CW 11 (New York) | HD" tvg-logo="http://149.56.14.45/Logo/english/CW-en.png" group-title="Bell",CW 11 (New York) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/141
+#EXTINF:-1 tvg-id="pbswetk.us" tvg-logo="http://149.56.14.45/Logo/english/pbs-en.png" tvg-name="PBS 2 (Boston) | HD"  group-title="Bell",PBS 2 (Boston) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/57
+#EXTINF:-1 tvg-id="NBC6WTVJ.us" tvg-name="NBC 6 (Miami) | HD" tvg-logo="https://media.nbcmiami.com/images/1200*675/blue+nbc+6+logo.jpg" group-title="Bell",NBC 6 (Miami) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18484
+#EXTINF:-1 tvg-id="ABC10WPLG.us" tvg-name="ABC 10 (Miami) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" group-title="Bell",ABC 10 (Miami) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18421
+#EXTINF:-1 tvg-id="NBCKPRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/KPRC-TV_Logo.png/100px-KPRC-TV_Logo.png" tvg-name="NBC 2 (Houston) | HD"  group-title="Bell",NBC 2 (Houston) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18477
+#EXTINF:-1 tvg-id="ABC13KTRKTV.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/ABC_13_KTRK_Houston_2015_logo.png" tvg-name="ABC 13 (Houston) | HD"  group-title="Bell",ABC 13 (Houston) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18402
+#EXTINF:-1 tvg-id="CBSKHOU.us" tvg-logo="http://149.56.14.45/Logo/2018/CBS_.png" tvg-name="CBS 11 (Dallas) | HD"  group-title="Bell",CBS 11 (Dallas) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18470
+#EXTINF:-1 tvg-id="FOXKDFW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/KRIV.png/125px-KRIV.png" tvg-name="FOX 4 (Dallas) | HD"  group-title="Bell",FOX 4 (Dallas) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18442
+#EXTINF:-1 tvg-id="FOXKRIV.us" tvg-name="FOX 7 (Austin) | HD" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/4d/8e/94/4d8e9427-6e28-6a0c-d70c-c4304523f8be/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg" group-title="Bell",FOX 7 (Austin) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18438
+#EXTINF:-1 tvg-id="NBC4KNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/KNBC_4_logo.png/180px-KNBC_4_logo.png" tvg-name="NBC 4 (Los Angeles) | HD"  group-title="Bell",NBC 4 (Los Angeles) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18481
+#EXTINF:-1 tvg-id="ABC7KABCTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/KABC-TV_Logo.png/170px-KABC-TV_Logo.png" tvg-name="ABC 7 (Los Angeles) | HD"  group-title="Bell",ABC 7 (Los Angeles) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18399
+#EXTINF:-1 tvg-id="CBSKCBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" tvg-name="CBS 2 (Los Angeles) | HD"  group-title="Bell",CBS 2 (Los Angeles) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18474
+#EXTINF:-1 tvg-id="Fox11KTTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/KTTV_Fox_11_logo.png/125px-KTTV_Fox_11_logo.png" tvg-name="FOX 11 (Los Angeles) | HD"  group-title="Bell",FOX 11 (Los Angeles) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18449
+#EXTINF:-1 tvg-id="peachtree.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Peachtree.png/200px-Peachtree.png" tvg-name="PEACH TREE | HD"  group-title="Bell",PEACH TREE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1066
+#EXTINF:-1 tvg-id="hbo.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" tvg-name="HBO | HD"  group-title="Bell",HBO | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/23
+#EXTINF:-1 tvg-id="hbo2.ca" tvg-logo="https://www.dropbox.com/s/jfm6l9sfosmsjto/HBO2.jpg?dl=1" tvg-name="HBO 2 | HD"  group-title="Bell",HBO 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/17
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSNHD.png" tvg-name="TSN 1 | HD"  group-title="Bell",TSN 1 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/124
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN2HD.png" tvg-name="TSN 2 | HD"  group-title="Bell",TSN 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/123
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN3HD.png" tvg-name="TSN 3 | HD"  group-title="Bell",TSN 3 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/122
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN4HD.png" tvg-name="TSN 4 | HD"  group-title="Bell",TSN 4 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/121
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN5HD.png" tvg-name="TSN 5 | HD"  group-title="Bell",TSN 5 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/120
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetOntarioHD.png" tvg-name="SPORTSNET ONTARIO | HD"  group-title="Bell",SPORTSNET ONTARIO | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/128
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetEastHD.png" tvg-name="SPORTSNET EAST | HD"  group-title="Bell",SPORTSNET EAST | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/130
+#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetPacificHD.png" tvg-name="SPORTSNET PACIFIC | HD"  group-title="Bell",SPORTSNET PACIFIC | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/127
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetWestHD.png" tvg-name="SPORTSNET WEST | HD"  group-title="Bell",SPORTSNET WEST | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/126
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetoneHD.png" tvg-name="SPORTSNET ONE | HD"  group-title="Bell",SPORTSNET ONE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/129
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-logo="http://149.56.14.45/Logo/sports/Sportsnet360HD.png" tvg-name="SPORTSNET 360 | HD"  group-title="Bell",SPORTSNET 360 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11853
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-logo="http://149.56.14.45//Logo/sports/SportsnetWorldHD.png" tvg-name="SPORTSNET WORLD | HD"  group-title="Bell",SPORTSNET WORLD | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1106
+#EXTINF:-1 tvg-id="beINSport.ca" tvg-logo="http://149.56.14.45/Logo/sports/BeinSportsUSAHD.png" tvg-name="BEIN SPORTS CANADA | HD"  group-title="Bell",BEIN SPORTS CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10444
+#EXTINF:-1 tvg-id="nbatv.ca" tvg-logo="http://149.56.14.45/Logo/sports/NBATV.png" tvg-name="NBA TV CANADA | HD"  group-title="Bell",NBA TV CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-logo="http://149.56.14.45/Logo/nhl/NHL-Network.png" tvg-name="NHL NETWORK | HD"  group-title="Bell",NHL NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/32
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/mlb-network.png" tvg-name="MLB NETWORK | HD"  group-title="Bell",MLB NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/74
+#EXTINF:-1 tvg-id="" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/mlbsz.png" tvg-name="MLB STRIKE ZONE | HD"  group-title="Bell",MLB STRIKE ZONE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18650
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/yptxsp1478034120.png" tvg-name="NFL NETWORK | HD"  group-title="Bell",NFL NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/62
+#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/swppwq1434505673.png" tvg-name="NFL REDZONE | HD"  group-title="Bell",NFL REDZONE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4401
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="http://149.56.14.45/Logo/sports/thefightnetwork.png" tvg-name="FIGHT NETWORK | HD"  group-title="Bell",FIGHT NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10443
+#EXTINF:-1 tvg-id="FightBox.UK" tvg-logo="http://149.56.14.45/Logo/2018/uypswt1444749022.png" tvg-name="FIGHT BOK UK | HD"  group-title="Bell",FIGHT BOX UK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9300
+#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/uypswt1444749022.png" tvg-name="FIGHT BOK ARABIC | HD"  group-title="Bell",FIGHT BOX ARABIC | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18759
+#EXTINF:-1 tvg-id="UFCTV.us" tvg-logo="http://media2.giga.de/2016/05/ufc-fight-pass-rcm992x0.jpg" tvg-name="UFC FIGHT PASS | HD"  group-title="Bell",UFC FIGHT PASS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19281
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.goleopards.com/images/2007/11/8/Dish_network_ppv_logo.gif" tvg-name="PPV SPORTS EVENTS | HD"  group-title="Bell",PPV SPORTS EVENTS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10502
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-_Blox-8k_Sc/VlyRV6Tw_eI/AAAAAAAAAi0/pNCQHtyGgqg/s1600/tv-tv-channels-sports-channels-a16-1.jpg" tvg-name="SKY SPORTS BOX OFFICE EVENTS | HD"  group-title="Bell",SKY SPORTS BOX OFFICE EVENTS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10503
+#EXTINF:-1 tvg-id="WWE.us" tvg-logo="http://149.56.14.45/Logo/sports/wwe.png" tvg-name="WWE | HD"  group-title="Bell",WWE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2
+#EXTINF:-1 tvg-id="cbcnews.ca" tvg-logo="http://149.56.14.45/Logo/english/cbc_news.jpg" tvg-name="CBC NEWS NETWORK | HD"  group-title="Bell",CBC NEWS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/147
+#EXTINF:-1 tvg-id="ctvnews.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/CTV_News_Channel_2011.svg/1200px-CTV_News_Channel_2011.svg.png" tvg-name="CTV NEWS CHANNEL | HD"  group-title="Bell",CTV NEWS CHANNEL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1089
+#EXTINF:-1 tvg-id="cp24.ca" tvg-logo="http://149.56.14.45/Logo/english/509_CP24-en.png" tvg-name="CP 24 | HD"  group-title="Bell",CP 24 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/144
+#EXTINF:-1 tvg-id="businessnews.ca" tvg-logo="http://149.56.14.45/Logo/2018/txypxp1478066803.png" tvg-name="BNN | HD"  group-title="Bell",BNN | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1072
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="http://149.56.14.45/Logo/2018/yystpx1433945387.png" tvg-name="AL JAZEERA ENGLISH"  group-title="Bell",AL JAZEERA ENGLISH
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4907
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="http://149.56.14.45/Logo/2018/upqurr1480590611.png" tvg-name="FRANCE 24 ENGLISH | HD"  group-title="Bell",FRANCE 24 ENGLISH | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4835
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-logo="http://149.56.14.45/Logo/2018/BBCWORLD.png" tvg-name="BBC WORLD NEWS | HD"  group-title="Bell",BBC WORLD NEWS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4894
+#EXTINF:-1 tvg-id="cnn.us" tvg-logo="http://149.56.14.45/Logo/english/CNN_HD-en.png" tvg-name="CNN | HD"  group-title="Bell",CNN | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/27
+#EXTINF:-1 tvg-id="hln.us" tvg-logo="http://149.56.14.45/Logo/english/502_HLN-en.png" tvg-name="HLN | HD"  group-title="Bell",HLN | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/27
+#EXTINF:-1 tvg-id="msnbc.us" tvg-logo="http://149.56.14.45/Logo/english/msnbc-en.png" tvg-name="MSNBC | HD"  group-title="Bell",MSNBC | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1
+#EXTINF:-1 tvg-id="foxnews.us" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" tvg-name="FOX NEWS | HD"  group-title="Bell",FOX NEWS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/84
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" tvg-name="BBC EARTH CANADA | HD"  group-title="Bell",BBC EARTH CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/14697
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" tvg-name="BBC EARTH POLAND | HD"  group-title="Bell",BBC EARTH POLAND | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19669
+#EXTINF:-1 tvg-id="" tvg-logo="http://my-hd.tv/shared/img/channels/Planet-earth.png" tvg-name="PLANET EARTH ARABIC | HD"  group-title="Bell",PLANET EARTH ARABIC | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18750
+#EXTINF:-1 tvg-id="natgeowild.ca" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD CANADA | HD"  group-title="Bell",NAT GEO WILD CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD USA| HD"  group-title="Bell",NAT GEO WILD USA| HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10518
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD UK | HD"  group-title="Bell",NAT GEO WILD UK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9423
+#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD ARABIC | HD"  group-title="Bell",NAT GEO WILD ARABIC | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18751
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD SPANISH | HD"  group-title="Bell",NAT GEO WILD SPANISH | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9947
+#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD PORTUGUESE | HD"  group-title="Bell",NAT GEO WILD PORTUGUESE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18973
+#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD POLISH | HD"  group-title="Bell",NAT GEO WILD POLISH | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19608
+#EXTINF:-1 tvg-id="" tvg-logo=https://banner2.kisspng.com/20180409/jte/kisspng-nat-geo-people-national-geographic-television-chan-eslimi-5acbd9458a35c9.8843066715233088695661.jpg" tvg-name="NAT GEO PEOPLE POLISH | HD"  group-title="Bell",NAT GEO PEOPLE POLISH | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18752
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/discovery.png" tvg-name="DISCOVERY SCIENCE USA| HD"  group-title="Bell",DISCOVERY SCIENCE USA| HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/25
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/discovery.png" tvg-name="DISCOVERY SCIENCE UK | HD"  group-title="Bell",DISCOVERY SCIENCE UK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4857
+#EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/velocity.png" tvg-name="MOTORTREND USA| HD"  group-title="Bell",MOTORTREND USA| HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/24
+#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-logo="http://149.56.14.45/Logo/2018/6mn8pk1515367247.png" tvg-name="MOTORS TV UK | HD" group-title="Bell",MOTORS TV UK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4813
+#EXTINF:-1 tvg-id="" tvg-logo="http://gobx.com/wp-content/uploads/2017/08/134-Motorvision-HD.png" tvg-name="MOTORVISION ARABIC | HD" group-title="Bell",MOTORVISION ARABIC | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18762
+#EXTINF:-1 tvg-id="foodnetwork.ca" tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/04/logo_tv_foodnetwork_apr2017.png" tvg-name="FOOD NETWORK CANADA | HD"  group-title="Bell",FOOD NETWORK CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1042
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/FOODNETWORK.png" tvg-name="FOOD NETWORK USA| HD" group-title="Bell",FOOD NETWORK USA| HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11552
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="FOOD NETWORK UK | HD" tvg-logo="http://149.56.14.45/Logo/2018/wrrrvu1433970560.png" group-title="Bell",FOOD NETWORK UK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4839
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="COOKING CHANNEL USA| HD" tvg-logo="http://149.56.14.45/Logo/2018/893p2e1494156845.png" group-title="Bell",COOKING CHANNEL USA| HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12090
+#EXTINF:-1 tvg-id="" tvg-name="SBS FOOD AUSTRALIA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/SBS_Food_logo.svg/1200px-SBS_Food_logo.svg.png" group-title="Bell",SBS FOOD AUSTRALIA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15126
+#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="GOOD FOOD UK | HD" tvg-logo="http://149.56.14.45/Logo/2018/truwtt1433964123.png" group-title="Bell",GOOD FOOD UK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4831
+#EXTINF:-1 tvg-id="hgtv.ca" tvg-name="HGTV CANADA | HD" tvg-logo="http://149.56.14.45/Logo/english/hgtv-en.png" group-title="Bell",HGTV CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/16
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV USA | HD" tvg-logo="http://149.56.14.45/Logo/2018/HGTVHD.png" group-title="Bell",HGTV USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1312
+#EXTINF:-1 tvg-id="doityourselfnetwork.us" tvg-name="DIY NETWORK USA| HD" tvg-logo="http://149.56.14.45/Logo/2018/DIYNETWORK.png" group-title="Bell",DIY NETWORK USA| HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1091
+#EXTINF:-1 tvg-id="slice.ca" tvg-name="SLICE TV | HD" tvg-logo="http://149.56.14.45/Logo/english/slice-en.png" group-title="Bell",SLICE TV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/5
+#EXTINF:-1 tvg-id="lifetimetv.ca" tvg-name="LIFETIME | HD" tvg-logo="http://149.56.14.45/Logo/english/lifetime-en.png" group-title="Bell",LIFETIME CANADA| HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="LIFETIME MOVIES USA| HD" tvg-logo="http://149.56.14.45/Logo/2018/vvtpys1433779816.png" group-title="Bell",LIFETIME MOVIES USA| HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11555
+#EXTINF:-1 tvg-id="Toprahwinfreynetwork.ca" tvg-name="OWN CANADA | HD" tvg-logo="http://149.56.14.45/Logo/english/OWN-en.jpg" group-title="Bell",OWN CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/6
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="OWN USA | HD" tvg-logo="http://149.56.14.45/Logo/english/OWN-en.jpg" group-title="Bell",OWN USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10396
+#EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="W NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/2018/uwqsqs1473376857.png" group-title="Bell",W NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8799
+#EXTINF:-1 tvg-id="bravo.ca" tvg-name="BRAVO CANADA | HD" tvg-logo="http://149.56.14.45/Logo/english/bravo_ca-en.png" group-title="Bell",BRAVO CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1057
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="BRAVO USA | HD" tvg-logo="http://149.56.14.45/Logo/english/bravo-en.png" group-title="Bell",BRAVO HD | USA
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/103
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="E! CANADA | HD" tvg-logo="http://149.56.14.45/Logo/english/e_global_us_hd-en.png" group-title="Bell",E! CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! USA| HD" tvg-logo="http://149.56.14.45/Logo/english/e_global_us_hd-en.png" group-title="Bell",E! USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12224
+#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="E! UK | HD" tvg-logo="http://149.56.14.45/Logo/2018/tyvqqr1433945535.png" group-title="Bell",E! UK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4848
+#EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-name="GAME SHOW NETWORK CANADA | HD" tvg-logo="http://149.56.14.45/Logo/english/GSN_ca-en.png" group-title="Bell",GAME SHOW NETWORK CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/40
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="GAME SHOW NETWORK USA| HD" tvg-logo="http://149.56.14.45/Logo/english/GSN_ca-en.png" group-title="Bell",GAME SHOW NETWORK USA| HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15659
+#EXTINF:-1 tvg-id="comedynetwork.ca" tvg-name="THE COMEDY NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/2018/THECOMEDYNETWORK.png" group-title="Bell",THE COMEDY NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1309
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="COMEDY CENTRAL | HD" tvg-logo="http://149.56.14.45/Logo/2018/ywxrqy1443637497.png" group-title="Bell",COMEDY CENTRAL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/92
+#EXTINF:-1 tvg-id="showcase.ca" tvg-name="SHOWCASE | HD" tvg-logo="http://149.56.14.45/Logo/english/showcase-en.png" group-title="Bell",SHOWCASE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1073
+#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="HISTORY TV CANADA | HD" tvg-logo="http://149.56.14.45/Logo/2018/wrsxux1435675016.png" group-title="Bell",HISTORY TV CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="HISTORY TV USA | HD" tvg-logo="http://149.56.14.45/Logo/2018/wrsxux1435675016.png" group-title="Bell",HISTORY TV USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10516
+#EXTINF:-1 tvg-id="history2.ca" tvg-name="H2 UK" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png" group-title="Bell",H2 UK
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/81
+
+
+###DISH###
+
+#EXTINF:0, tvg-id="nbcwbts.us" tvg-logo="http://149.56.14.45/Logo/2018/NBC.png" tvg-name="NBC 10 (Boston) | HD"  group-title="Dish",NBC 10 (Boston) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10459
+#EXTINF:0, tvg-id="ABCWABC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Wabc_2013.png/175px-Wabc_2013.png" tvg-name="ABC 7 (New York) | HD"  group-title="Dish",ABC 7 (New York) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18418
+#EXTINF:0, tvg-id="CBSWBZ.us" tvg-logo="http://149.56.14.45/Logo/2018/CBS_.png" tvg-name="CBS 4 (Boston) | HD"  group-title="Dish",CBS 4 (Boston) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/146
+#EXTINF:0, tvg-id="FOX25WFXT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/WNYW5.png/150px-WNYW5.png" tvg-name="FOX 25 (Boston) | HD"  group-title="Dish",FOX 25 (Boston) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/21
+#EXTINF:0, tvg-id="cw.us" tvg-logo="http://149.56.14.45/Logo/english/CW-en.png" tvg-name="CW 11 (New York) | HD"  group-title="Dish",CW 11 (New York) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/141
+#EXTINF:0, tvg-id="pbswetk.us" tvg-logo="http://149.56.14.45/Logo/english/pbs-en.png" tvg-name="PBS 2 (Boston) | HD"  group-title="Dish",PBS 2 (Boston) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/57
+#EXTINF:0, tvg-id="NBC6WTVJ.us" tvg-logo="https://media.nbcmiami.com/images/1200*675/blue+nbc+6+logo.jpg" tvg-name="NBC 6 (Miami) | HD"  group-title="Dish",NBC 6 (Miami) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18484
+#EXTINF:0, tvg-id="ABC10WPLG.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" tvg-name="ABC 10 (Miami) | HD"  group-title="Dish",ABC 10 (Miami) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18421
+#EXTINF:0, tvg-id="NBCKPRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/KPRC-TV_Logo.png/100px-KPRC-TV_Logo.png" tvg-name="NBC 2 (Houston) | HD"  group-title="Dish",NBC 2 (Houston) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18477
+#EXTINF:0, tvg-id="ABC13KTRKTV.us" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/ABC_13_KTRK_Houston_2015_logo.png" tvg-name="ABC 13 (Houston) | HD"  group-title="Dish",ABC 13 (Houston) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18402
+#EXTINF:0, tvg-id="CBSKHOU.us" tvg-logo="http://149.56.14.45/Logo/2018/CBS_.png" tvg-name="CBS 11 (Dallas) | HD"  group-title="Dish",CBS 11 (Dallas) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18470
+#EXTINF:0, tvg-id="FOXKDFW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/KRIV.png/125px-KRIV.png" tvg-name="FOX 4 (Dallas) | HD"  group-title="Dish",FOX 4 (Dallas) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18442
+#EXTINF:0, tvg-id="FOXKRIV.us" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/4d/8e/94/4d8e9427-6e28-6a0c-d70c-c4304523f8be/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg" tvg-name="FOX 7 (Austin) | HD"  group-title="Dish",FOX 7 (Austin) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18438
+#EXTINF:0, tvg-id="NBC4KNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/KNBC_4_logo.png/180px-KNBC_4_logo.png" tvg-name="NBC 4 (Los Angeles) | HD"  group-title="Dish",NBC 4 (Los Angeles) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18481
+#EXTINF:0, tvg-id="ABC7KABCTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/KABC-TV_Logo.png/170px-KABC-TV_Logo.png" tvg-name="ABC 7 (Los Angeles) | HD"  group-title="Dish",ABC 7 (Los Angeles) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18399
+#EXTINF:0, tvg-id="CBSKCBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" tvg-name="CBS 2 (Los Angeles) | HD"  group-title="Dish",CBS 2 (Los Angeles) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18474
+#EXTINF:0, tvg-id="Fox11KTTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/KTTV_Fox_11_logo.png/125px-KTTV_Fox_11_logo.png" tvg-name="FOX 11 (Los Angeles) | HD"  group-title="Dish",FOX 11 (Los Angeles) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18449
+#EXTINF:0, tvg-id="usanetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/yswxwr1433432126.png" tvg-name="USA NETWORK | HD"  group-title="Dish",USA NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/43
+#EXTINF:0, tvg-id="tvlandeast.us" tvg-logo="http://149.56.14.45/Logo/english/TVLAND-en.jpg" tvg-name="TV LAND | HD"  group-title="Dish",TV LAND | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/45
+#EXTINF:0, tvg-id="comedycentral.us" tvg-logo="http://149.56.14.45/Logo/2018/ywxrqy1443637497.png" tvg-name="COMEDY CENTRAL | HD"  group-title="Dish",COMEDY CENTRAL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/92
+#EXTINF:0, tvg-id="lifetimemovies.us" tvg-logo="http://149.56.14.45/Logo/2018/vvtpys1433779816.png" tvg-name="LIFETIME USA | HD"  group-title="Dish",LIFETIME USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11555
+#EXTINF:0, tvg-id="lmn.us" tvg-logo="http://149.56.14.45/Logo/2018/vxqtwx1434505261.png" tvg-name="LIFETIME MOVIE NETWORK | HD"  group-title="Dish",LIFETIME MOVIE NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9473
+#EXTINF:0, tvg-id="foodnetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/FOODNETWORK.png" tvg-name="FOOD NETWORK USA | HD"  group-title="Dish",FOOD NETWORK USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11552
+#EXTINF:0, tvg-id="cookingchannel.us" tvg-logo="http://149.56.14.45/Logo/2018/893p2e1494156845.png" tvg-name="COOKING CHANNEL USA | HD"  group-title="Dish",COOKING CHANNEL USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12090
+#EXTINF:0, tvg-id="doityourselfnetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/DIYNETWORK.png" tvg-name="DIY NETWORK USA | HD"  group-title="Dish",DIY NETWORK USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1091
+#EXTINF:0, tvg-id="hgtv.us" tvg-logo="http://149.56.14.45/Logo/2018/HGTVHD.png" tvg-name="HGTV USA | HD"  group-title="Dish",HGTV USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1312
+#EXTINF:0, tvg-id="eentertainment.us" tvg-logo="https://banner2.kisspng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" tvg-name="E! USA | HD"  group-title="Dish",E! USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12224
+#EXTINF:0, tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/2947360184a43fbc9a0c2c5e628f4c62a2768078f9c402f7cf891671e072ad75.png" tvg-name="PEOPLE TV | HD"  group-title="Dish",PEOPLE TV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15661
+#EXTINF:0, tvg-id="gameshownetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" tvg-name="GAME SHOW NETWORK USA | HD"  group-title="Dish",GAME SHOW NETWORK USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15659
+#EXTINF:0, tvg-id="PopTV.us" tvg-logo="http://149.56.14.45/Logo/2018/txuvrp1470050756.png" tvg-name="POP TV | HD"  group-title="Dish",POP TV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10519
+#EXTINF:0, tvg-id="aande.us" tvg-logo="http://149.56.14.45/Logo/2018/xyuqsu1435097077.png" tvg-name="A&E USA | HD"  group-title="Dish",A&E USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11553
+#EXTINF:0, tvg-id="fyi.us" tvg-logo="http://149.56.14.45/Logo/2018/svrrts1433430996.png" tvg-name="FYI | HD"  group-title="Dish",FYI | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12222
+#EXTINF:0, tvg-id="historychannel.us" tvg-logo="http://149.56.14.45/Logo/2018/wrsxux1435675016.png" tvg-name="HISTORY TV USA | HD"  group-title="Dish",HISTORY TV USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10516
+#EXTINF:0, tvg-id="History2.uk" tvg-logo="https://www.thelogodb.com/images/media/logo/yupvts1433779656.png/small" tvg-name="H2 UK"  group-title="Dish",H2 UK
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9430
+#EXTINF:0, tvg-id="viceland.us" tvg-logo="http://149.56.14.45/Logo/2018/VICELAND.png" tvg-name="VICELAND USA | HD"  group-title="Dish",VICELAND USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4225
+#EXTINF:0, tvg-id="syfy.us" tvg-logo="http://149.56.14.45/Logo/english/SyFy-en.png" tvg-name="SYFY | HD"  group-title="Dish",SYFY | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/50
+#EXTINF:0, tvg-id="BET.us" tvg-logo="http://149.56.14.45/Logo/2018/BET.png" tvg-name="BET | HD"  group-title="Dish",BET | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10381
+#EXTINF:0, tvg-id="fxx.us" tvg-logo="http://149.56.14.45/Logo/2018/zwe5zj1493834492.png" tvg-name="FXX USA | HD"  group-title="Dish",FXX USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12325
+#EXTINF:0, tvg-id="sundancetv.us" tvg-logo="http://149.56.14.45/Logo/2018/SUNDANCETV.png" tvg-name="SUNDANCE TV | HD"  group-title="Dish",SUNDANCE TV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8522
+#EXTINF:0, tvg-id="oxygen.us" tvg-logo="https://www.thelogodb.com/images/media/logo/wrpsqu1467823002.png/small" tvg-name="OXYGEN | HD"  group-title="Dish",OXYGEN | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2499
+#EXTINF:0, tvg-id="bravo.us" tvg-logo="http://149.56.14.45/Logo/english/bravo-en.png" tvg-name="BRAVO USA | HD"  group-title="Dish",BRAVO USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/103
+#EXTINF:0, tvg-id="amc.us" tvg-logo="http://149.56.14.45/Logo/2018/AMC.png" tvg-name="AMC USA | HD"  group-title="Dish",AMC USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12216
+#EXTINF:0, tvg-id="turnerclassicmovies.us" tvg-logo="Logo N/A" tvg-name="TCM USA | HD"  group-title="Dish",TCM USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15915
+#EXTINF:0, tvg-id="independentfilmchannel.us" tvg-logo="http://149.56.14.45/Logo/2018/fskqq21500254386.png" tvg-name="IFC USA | HD"  group-title="Dish",IFC USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12220
+#EXTINF:0, tvg-id="bbcamerica.us" tvg-logo="http://149.56.14.45/Logo/2018/tpsvpw1477930423.png" tvg-name="BBC AMERICA | HD"  group-title="Dish",BBC AMERICA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12219
+#EXTINF:0, tvg-id="fx.us" tvg-logo="http://149.56.14.45/Logo/english/fx-en.png" tvg-name="FX USA | HD"  group-title="Dish",FX USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/20
+#EXTINF:0, tvg-id="fxx.us" tvg-logo="http://149.56.14.45/Logo/2018/zwe5zj1493834492.png" tvg-name="FXX USA | HD"  group-title="Dish",FXX USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12325
+#EXTINF:0, tvg-id="tnt.us" tvg-logo="http://149.56.14.45/Logo/english/TNT_HD-en.png" tvg-name="TNT | HD"  group-title="Dish",TNT | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/47
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT (West) | HD"  group-title="Dish",TNT (West) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19075
+#EXTINF:0, tvg-id="TBS.us" tvg-logo="http://149.56.14.45/Logo/english/tbs-en.png" tvg-name="TBS | HD"  group-title="Dish",TBS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/49
+#EXTINF:0, tvg-id="espn.us" tvg-logo="https://www.pngfind.com/pngs/m/48-489555_fichierlogo-espnpng-mdash-wikip-233dia-espn-channel-logo.png" tvg-name="ESPN | HD"  group-title="Dish",ESPN | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/89
+#EXTINF:0, tvg-id="ESPN2.us" tvg-logo="https://www.pngfind.com/pngs/m/202-2026794_http-espn-hd-channel-logo-transparent-hd-png.png" tvg-name="ESPN 2 | HD"  group-title="Dish",ESPN 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/87
+#EXTINF:0, tvg-id="ESPNNews.us" tvg-logo="https://sc.dish.com/shared/images/station-logos/esnws.png" tvg-name="ESPNEWS | HD"  group-title="Dish",ESPNEWS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/88
+#EXTINF:0, tvg-id="espnu.us" tvg-logo="https://secure.espncdn.com/combiner/i?img=/watchespn/images/channels/1x/espnu.png&cquality=40" tvg-name="ESPN U | HD"  group-title="Dish",ESPN U | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1231
+#EXTINF:0, tvg-id="foxsports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" tvg-name="FOX SPORTS 1 | HD"  group-title="Dish",FOX SPORTS 1 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/35
+#EXTINF:0, tvg-id="foxsports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" tvg-name="FOX SPORTS 2 | HD"  group-title="Dish",FOX SPORTS 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/34
+#EXTINF:0, tvg-id="mlbnetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/mlb-network.png" tvg-name="MLB NETWORK | HD"  group-title="Dish",MLB NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/74
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MLB STRIKE ZONE | HD"  group-title="Dish",MLB STRIKE ZONE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18650
+#EXTINF:0, tvg-id="nflnetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/yptxsp1478034120.png" tvg-name="NFL NETWORK | HD"  group-title="Dish",NFL NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/62
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/swppwq1434505673.png" tvg-name="NFL REDZONE | HD"  group-title="Dish",NFL REDZONE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4401
+#EXTINF:0, tvg-id="NBATV.us" tvg-logo="http://149.56.14.45/Logo/2018/xutptv1433429127.png" tvg-name="NBA TV USA | HD"  group-title="Dish",NBA TV USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8516
+#EXTINF:0, tvg-id="nhlnetwork.us" tvg-logo="http://149.56.14.45/Logo/nhl/NHL-Network.png" tvg-name="NHL NETWORK USA | HD"  group-title="Dish",NHL NETWORK USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/32
+#EXTINF:0, tvg-id="CBSSports.ca" tvg-logo="http://149.56.14.45/Logo/sports/cbs_sports_network_color.png" tvg-name="CBS SPORTS NETWORK | HD"  group-title="Dish",CBS SPORTS NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/98
+#EXTINF:0, tvg-id="nbcsportsboston.us" tvg-logo="http://149.56.14.45/Logo/sports/nbc_sports_network.png" tvg-name="NBC SPORTS NETWORK | HD"  group-title="Dish",NBC SPORTS NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/33
+#EXTINF:0, tvg-id="MTV.us" tvg-logo="http://149.56.14.45/Logo/english/MTV-en.png" tvg-name="MTV | HD"  group-title="Dish",MTV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/73
+#EXTINF:0, tvg-id="MTV2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/1200px-MTV2_logo_2013.svg.png" tvg-name="MTV 2 | HD"  group-title="Dish",MTV 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22951
+#EXTINF:0, tvg-id="MTVClassic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MTV_Classic_US.svg/1250px-MTV_Classic_US.svg.png" tvg-name="MTV CLASSIC | HD"  group-title="Dish",MTV CLASSIC | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22950
+#EXTINF:0, tvg-id="vh1.us" tvg-logo="http://149.56.14.45/Logo/english/vh1-en.png" tvg-name="VH1 | HD"  group-title="Dish",VH1 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/38
+#EXTINF:0, tvg-id="fusetv.us" tvg-logo="http://149.56.14.45/Logo/2018/wyxtrx1433430139.png" tvg-name="FUSE | HD"  group-title="Dish",FUSE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10514
+#EXTINF:0, tvg-id="CMT.us" tvg-logo="Logo N/A" tvg-name="CMT USA | HD"  group-title="Dish",CMT USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22956
+#EXTINF:0, tvg-id="discoverychannel.us" tvg-logo="http://149.56.14.45/Logo/2018/usyusu1480364903.png" tvg-name="DISCOVERY USA | HD"  group-title="Dish",DISCOVERY USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1108
+#EXTINF:0, tvg-id="tlc.ca" tvg-logo="http://149.56.14.45/Logo/english/tlc-en.png" tvg-name="TLC CANADA | HD"  group-title="Dish",TLC CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4
+#EXTINF:0, tvg-id="animalplanet.us" tvg-logo="http://149.56.14.45/Logo/english/AnimalPlanetHD-en.png" tvg-name="ANIMAL PLANET | HD"  group-title="Dish",ANIMAL PLANET | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/29
+#EXTINF:0, tvg-id="hallmark.us" tvg-logo="http://149.56.14.45/Logo/2018/HALLMARKCHANNEL.png" tvg-name="HALLMARK CHANNEL | HD"  group-title="Dish",HALLMARK CHANNEL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/80
+#EXTINF:0, tvg-id="HallmarkDrama.us" tvg-logo="Logo N/A" tvg-name="HALLMARK DRAMA | HD"  group-title="Dish",HALLMARK DRAMA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15660
+#EXTINF:0, tvg-id="hallmarkmoviesmysteries.us" tvg-logo="http://149.56.14.45/Logo/2018/rrxuqr1434502642.png" tvg-name="HALLMARK MOVIES & MYSTERIES | HD"  group-title="Dish",HALLMARK MOVIES & MYSTERIES | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8721
+#EXTINF:0, tvg-id="oprahwinfreynetwork.us" tvg-logo="https://www.thelogodb.com/images/media/logo/vypxqw1433452640.png/small" tvg-name="OWN USA | HD"  group-title="Dish",OWN USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10396
+#EXTINF:0, tvg-id="natgeo.us" tvg-logo="http://149.56.14.45/Logo/2018/NATIONALGEOGRAPHICHD.png" tvg-name="NAT GEO USA | HD"  group-title="Dish",NAT GEO USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10517
+#EXTINF:0, tvg-id="natgeowild.us" tvg-logo="http://149.56.14.45/Logo/2018/NATGEOWILDHHD.png" tvg-name="NAT GEO WILD USA | HD"  group-title="Dish",NAT GEO WILD USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10518
+#EXTINF:0, tvg-id="investigationdiscovery.us" tvg-logo="http://149.56.14.45/Logo/english/id-en.png" tvg-name="ID USA | HD"  group-title="Dish",ID USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13
+#EXTINF:0, tvg-id="discoveryscience.us" tvg-logo="http://149.56.14.45/Logo/2018/wwyqwt1462874376.png" tvg-name="DISCOVERY SCIENCE USA | HD"  group-title="Dish",DISCOVERY SCIENCE USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/25
+#EXTINF:0, tvg-id="destinationamerica.us" tvg-logo="https://www.thelogodb.com/images/media/logo/vtqswx1434500778.png/small" tvg-name="DESTINATION AMERICA | HD"  group-title="Dish",DESTINATION AMERICA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/90
+#EXTINF:0, tvg-id="travelchannel.us" tvg-logo="Logo N/A" tvg-name="TRAVEL CHANNEL USA | HD"  group-title="Dish",TRAVEL CHANNEL USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10351
+#EXTINF:0, tvg-id="cnn.us" tvg-logo="http://149.56.14.45/Logo/english/CNN_HD-en.png" tvg-name="CNN | HD"  group-title="Dish",CNN | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/27
+#EXTINF:0, tvg-id="hln.us" tvg-logo="http://149.56.14.45/Logo/english/502_HLN-en.png" tvg-name="HLN | HD"  group-title="Dish",HLN | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/14
+#EXTINF:0, tvg-id="bloombergtv.us" tvg-logo="https://www.thelogodb.com/images/media/logo/vpqsxx1434057106.png/small" tvg-name="BLOOMBERG TV | HD"  group-title="Dish",BLOOMBERG TV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/104
+#EXTINF:0, tvg-id="foxnews.us" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" tvg-name="FOX NEWS CHANNEL | HD"  group-title="Dish",FOX NEWS CHANNEL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/84
+#EXTINF:0, tvg-id="foxbusiness.us" tvg-logo="http://149.56.14.45/Logo/2018/xtqpxr1434502104.png" tvg-name="FOX BUSINESS NETWORK | HD"  group-title="Dish",FOX BUSINESS NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/85
+#EXTINF:0, tvg-id="cnbc.us" tvg-logo="http://149.56.14.45/Logo/2018/pfsn7f1505903340.png" tvg-name="CNBC | HD"  group-title="Dish",CNBC | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/93
+#EXTINF:0, tvg-id="CNBCWorld.us" tvg-logo="Logo N/A" tvg-name="CNBC WORLD | HD"  group-title="Dish",CNBC WORLD | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22955
+#EXTINF:0, tvg-id="msnbc.us" tvg-logo="http://149.56.14.45/Logo/english/msnbc-en.png" tvg-name="MSNBC | HD"  group-title="Dish",MSNBC | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1
+#EXTINF:0, tvg-id="CSPAN.us" tvg-logo="http://167.114.64.174:7000/Logo/english/c-span.jpg" tvg-name="CSPAN | HD"  group-title="Dish",CSPAN | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/102
+#EXTINF:0, tvg-id="CSPAN2.us" tvg-logo="http://167.114.64.174:7000/Logo/english/c-span2.jpg" tvg-name="CSPAN 2 | HD"  group-title="Dish",CSPAN 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/101
+#EXTINF:0, tvg-id="weatherchannel.us" tvg-logo="Logo N/A" tvg-name="THE WEATHER CHANNEL USA | HD"  group-title="Dish",THE WEATHER CHANNEL USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1313
+#EXTINF:0, tvg-id="discoveryvelocity.us" tvg-logo="http://149.56.14.45/Logo/2018/ysysuu1434506168.png" tvg-name="MOTORTREND | HD"  group-title="Dish",MOTORTREND | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/24
+#EXTINF:0, tvg-id="ION.us" tvg-logo="http://149.56.14.45/Logo/2018/56ap9c1510667882.png" tvg-name="ION | HD"  group-title="Dish",ION | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8124
+#EXTINF:0, tvg-id="Logo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" tvg-name="LOGO | HD"  group-title="Dish",LOGO | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22952
+#EXTINF:0, tvg-id="RTInternational.ru" tvg-logo="http://149.56.14.45/Logo/2018/qywxss1477939997.png" tvg-name="RUSSIA TODAY NEWS | HD"  group-title="Dish",RUSSIA TODAY NEWS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4784
+#EXTINF:0, tvg-id="BBCWorldNews.uk" tvg-logo="http://149.56.14.45/Logo/2018/BBCWORLD.png" tvg-name="BBC WORLD NEWS"  group-title="Dish",BBC WORLD NEWS
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4894
+#EXTINF:0, tvg-id="ReelzChannel.us" tvg-logo="Logo N/A" tvg-name="REELZ | HD"  group-title="Dish",REELZ | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22539
+#EXTINF:0, tvg-id="hbo.us" tvg-logo="http://149.56.14.45/Logo/2018/vtqqws1509310608.png" tvg-name="HBO USA | HD"  group-title="Dish",HBO USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11839
+#EXTINF:0, tvg-id="HBO2.us" tvg-logo="Logo N/A" tvg-name="HBO 2 USA | HD"  group-title="Dish",HBO 2 USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22963
+#EXTINF:0, tvg-id="hbo.ca" tvg-logo="http://149.56.14.45/Logo/movies/hbo_polska-en.png" tvg-name="HBO CANADA | HD"  group-title="Dish",HBO CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/23
+#EXTINF:0, tvg-id="hbo2.ca" tvg-logo="http://149.56.14.45/Logo/2018/HBO2.png" tvg-name="HBO 2 CANADA | HD"  group-title="Dish",HBO 2 CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/17
+#EXTINF:0, tvg-id="hbofamily.us" tvg-logo="http://149.56.14.45/Logo/movies/hbo-family-en.png" tvg-name="HBO FAMILY | HD"  group-title="Dish",HBO FAMILY | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/79
+#EXTINF:0, tvg-id="hbocomedy.us" tvg-logo="http://149.56.14.45/Logo/2018/y8a09q1509311697.png" tvg-name="HBO COMEDY | HD"  group-title="Dish",HBO COMEDY | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4476
+#EXTINF:0, tvg-id="hbozone.us" tvg-logo="http://149.56.14.45/Logo/movies/hbo-zone-en.png" tvg-name="HBO ZONE | HD"  group-title="Dish",HBO ZONE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/78
+#EXTINF:0, tvg-id="Cinemax.us" tvg-logo="http://149.56.14.45/Logo/2018/xvqrqu1444832987.png" tvg-name="CINEMAX | HD"  group-title="Dish",CINEMAX | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/96
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="CINEMAX (West) | HD"  group-title="Dish",CINEMAX (West) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22964
+#EXTINF:0, tvg-id="ActionMax.us" tvg-logo="http://149.56.14.45/Logo/2018/vrruyr1467823469.png" tvg-name="CINEMAX ACTION MAX | HD"  group-title="Dish",CINEMAX ACTION MAX | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/95
+#EXTINF:0, tvg-id="showtime.us" tvg-logo="http://149.56.14.45/Logo/2018/vtysts1467823060.png" tvg-name="SHOWTIME | HD"  group-title="Dish",SHOWTIME | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/6734
+#EXTINF:0, tvg-id="showtime2.us" tvg-logo="http://149.56.14.45/Logo/2018/wxqxys1433428470.png" tvg-name="SHOWTIME 2 | HD"  group-title="Dish",SHOWTIME 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11840
+#EXTINF:0, tvg-id="showtimeshowcase.us" tvg-logo="http://149.56.14.45/Logo/movies/showtime_color-en.png" tvg-name="SHOWTIME SHOWCASE | HD"  group-title="Dish",SHOWTIME SHOWCASE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/56
+#EXTINF:0, tvg-id="starz.us" tvg-logo="http://149.56.14.45/Logo/2018/tvxvws1476447168.png" tvg-name="STARZ | HD"  group-title="Dish",STARZ | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/52
+#EXTINF:0, tvg-id="starzedge.us" tvg-logo="http://149.56.14.45/Logo/2018/sqypqr1461446864.png" tvg-name="STARZ EDGE | HD"  group-title="Dish",STARZ EDGE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/53
+#EXTINF:0, tvg-id="StarzKidsFamily.us" tvg-logo="http://149.56.14.45/Logo/2018/yytpsy1461446972.png" tvg-name="STARZ KIDS & FAMILY | HD"  group-title="Dish",STARZ KIDS & FAMILY | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/51
+#EXTINF:0, tvg-id="bether.us" tvg-logo="https://banner2.kisspng.com/20180430/sxe/kisspng-bet-her-logo-tv-television-channel-5ae71688b110d6.8660265715250940247253.jpg" tvg-name="BET HER | HD"  group-title="Dish",BET HER | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15911
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/BET_Soul_Logo.png" tvg-name="BET SOUL | HD"  group-title="Dish",BET SOUL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22957
+#EXTINF:0, tvg-id="BETjams.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/BET_Jams_Logo.png" tvg-name="BET JAMS | HD"  group-title="Dish",BET JAMS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22958
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" tvg-name="MTV U | HD"  group-title="Dish",MTV U | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22948
+#EXTINF:0, tvg-id="MTVLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/MTV_Live.svg/1024px-MTV_Live.svg.png" tvg-name="MTV LIVE | HD"  group-title="Dish",MTV LIVE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22949
+#EXTINF:0, tvg-id="epix.us" tvg-logo="Logo N/A" tvg-name="EPIX | HD"  group-title="Dish",EPIX | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19074
+#EXTINF:0, tvg-id="fxmoviechannel.us" tvg-logo="Logo N/A" tvg-name="FXM | HD"  group-title="Dish",FXM | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9513
+#EXTINF:0, tvg-id="mgm.us" tvg-logo="Logo N/A" tvg-name="MGM | HD"  group-title="Dish",MGM | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18648
+#EXTINF:0, tvg-id="sony.us" tvg-logo="Logo N/A" tvg-name="SONY MOVIES | HD"  group-title="Dish",SONY MOVIES | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15662
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="OUTSIDE TV | HD"  group-title="Dish",OUTSIDE TV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13713
+#EXTINF:0, tvg-id="foxsoccerplus.us" tvg-logo="https://www.soccernation.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-01-at-2.59.33-PM.png" tvg-name="FOX SOCCER PLUS | HD"  group-title="Dish",FOX SOCCER PLUS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10512
+#EXTINF:0, tvg-id="beinsports.us" tvg-logo="http://149.56.14.45/Logo/sports/BeinSportsUSAHD.png" tvg-name="BEIN SPORTS USA | HD"  group-title="Dish",BEIN SPORTS USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/37
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/6iblrh1494150426.png" tvg-name="WORLD FISHING NETWORK | HD"  group-title="Dish",WORLD FISHING NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13698
+#EXTINF:0, tvg-id="SportsmanChannel.us" tvg-logo="http://149.56.14.45/Logo/2018/qrpyxs1433452623.png" tvg-name="SPORTSMAN CHANNEL | HD"  group-title="Dish",SPORTSMAN CHANNEL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13697
+#EXTINF:0, tvg-id="outdoorchannel.us" tvg-logo="http://149.56.14.45/Logo/2018/yqxrpv1444920887.png" tvg-name="OUTDOOR CHANNEL | HD"  group-title="Dish",OUTDOOR CHANNEL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13696
+#EXTINF:0, tvg-id="TennisChannel.us" tvg-logo="http://149.56.14.45/Logo/sports/tennis-channel.png" tvg-name="TENNIS CHANNEL | HD"  group-title="Dish",TENNIS CHANNEL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/48
+#EXTINF:0, tvg-id="golfchannel.us" tvg-logo="http://149.56.14.45/Logo/sports/golf_channel_us.png" tvg-name="THE GOLF CHANNEL USA | HD"  group-title="Dish",THE GOLF CHANNEL USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/82
+#EXTINF:0, tvg-id="LonghornNetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/qbvu6b1499694699.png" tvg-name="LONGHORN NETWORK | HD"  group-title="Dish",LONGHORN NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9512
+#EXTINF:0, tvg-id="secnetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/SEC_network.png" tvg-name="SEC NETWORK | HD"  group-title="Dish",SEC NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/39
+#EXTINF:0, tvg-id="PAC12Network.us" tvg-logo="Logo N/A" tvg-name="PAC 12 NETWORK | HD"  group-title="Dish",PAC 12 NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/16714
+#EXTINF:0, tvg-id="bigtennetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/big-ten-network.png" tvg-name="BIG TEN NETWORK | HD"  group-title="Dish",BIG TEN NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9514
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ITV BOX OFFICE PPV SPORTS | HD"  group-title="Dish",ITV BOX OFFICE PPV SPORTS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10502
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/vturwx1438213534.png" tvg-name="SKY SPORTS BOX OFFICE PPV | HD"  group-title="Dish",SKY SPORTS BOX OFFICE PPV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10503
+#EXTINF:0, tvg-id="UFCTV.us" tvg-logo="Logo N/A" tvg-name="UFC FIGHT PASS | HD"  group-title="Dish",UFC FIGHT PASS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19281
+#EXTINF:0, tvg-id="WillowCricket.us" tvg-logo="http://149.56.14.45/Logo/sports/willow_cricket.png" tvg-name="WILLOW CRICKET | HD"  group-title="Dish",WILLOW CRICKET | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/41
 
 
-###Arabic###
+###AUSTRALIA###
 
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 9 (Sydney) | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/9HD.png" group-title="Australia",CHANNEL 9 (Sydney) | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15127
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 7 (Sydney)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png" group-title="Australia",CHANNEL 7 (Sydney)
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15119
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 7 (Melbourne) | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/7HD.png" group-title="Australia",CHANNEL 7 (Melbourne) | HD
+http://124.187.96.56:9981/stream/channelid/1614712908
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 10 (Sydney)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png" group-title="Australia",CHANNEL 10 (Sydney)
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15109
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 10 (Melbourne) | HD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/848ca7f0-25ca-4ce5-8a87-52b6c8caa677.png" group-title="Australia",CHANNEL 10 (Melbourne) | HD
+http://124.187.96.56:9981/stream/channelid/2080370834
+#EXTINF:-1 tvg-id="" tvg-name="ABC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/ABC_HD_Australia_logo.png" group-title="Australia",ABC | HD
+http://124.187.96.56:9981/stream/channelid/846478636
+#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/ABC_News_Channel.png" group-title="Australia",ABC NEWS
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15128
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS NEWS | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FoxSportsNews_logo_1.png/revision/latest?cb=20130509121604" group-title="Australia",FOX SPORTS NEWS | HD
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9LIFE | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/9Life.png" group-title="Australia",9LIFE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15132
+#EXTINF:-1 tvg-id="" tvg-name="9GEM | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/GEM.png" group-title="Australia",9GEM | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15134
+#EXTINF:-1 tvg-id="" tvg-name="9GO! | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/GO.png" group-title="Australia",9GO! | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15133
+#EXTINF:-1 tvg-id="" tvg-name="7TWO" tvg-logo="https://www.ourguide.com.au/images/station_images/7TWO.png" group-title="Australia",7TWO
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15135
+#EXTINF:-1 tvg-id="" tvg-name="7FOOD NETWORK" tvg-logo="https://www.ourguide.com.au/images/station_images/7FO.png" group-title="Australia",7FOOD NETWORK
+http://124.187.96.56:9981/stream/channelid/1344824548
+#EXTINF:-1 tvg-id="" tvg-name="7MATE" tvg-logo="https://www.ourguide.com.au/images/station_images/7MATE.png" group-title="Australia",7MATE
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15136
+#EXTINF:-1 tvg-id="" tvg-name="7FLIX" tvg-logo="https://www.ourguide.com.au/images/station_images/7flix.png" group-title="Australia",7FLIX
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15137
+#EXTINF:-1 tvg-id="" tvg-name="10 BOLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/1200px-10_Bold_2018.svg.png" group-title="Australia",10 BOLD
+http://124.187.96.56:9981/stream/channelid/2016928117
+#EXTINF:-1 tvg-id="" tvg-name="10 PEACH" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FTA/TDS_290x170.png" group-title="Australia",10 PEACH
+http://124.187.96.56:9981/stream/channelid/867071983
+#EXTINF:-1 tvg-id="" tvg-name="ABC COMEDY/KIDS" tvg-logo="https://i.imgur.com/G3MpgeW.png" group-title="Australia",ABC COMEDY/KIDS
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15130
+#EXTINF:-1 tvg-id="" tvg-name="ABC ME" tvg-logo="https://cdn.imgbin.com/13/5/15/imgbin-australia-abc-me-television-show-broadcasting-abc-9fHYKsyuB281jVTwFBu8MHFhC.jpg" group-title="Australia",ABC ME
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15129
+#EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-logo="https://www.abu.org.my/images/articles/news/SBS_HD_2015_logo%20copy.jpg" group-title="Australia",SBS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15121
+#EXTINF:-1 tvg-id="" tvg-name="SBS FOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/SBS_Food_logo.svg/1200px-SBS_Food_logo.svg.png" group-title="Australia",SBS FOOD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15126
+#EXTINF:-1 tvg-id="" tvg-name="SBS VICELAND | HD" tvg-logo="https://www.sbs.com.au/programs/sites/sbs.com.au.programs/files/styles/full/public/sbs_viceland_hd_black_1.jpg?itok=jGXUTPqP" group-title="Australia",SBS VICELAND | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15120
+#EXTINF:-1 tvg-id="" tvg-name="NITV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/NITV_logo_2016.png" group-title="Australia",NITV
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15124
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG TV AU | HD" tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="Australia",BLOOMBERG TV AU | HD
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS EXTRA 1" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Australia",SKY NEWS EXTRA 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS EXTRA 2" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Australia",SKY NEWS EXTRA 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS EXTRA 3" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Australia",SKY NEWS EXTRA 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV | HD" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="Australia",REDBULL TV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15122
+#EXTINF:-1 tvg-id="" tvg-name="THREE NZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Three_NZ_TV.png" group-title="Australia",THREE (New Zealand)
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WAIRARAPA TV" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="Australia",WAIRARAPA TV (New Zealand)
+http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAORI TV | HD" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/freeview-channel-logos-38.png" group-title="Australia",MAORI TV (New Zealand) | HD
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
+
+
+###Arabic###
 
 #EXTINF:-1 tvg-id="AL JAZEERA ARABIC" tvg-name="AL JAZEERA ARABIC | HD" tvg-logo="https://i.ytimg.com/vi/FzLzeDo_FU8/hqdefault_live.jpg?sqp=CKiPieYF-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB4T3Sh7I9nMWR2d8c0g-8PySSowA" group-title="Arabic",AL JAZEERA ARABIC | HD
 http://aljazeera-ara-HD-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
@@ -662,220 +935,7 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18802
 http://213.162.202.9:8000/play/a01u/index.m3u8
 
 
-###AUSTRALIA###
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 9 (Sydney) | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/9HD.png" group-title="Australia",CHANNEL 9 (Sydney) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15127
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 7 (Sydney)" tvg-logo="" group-title="Australia",CHANNEL 7 (Sydney)
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15119
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 7 (Melbourne) | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/7HD.png" group-title="Australia",CHANNEL 7 (Melbourne) | HD
-http://124.187.96.56:9981/stream/channelid/1614712908
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 10 (Sydney)" tvg-logo="https://www.ourguide.com.au/images/station_images/7HD.png" group-title="Australia",CHANNEL 10 (Sydney)
-http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 10 (Melbourne) | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/7HD.png" group-title="Australia",CHANNEL 10 (Melbourne) | HD
-http://124.187.96.56:9981/stream/channelid/2080370834
-#EXTINF:-1 tvg-id="" tvg-name="ABC | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/ABCHD.png" group-title="Australia",ABC | HD
-http://124.187.96.56:9981/stream/channelid/846478636
-#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS" tvg-logo="https://www.ourguide.com.au/images/station_images/2.png" group-title="Australia",ABC NEWS
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15128
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS NEWS | HD" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="Australia",FOX SPORTS NEWS | HD
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9GEM | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/GEM.png" group-title="Australia",9GEM | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15134
-#EXTINF:-1 tvg-id="" tvg-name="9GO! | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/GO.png" group-title="Australia",9GO! | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15133
-#EXTINF:-1 tvg-id="" tvg-name="9LIFE | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/9Life.png" group-title="Australia",9LIFE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15132
-#EXTINF:-1 tvg-id="" tvg-name="7TWO" tvg-logo="https://www.ourguide.com.au/images/station_images/7TWO.png" group-title="Australia",7TWO
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15135
-#EXTINF:-1 tvg-id="" tvg-name="7FOOD NETWORK" tvg-logo="https://www.ourguide.com.au/images/station_images/7FO.png" group-title="Australia",7FOOD NETWORK
-http://124.187.96.56:9981/stream/channelid/1344824548
-#EXTINF:-1 tvg-id="" tvg-name="7MATE" tvg-logo="https://www.ourguide.com.au/images/station_images/7MATE.png" group-title="Australia",7MATE
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15136
-#EXTINF:-1 tvg-id="" tvg-name="7FLIX" tvg-logo="https://www.ourguide.com.au/images/station_images/7flix.png" group-title="Australia",7FLIX
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15137
-#EXTINF:-1 tvg-id="" tvg-name="10 BOLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/375px-10_Bold_2018.svg.png" group-title="Australia",10 BOLD
-http://124.187.96.56:9981/stream/channelid/2016928117
-#EXTINF:-1 tvg-id="" tvg-name="10 PEACH" tvg-logo="https://www.ourguide.com.au/images/station_images/11.png" group-title="Australia",10 PEACH
-http://124.187.96.56:9981/stream/channelid/867071983
-#EXTINF:-1 tvg-id="" tvg-name="ABC COMEDY/KIDS" tvg-logo="https://www.ourguide.com.au/images/station_images/ABC2.png" group-title="Australia",ABC COMEDY/KIDS
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15130
-#EXTINF:-1 tvg-id="" tvg-name="ABC ME" tvg-logo="https://www.ourguide.com.au/images/station_images/ABC3.png" group-title="Australia",ABC ME
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15129
-#EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-logo="https://www.ourguide.com.au/images/station_images/SBS.png" group-title="Australia",SBS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15121
-#EXTINF:-1 tvg-id="" tvg-name="SBS FOOD" tvg-logo="https://www.ourguide.com.au/images/station_images/SBS3.png" group-title="Australia",SBS FOOD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15126
-#EXTINF:-1 tvg-id="" tvg-name="SBS VICELAND | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/SBS2.png" group-title="Australia",SBS VICELAND | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15120
-#EXTINF:-1 tvg-id="" tvg-name="NITV" tvg-logo="https://www.ourguide.com.au/images/station_images/NITV.png" group-title="Australia",NITV
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15124
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG TV AU | HD" tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="Australia",BLOOMBERG TV AU | HD
-https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS EXTRA 1" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Australia",SKY NEWS EXTRA 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS EXTRA 2" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Australia",SKY NEWS EXTRA 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS EXTRA 3" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Australia",SKY NEWS EXTRA 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV" tvg-logo="" group-title="Australia",REDBULL TV
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15122
-#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS" tvg-logo="" group-title="Australia",TEN SPORTS
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15109
-#EXTINF:-1 tvg-id="" tvg-name="RACING.COM" tvg-logo="" group-title="Australia",RACING.COM
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15123
-#EXTINF:-1 tvg-id="" tvg-name="SEVEN SPORTS #1" tvg-logo="" group-title="Australia",SEVEN SPORTS #1
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15118
-#EXTINF:-1 tvg-id="" tvg-name="SEVEN SPORTS #2" tvg-logo="" group-title="Australia",SEVEN SPORTS #2
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15117
-#EXTINF:-1 tvg-id="" tvg-name="SEVEN SPORTS #3" tvg-logo="" group-title="Australia",SEVEN SPORTS #3
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15116
-#EXTINF:-1 tvg-id="" tvg-name="SEVEN SPORTS #4" tvg-logo="" group-title="Australia",SEVEN SPORTS #4
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15115
-#EXTINF:-1 tvg-id="" tvg-name="SEVEN SPORTS #5" tvg-logo="" group-title="Australia",SEVEN SPORTS #5
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15114
-#EXTINF:-1 tvg-id="" tvg-name="SEVEN SPORTS #6" tvg-logo="" group-title="Australia",SEVEN SPORTS #6
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15113
-#EXTINF:-1 tvg-id="" tvg-name="SEVEN SPORTS #7" tvg-logo="" group-title="Australia",SEVEN SPORTS #7
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15112
-#EXTINF:-1 tvg-id="" tvg-name="SEVEN SPORTS #8" tvg-logo="" group-title="Australia",SEVEN SPORTS #8
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15111
-#EXTINF:-1 tvg-id="" tvg-name="SONLIFE INTERNATIONAL" tvg-logo="" group-title="Australia",SONLIFE INTERNATIONAL
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15110
-#EXTINF:-1 tvg-id="" tvg-name="THREE NZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Three_NZ_TV.png" group-title="NZ/Pacific",THREE NZ
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WAIRARAPA TV" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="NZ/Pacific",WAIRARAPA TV
-http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAORI TV | HD" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/freeview-channel-logos-38.png" group-title="NZ/Pacific",MAORI TV | HD
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FIJI TV" tvg-logo="https://www.fijione.tv/wp-content/uploads/2018/01/fijitv_small_logo_new.png" group-title="NZ/Pacific",Fiji TV
-http://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8
-
-
-#MUSIC PASS###
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" tvg-name="TRACE URBAN | HD"  group-title="Fav",TRACE URBAN | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18755
-#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="UK : MTV MUSIC UK" tvg-logo="http://149.56.14.45/Logo/2018/twupws1433789396.png" group-title="Music Pass",UK : MTV MUSIC UK
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4806
-#EXTINF:-1 tvg-id="" tvg-name="TRACE MZIKI (Kenya) | HD" tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="Music Pass",TRACE MZIKI (Kenya) | HD
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICA (South Africa) | HD" tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/sites/23/2016/11/logo_africa-1.png" group-title="Music Pass",TRACE AFRICA (South Africa) | HD
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE KITOKO (Congo) | HD" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="Music Pass",TRACE KITOKO (Congo) | HD
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA (Mozambique) | HD" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="Music Pass",TRACE TOCA (Mozambique) | HD
-http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE NAIJA (Nigeria) | HD" tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png" group-title="Music Pass",TRACE NAIJA (Nigeria) | HD
-http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="UK : MTV BASE" tvg-logo="http://149.56.14.45/Logo/2018/xpwqvr1433522069.png" group-title="Music Pass",UK : MTV BASE
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4810
-#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="UK : MTV HITS" tvg-logo="http://149.56.14.45/Logo/2018/vxrxrt1433522140.png" group-title="Music Pass",UK : MTV HITS
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4807
-#EXTINF:-1 tvg-id="MTV+1" tvg-name="UK : MTV ONE" tvg-logo="" group-title="Music Pass",UK : MTV ONE
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4805
-#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="UK : MTV DANCE" tvg-logo="http://149.56.14.45/Logo/2018/xusuwy1433522237.png" group-title="Music Pass",UK : MTV DANCE
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4808
-#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="UK : MTV ROCKS" tvg-logo="http://149.56.14.45/Logo/2018/qyuuus1433522058.png" group-title="Music Pass",UK : MTV ROCKS
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4804
-#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="UK : MTV CLASSIC" tvg-logo="http://149.56.14.45/Logo/2018/rsxrvr1433522224.png" group-title="Music Pass",UK : MTV CLASSIC
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4809
-
-
-###SPORTS###
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1 | HD" tvg-logo="http://149.56.14.45/Logo/sports/TSNHD.png" group-title="Sports",TSN 1 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/124
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2 | HD" tvg-logo="http://149.56.14.45/Logo/sports/TSN2HD.png" group-title="Sports",TSN 2 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/123
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3 | HD" tvg-logo="http://149.56.14.45/Logo/sports/TSN3HD.png" group-title="Sports",TSN 3 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/122
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4 | HD" tvg-logo="http://149.56.14.45/Logo/sports/TSN4HD.png" group-title="Sports",TSN 4 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/121
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5 | HD" tvg-logo="http://149.56.14.45/Logo/sports/TSN5HD.png" group-title="Sports",TSN 5 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/120
-#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="SPORTSNET 360 | HD" tvg-logo="http://149.56.14.45/Logo/sports/Sportsnet360HD.png" group-title="Sports",SPORTSNET 360 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11853
-#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="SPORTSNET ONE | HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetoneHD.png" group-title="Sports",SPORTSNET ONE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/129
-#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="SPORTSNET ONTARIO | HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetOntarioHD.png" group-title="Sports",SPORTSNET ONTARIO | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/128
-#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="SPORTSNET EAST | HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetEastHD.png" group-title="Sports",SPORTSNET EAST | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/130
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="SPORTSNET WEST | HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetWestHD.png" group-title="Sports",SPORTSNET WEST | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/126
-#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="SPORTSNET PACIFIC | HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetPacificHD.png" group-title="Sports",SPORTSNET PACIFIC | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/127
-#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="SPORTSNET WORLD | HD" tvg-logo="http://149.56.14.45//Logo/sports/SportsnetWorldHD.png" group-title="Sports",SPORTSNET WORLD | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1106
-#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN | HD" tvg-logo="http://149.56.14.45/Logo/2018/xuprrx1472105225.png" group-title="Sports",ESPN | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/89
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 | HD" tvg-logo="http://149.56.14.45/Logo/2018/xryqyp1472105342.png" group-title="Sports",ESPN 2 | HD
-http://161.0.157.6/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPNEWS | HD" tvg-logo="http://149.56.14.45/Logo/2018/vtsutx1434501589.png" group-title="Sports",ESPNEWS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/88
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPN U | HD" tvg-logo="http://149.56.14.45/Logo/2018/wuqypq1434501650.png" group-title="Sports",ESPN U | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1231
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1 | HD" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" group-title="Sports",FOX SPORTS 1 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/35
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2 | HD" tvg-logo="http://149.56.14.45/Logo/2018/uxxtrt1433944508.png" group-title="Sports",FOX SPORTS 2 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/34
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 (West) | HD" tvg-logo="" group-title="Sports",FOX SPORTS 1 (West) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19070
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (West) | HD" tvg-logo="" group-title="Sports",FOX SPORTS 2 (West) | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19071
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV USA | HD" tvg-logo="http://149.56.14.45/Logo/2018/xutptv1433429127.png" group-title="Sports",NBA TV USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8516
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="NBA TV CANADA | HD" tvg-logo="http://149.56.14.45/Logo/sports/NBATV.png" group-title="Sports",NBA TV CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9
-#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="NHL NETWORK USA | HD" tvg-logo="http://149.56.14.45/Logo/nhl/NHL-Network.png" group-title="Sports",NHL NETWORK USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/32
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/sports/mlb-network.png" group-title="Sports",MLB NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/74
-#EXTINF:-1 tvg-id="" tvg-name="MLB STRIKE ZONE | HD" tvg-logo="" group-title="Sports",MLB STRIKE ZONE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18650
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/2018/yptxsp1478034120.png" group-title="Sports",NFL NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/62
-#EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE | HD" tvg-logo="http://149.56.14.45/Logo/2018/swppwq1434505673.png" group-title="Sports",NFL REDZONE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4401
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS ILLUSTRATED | HD" tvg-logo="" group-title="Sports",SPORTS ILLUSTRATED | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/14199
-#EXTINF:-1 tvg-id="" tvg-name="ITV BOX OFFICE PPV SPORTS | HD" tvg-logo="" group-title="Sports",ITV BOX OFFICE PPV SPORTS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10502
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS BOX OFFICE PPV | HD" tvg-logo="http://149.56.14.45/Logo/2018/vturwx1438213534.png" group-title="Sports",SKY SPORTS BOX OFFICE PPV | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10503
-#EXTINF:-1 tvg-id="UFCTV.us" tvg-name="UFC FIGHT PASS | HD" tvg-logo="" group-title="Sports",UFC FIGHT PASS | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19281
-#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BOXNATION UK | HD" tvg-logo="http://149.56.14.45/Logo/2018/vuvwsr1433336020.png" group-title="Sports",BOXNATION UK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4884
-#EXTINF:-1 tvg-id="FightBox.UK" tvg-name="FIGHTBOX UK | HD" tvg-logo="http://149.56.14.45/Logo/2018/uypswt1444749022.png" group-title="Sports",FIGHTBOX UK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9300
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="FIGHT NETWORK CANADA | HD" tvg-logo="http://149.56.14.45/Logo/sports/thefightnetwork.png" group-title="Sports",FIGHT NETWORK CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10443
-#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/sports/wwe.png" group-title="Sports",WWE NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2
-#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV AU | HD" tvg-logo="" group-title="Sports",REDBULL TV AU | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15122
-#EXTINF:-1 tvg-id="" tvg-name="WORLD FISHING NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/2018/6iblrh1494150426.png" group-title="Sports",WORLD FISHING NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13698
-#EXTINF:-1 tvg-id="" tvg-name="OUTSIDE TV | HD" tvg-logo="" group-title="Sports",OUTSIDE TV | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13713
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="OUTDOOR CHANNEL | HD" tvg-logo="http://149.56.14.45/Logo/2018/yqxrpv1444920887.png" group-title="Sports",OUTDOOR CHANNEL | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13696
-#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="SPORTSMAN CHANNEL | HD" tvg-logo="http://149.56.14.45/Logo/2018/qrpyxs1433452623.png" group-title="Sports",SPORTSMAN CHANNEL | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13697
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="BEIN SPORTS USA | HD" tvg-logo="http://149.56.14.45/Logo/sports/BeinSportsUSAHD.png" group-title="Sports",BEIN SPORTS USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/37
-#EXTINF:-1 tvg-id="beINSport.ca" tvg-name="BEIN SPORTS CANADA | HD" tvg-logo="" group-title="Sports",BEIN SPORTS CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10444
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS NEWS AU | HD" tvg-logo="" group-title="Sports",FOX SPORTS NEWS AU | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15125
-#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="WILLOW CRICKET | HD" tvg-logo="http://149.56.14.45/Logo/sports/willow_cricket.png" group-title="Sports",WILLOW CRICKET | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/41
-
-
-
-
-
+###UNSORTED###
 
 #EXTINF:-1 tvg-id="ABCWCVB.us" tvg-name="ABC HD" tvg-logo="http://149.56.14.45/Logo/2018/ABC.png" group-title="US/CAN - Entertainment",ABC HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/114
