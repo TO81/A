@@ -41,3 +41,315 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRACE NAIJA (Nigeria) | HD" tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png" group-title="Music",TRACE NAIJA (Nigeria) | HD
 http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+
+
+###FASHION###
+
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV: MS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fashion",FASHION TV: MS | HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV 1: L'ORIGINAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fashion",FASHION TV 1: L'ORIGINAL | HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV 3: PARIS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fashion",FASHION TV 3: PARIS | HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV 9: GLOBAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fashion",FASHION TV 9: GLOBAL | HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL FASHION CHANNEL | HD" tvg-logo="https://i.imgur.com/qcrsf49.png" group-title="Fashion",GLOBAL FASHION CHANNEL | HD
+https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID FASHION | HD" tvg-logo="http://acrotv.com/images/broad/20181126195123531.jpg" group-title="Fashion",ID FASHION | HD
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUNWAY TV | HD" tvg-logo="https://i.imgur.com/gh8UdCR.png" group-title="Fashion",RUNWAY TV | HD
+http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LUXE TV | HD" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/LUXE-logo.png" group-title="Fashion",LUXE TV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18758
+#EXTINF:-1 tvg-id="" tvg-name="LUXURY (Russia) | HD" tvg-logo="https://i.imgur.com/6gVDM9S.jpg" group-title="Fashion",LUXURY (Russia) | HD
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INSIGHT | HD" tvg-logo="https://www.ses.com/sites/default/files/styles/card/public/2017-10/INsight%20TV.png" group-title="Fashion",INSIGHT | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18740
+#EXTINF:-1 tvg-id="" tvg-name="TRACE SPORT STARS | HD" tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/2016/11/logo_sport1.png" group-title="Fashion",TRACE SPORT STARS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18756
+
+
+###SPORTS###
+
+#EXTINF:0, tvg-id="espn.us" tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" tvg-name="ESPN | HD"  group-title="Sports",ESPN | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/89
+#EXTINF:0, tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" tvg-name="ESPN 2 | HD"  group-title="Sports",ESPN 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/87
+#EXTINF:0, tvg-id="ESPNNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" tvg-name="ESPNEWS | HD"  group-title="Sports",ESPNEWS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/88
+#EXTINF:0, tvg-id="espnu.us" tvg-logo="https://secure.espncdn.com/combiner/i?img=/watchespn/images/channels/1x/espnu.png&cquality=40" tvg-name="ESPN U | HD"  group-title="Sports",ESPN U | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1231
+#EXTINF:0, tvg-id="foxsports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" tvg-name="FOX SPORTS 1 | HD"  group-title="Sports",FOX SPORTS 1 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/35
+#EXTINF:0, tvg-id="foxsports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" tvg-name="FOX SPORTS 2 | HD"  group-title="Sports",FOX SPORTS 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/34
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSNHD.png" tvg-name="TSN 1 | HD"  group-title="Sports",TSN 1 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/124
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN2HD.png" tvg-name="TSN 2 | HD"  group-title="Sports",TSN 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/123
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN3HD.png" tvg-name="TSN 3 | HD"  group-title="Sports",TSN 3 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/122
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN4HD.png" tvg-name="TSN 4 | HD"  group-title="Sports",TSN 4 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/121
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-logo="http://149.56.14.45/Logo/sports/TSN5HD.png" tvg-name="TSN 5 | HD"  group-title="Sports",TSN 5 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/120
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-logo="http://149.56.14.45/Logo/sports/Sportsnet360HD.png" tvg-name="SPORTSNET 360 | HD"  group-title="Sports",SPORTSNET 360 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11853
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetoneHD.png" tvg-name="SPORTSNET ONE | HD"  group-title="Sports",SPORTSNET ONE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/129
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetOntarioHD.png" tvg-name="SPORTSNET ONTARIO | HD"  group-title="Sports",SPORTSNET ONTARIO | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/128
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetEastHD.png" tvg-name="SPORTSNET EAST | HD"  group-title="Sports",SPORTSNET EAST | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/130
+#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetPacificHD.png" tvg-name="SPORTSNET PACIFIC | HD"  group-title="Sports",SPORTSNET PACIFIC | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/127
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetWestHD.png" tvg-name="SPORTSNET WEST | HD"  group-title="Sports",SPORTSNET WEST | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/126
+#EXTINF:-1 tvg-id="nbatv.ca" tvg-logo="http://149.56.14.45/Logo/sports/NBATV.png" tvg-name="NBA TV CANADA | HD"  group-title="Sports",NBA TV CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9
+#EXTINF:0, tvg-id="NBATV.us" tvg-logo="http://149.56.14.45/Logo/2018/xutptv1433429127.png" tvg-name="NBA TV USA | HD"  group-title="Sports",NBA TV USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8516
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-logo="http://149.56.14.45/Logo/nhl/NHL-Network.png" tvg-name="NHL NETWORK USA | HD"  group-title="Sports",NHL NETWORK USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/32
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/mlb-network.png" tvg-name="MLB NETWORK | HD"  group-title="Sports",MLB NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/74
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/yptxsp1478034120.png" tvg-name="NFL NETWORK | HD"  group-title="Sports",NFL NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/62
+#EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE | HD" tvg-logo="http://149.56.14.45/Logo/2018/swppwq1434505673.png" group-title="Sports",NFL REDZONE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4401
+#EXTINF:0, tvg-id="golfchannel.us" tvg-logo="http://149.56.14.45/Logo/sports/golf_channel_us.png" tvg-name="THE GOLF CHANNEL USA | HD"  group-title="Sports",THE GOLF CHANNEL USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/82
+#EXTINF:0, tvg-id="nbcsportsboston.us" tvg-logo="http://149.56.14.45/Logo/sports/nbc_sports_network.png" tvg-name="NBC SPORTS NETWORK | HD"  group-title="Sports",NBC SPORTS NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/33
+#EXTINF:0, tvg-id="CBSSports.ca" tvg-logo="http://149.56.14.45/Logo/sports/cbs_sports_network_color.png" tvg-name="CBS SPORTS NETWORK | HD"  group-title="Sports",CBS SPORTS NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/98
+#EXTINF:0, tvg-id="LonghornNetwork.us" tvg-logo="http://149.56.14.45/Logo/2018/qbvu6b1499694699.png" tvg-name="LONGHORN NETWORK | HD"  group-title="Sports",LONGHORN NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9512
+#EXTINF:0, tvg-id="secnetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/SEC_network.png" tvg-name="SEC NETWORK | HD"  group-title="Sports",SEC NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/39
+#EXTINF:0, tvg-id="PAC12Network.us" tvg-logo="Logo N/A" tvg-name="PAC 12 NETWORK | HD"  group-title="Sports",PAC 12 NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/16714
+#EXTINF:0, tvg-id="bigtennetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/big-ten-network.png" tvg-name="BIG TEN NETWORK | HD"  group-title="Sports",BIG TEN NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9514
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-logo="http://149.56.14.45//Logo/sports/SportsnetWorldHD.png" tvg-name="SPORTSNET WORLD | HD"  group-title="Sports",SPORTSNET WORLD | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1106
+#EXTINF:0, tvg-id="beinsports.us" tvg-logo="http://149.56.14.45/Logo/sports/BeinSportsUSAHD.png" tvg-name="BEIN SPORTS USA | HD"  group-title="Sports",BEIN SPORTS USA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/37
+#EXTINF:0, tvg-id="foxsoccerplus.us" tvg-logo="https://www.soccernation.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-01-at-2.59.33-PM.png" tvg-name="FOX SOCCER PLUS | HD"  group-title="Sports",FOX SOCCER PLUS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10512
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS NEWS | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FoxSportsNews_logo_1.png/revision/latest?cb=20130509121604" group-title="Sports",FOX SPORTS NEWS | HD
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0, tvg-id="WillowCricket.us" tvg-logo="http://149.56.14.45/Logo/sports/willow_cricket.png" tvg-name="WILLOW CRICKET | HD"  group-title="Sports",WILLOW CRICKET | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/41
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC CHANNEL | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sports",OLYMPIC CHANNEL | HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+#EXTINF:0, tvg-id="TennisChannel.us" tvg-logo="http://149.56.14.45/Logo/sports/tennis-channel.png" tvg-name="TENNIS CHANNEL | HD"  group-title="Sports",TENNIS CHANNEL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/48
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/6iblrh1494150426.png" tvg-name="WORLD FISHING NETWORK | HD"  group-title="Sports",WORLD FISHING NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13698
+#EXTINF:-1 tvg-id="" tvg-name="GONE FISHING | HD" tvg-logo="https://i.imgur.com/xLC8ulA.png" group-title="Sports",GONE FISHING | HD
+https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GONE HUNTING | HD" tvg-logo="https://i.imgur.com/IDgT6aq.png" group-title="Sports",GONE HUNTING | HD
+https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0, tvg-id="SportsmanChannel.us" tvg-logo="http://149.56.14.45/Logo/2018/qrpyxs1433452623.png" tvg-name="SPORTSMAN CHANNEL | HD"  group-title="Sports",SPORTSMAN CHANNEL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13697
+#EXTINF:-1 tvg-id="" tvg-name="LIVING OUTDOORS | HD" tvg-logo="https://i.imgur.com/KGaH3pH.png" group-title="Sports",LIVING OUTDOORS | HD
+https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0, tvg-id="outdoorchannel.us" tvg-logo="http://149.56.14.45/Logo/2018/yqxrpv1444920887.png" tvg-name="OUTDOOR CHANNEL | HD"  group-title="Sports",OUTDOOR CHANNEL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13696
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="OUTSIDE TV | HD"  group-title="Sports",OUTSIDE TV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13713
+#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV | HD" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="Sports",REDBULL TV AU | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15122
+#EXTINF:-1 tvg-id="" tvg-name="EDGE SPORTS | HD" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="Sports",EDGE SPORTS | HD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ACTION SPORTS 4U | HD" tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="Sports",ACTION SPORTS 4U | HD
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADVENTURE SPORTS NETWORK | HD" tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="Sports",ADVENTURE SPORTS NETWORK | HD
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/sports/wwe.png" group-title="Sports",WWE NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BOXNATION UK | HD" tvg-logo="http://149.56.14.45/Logo/2018/vuvwsr1433336020.png" group-title="Sports",BOXNATION UK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4884
+#EXTINF:-1 tvg-id="FightBox.UK" tvg-name="FIGHTBOX UK | HD" tvg-logo="http://149.56.14.45/Logo/2018/uypswt1444749022.png" group-title="Sports",FIGHTBOX UK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9300
+#EXTINF:-1 tvg-id="" tvg-name="HARD KNOCKS FIGHTING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Sports",HARD KNOCKS FIGHTING
+https://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="FIGHT NETWORK CANADA | HD" tvg-logo="http://149.56.14.45/Logo/sports/thefightnetwork.png" group-title="Sports",FIGHT NETWORK CANADA | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10443
+#EXTINF:0, tvg-id="UFCTV.us" tvg-logo="Logo N/A" tvg-name="UFC FIGHT PASS | HD"  group-title="Sports",UFC FIGHT PASS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19281
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/ITV_Box_Office_logo.png" tvg-name="ITV BOX OFFICE PPV SPORTS | HD"  group-title="Sports",ITV BOX OFFICE PPV SPORTS | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10502
+#EXTINF:0, tvg-id="" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsmainevent_130x130.png" tvg-name="SKY SPORTS MAIN EVENT PPV | HD"  group-title="Sports",SKY SPORTS MAIN EVENT PPV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10503
+#EXTINF:-1 tvg-id"" tvg-name="SKY SPORTS MAIN EVENT PPV | HD (Backup 1)" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsmainevent_130x130.png" group-title="Sports",SKY SPORTS MAIN EVENT PPV | HD (Backup 1)
+https://sbsports.pro/lba/NDI5OGFiOTU4ZjFmYjQzOGU0YmRhYjkyMjNhYzA3MDc=/g2/maineventss.m3u8?token=NDI5OGFiOTU4ZjFmYjQzOGU0YmRhYjkyMjNhYzA3MDc=&id=YzkzZmU3YTA5NTU4MTJmYjBkMGJkNzVmNjY4MTNjMzQ=&vip=1556376095&dip=ZGFjNGE4MTk5NGNkMzEyYzA3ZTliZTg5OTM4MjcxYmM=&pip=88.6.136.215&hip=NDViMzRjN2VjYWE1NDk4ZWEzMzMwYmM4M2U1ZmQyYTE=
+#EXTINF:-1 tvg-id"" tvg-name="SKY SPORTS MAIN EVENT PPV | HD (Backup 2)" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsmainevent_130x130.png" group-title="Sports",SKY SPORTS MAIN EVENT PPV | HD (Backup 2)
+https://sbsports.pro/lba/NDI5OGFiOTU4ZjFmYjQzOGU0YmRhYjkyMjNhYzA3MDc=/g2/maineventss.m3u8
+
+
+###MLB EXTRA INNINGS###
+
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/MLB EXTRA INNINGS/mlb-network.png" group-title="MLB Extra Innings",MLB NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/74
+#EXTINF:-1 tvg-id="" tvg-name="MLB STRIKE ZONE | HD" tvg-logo="https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fwww.blogcdn.com%2Fwww.engadget.com%2Fmedia%2F2012%2F04%2Fmlb-network-strike-zone.jpg&client=amp-blogside-v2&signature=1222ab4a11812461da03e610bc0cc1f5b8c6ea75" group-title="MLB Extra Innings",MLB STRIKE ZONE | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18650
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 1 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22846
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 2 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22845
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 3 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 3 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22844
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 4 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 4 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22843
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 5 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 5 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22842
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 6 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 6 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22841
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 7 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 7 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22840
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 8 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 8 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22839
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 9 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 9 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22838
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 1 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22813
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 2 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 2 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22812
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 3 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 3 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22811
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 4 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 4 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22810
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 5 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 5 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22809
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 6 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 6 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22808
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 7 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 7 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22807
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 8 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 8 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22806
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 9 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 9 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22805
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 10 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 10 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22804
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 11 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 11 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22803
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 12 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 12 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22802
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 13 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 13 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22801
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 14 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 14 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22800
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 15 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 15 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22799
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 16 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 16 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22798
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 17 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 17 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22797
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 18 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 18 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22796
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 19 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 19 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22795
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 20 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 20 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22794
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 21 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 21 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22793
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 22 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 22 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22792
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 23 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 23 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22791
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 24 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 24 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22790
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 25 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 25 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22789
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 26 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 26 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22788
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 27 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 27 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22787
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 28 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 28 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22786
+#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 29 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 29 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22785
+
+
+###NEWS###
+
+#EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CBC NEWS NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/english/cbc_news.jpg" group-title="News",CBC NEWS NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/147
+#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CTV NEWS CHANNEL | HD" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/ctv_news_0.png" group-title="News",CTV NEWS CHANNEL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1089
+#EXTINF:-1 tvg-id="businessnews.ca" tvg-name="BNN | HD" tvg-logo="http://149.56.14.45/Logo/2018/txypxp1478066803.png" group-title="News",BNN | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1072
+#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CP24 | HD" tvg-logo="http://149.56.14.45/Logo/english/509_CP24-en.png" group-title="News",CP24 | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/144
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="AL JAZEERA ENGLISH | HD" tvg-logo="http://149.56.14.45/Logo/2018/yystpx1433945387.png" group-title="News",AL JAZEERA ENGLISH | HD
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="News",EURONEWS | HD
+http://164.40.161.46:8002/play/s4
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="FRANCE 24 ENGLISH | HD" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="News",FRANCE 24 ENGLISH | HD
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT AMERICA | HD" tvg-logo="https://i.imgur.com/buPAXY7.png" group-title="News",RT AMERICA | HD
+https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT UK | HD" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="News",RT UK | HD
+https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD | HD" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="News",TRT WORLD | HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC WORLD NEWS" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="News",BBC WORLD NEWS
+https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN INTERNATIONAL
+http://203.162.235.41:16918
+#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/ABC_News_Channel.png" group-title="News",ABC NEWS AUSTRALIA
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15128
+#EXTINF:-1 tvg-id="" tvg-name="AUSTRALIA CHANNEL NEWS | HD" tvg-logo="http://australiachannel.com.au/images/Logo.png" group-title="News",AUSTRALIA CHANNEL NEWS | HD
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY NEWS UK | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="News",SKY NEWS UK | HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS USA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="News",SKY NEWS USA | HD
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN | HD" tvg-logo="http://149.56.14.45/Logo/english/CNN_HD-en.png" group-title="News",CNN | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/27
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC | HD" tvg-logo="http://149.56.14.45/Logo/english/msnbc-en.png" group-title="News",MSNBC | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="FOX NEWS CHANNEL | HD" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" group-title="News",FOX NEWS CHANNEL | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/84
+#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS | HD" tvg-logo="https://i.imgur.com/DhyuABZ.png" group-title="News",ABC NEWS | HD
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS NEWS | HD" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="News",CBS NEWS | HD
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN | HD" tvg-logo="http://149.56.14.45/Logo/english/502_HLN-en.png" group-title="News",HLN | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/14
+#EXTINF:-1 tvg-id="" tvg-name="NEWSMAX TV | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="News",NEWSMAX TV | HD
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="BLOOMBERG TV USA | HD" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="News",BLOOMBERG TV USA | HD
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC | HD" tvg-logo="http://149.56.14.45/Logo/2018/pfsn7f1505903340.png" group-title="News",CNBC | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/93
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="FOX BUSINESS NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/2018/xtqpxr1434502104.png" group-title="News",FOX BUSINESS NETWORK | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/85
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="CNBC WORLD | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="News",CNBC WORLD | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22955
+#EXTINF:-1 tvg-id="" tvg-name="RT DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="News",RT DOCUMENTARY
+https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v5.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UN WEB TV | HD" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN WEB TV | HD
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CPAC | HD" tvg-logo="https://i.imgur.com/eMMoLjS.png" group-title="News",CPAC | HD
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="THE WEATHER CHANNEL USA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1024px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News",THE WEATHER CHANNEL USA | HD
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEATHER NATION USA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="News",WEATHER NATION USA | HD
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+
+###INTERNATIONAL ENGLISH###
+
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD (Japan) | HD" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="International English",NHK WORLD (Japan) | HD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG (South Korea) | HD" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="International English",ARIRANG (South Korea) | HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNA (Singapore)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="International English",CNA (Singapore)
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR (Venezuela) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="International English",TELESUR (Venezuela) | HD
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW (Germany)" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="International English",DW (Germany)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
