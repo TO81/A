@@ -137,7 +137,7 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1106
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/37
 #EXTINF:0, tvg-id="foxsoccerplus.us" tvg-logo="https://www.soccernation.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-01-at-2.59.33-PM.png" tvg-name="FOX SOCCER PLUS | HD"  group-title="Sports",FOX SOCCER PLUS | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10512
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS NEWS | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FoxSportsNews_logo_1.png/revision/latest?cb=20130509121604" group-title="Sports",FOX SPORTS NEWS | HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS NEWS AU | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FoxSportsNews_logo_1.png/revision/latest?cb=20130509121604" group-title="Sports",FOX SPORTS NEWS AU | HD
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:0, tvg-id="WillowCricket.us" tvg-logo="http://149.56.14.45/Logo/sports/willow_cricket.png" tvg-name="WILLOW CRICKET | HD"  group-title="Sports",WILLOW CRICKET | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/41
@@ -179,11 +179,12 @@ https://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10443
 #EXTINF:0, tvg-id="UFCTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" tvg-name="UFC FIGHT PASS | HD"  group-title="Sports",UFC FIGHT PASS | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19281
+#EXTINF:0, tvg-id="" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espnplus/ePlus.png" tvg-name="ESPN PLUS PPV | HD"  group-title="Sports",ESPN PLUS PPV | HD
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/23481
 #EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/ITV_Box_Office_logo.png" tvg-name="ITV BOX OFFICE PPV SPORTS | HD"  group-title="Sports",ITV BOX OFFICE PPV SPORTS | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10502
 #EXTINF:0, tvg-id="" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsmainevent_130x130.png" tvg-name="SKY SPORTS MAIN EVENT PPV | HD"  group-title="Sports",SKY SPORTS MAIN EVENT PPV | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10503
-
 
 ###MLB EXTRA INNINGS###
 
@@ -2155,171 +2156,171 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4877
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4900
 #EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="UK : BOOMERANG" tvg-logo="https://www.thelogodb.com/images/media/logo/rprpvr1434469005.png" group-title="Kids",UK : BOOMERANG
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4885
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN HD" tvg-logo="http://149.56.14.45/Logo/sports/TSNHD.png" group-title="Sports",TSN HD
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN HD" tvg-logo="http://149.56.14.45/Logo/sports/TSNHD.png" group-title="Sports - Unsorted",TSN HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/124
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2 HD" tvg-logo="http://149.56.14.45/Logo/sports/TSN2HD.png" group-title="Sports",TSN 2 HD
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2 HD" tvg-logo="http://149.56.14.45/Logo/sports/TSN2HD.png" group-title="Sports - Unsorted",TSN 2 HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/123
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3 HD" tvg-logo="http://149.56.14.45/Logo/sports/TSN3HD.png" group-title="Sports",TSN 3 HD
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3 HD" tvg-logo="http://149.56.14.45/Logo/sports/TSN3HD.png" group-title="Sports - Unsorted",TSN 3 HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/122
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4 HD" tvg-logo="http://149.56.14.45/Logo/sports/TSN4HD.png" group-title="Sports",TSN 4 HD
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4 HD" tvg-logo="http://149.56.14.45/Logo/sports/TSN4HD.png" group-title="Sports - Unsorted",TSN 4 HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/121
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5 HD" tvg-logo="http://149.56.14.45/Logo/sports/TSN5HD.png" group-title="Sports",TSN 5 HD
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5 HD" tvg-logo="http://149.56.14.45/Logo/sports/TSN5HD.png" group-title="Sports - Unsorted",TSN 5 HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/120
-#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="SportsNet 360 HD" tvg-logo="http://149.56.14.45/Logo/sports/Sportsnet360HD.png" group-title="Sports",SportsNet 360 HD
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="SportsNet 360 HD" tvg-logo="http://149.56.14.45/Logo/sports/Sportsnet360HD.png" group-title="Sports - Unsorted",SportsNet 360 HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/11853
-#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="SportsNet East HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetEastHD.png" group-title="Sports",SportsNet East HD
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="SportsNet East HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetEastHD.png" group-title="Sports - Unsorted",SportsNet East HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/130
-#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="SportsNet One HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetoneHD.png" group-title="Sports",SportsNet One HD
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="SportsNet One HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetoneHD.png" group-title="Sports - Unsorted",SportsNet One HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/129
-#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="SportsNet Ontario HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetOntarioHD.png" group-title="Sports",SportsNet Ontario HD
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="SportsNet Ontario HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetOntarioHD.png" group-title="Sports - Unsorted",SportsNet Ontario HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/128
-#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="SportsNet Pacific HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetPacificHD.png" group-title="Sports",SportsNet Pacific HD
+#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="SportsNet Pacific HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetPacificHD.png" group-title="Sports - Unsorted",SportsNet Pacific HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/127
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="SportsNet West HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetWestHD.png" group-title="Sports",SportsNet West HD
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="SportsNet West HD" tvg-logo="http://149.56.14.45/Logo/sports/SportsnetWestHD.png" group-title="Sports - Unsorted",SportsNet West HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/126
-#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="SportsNet World HD" tvg-logo="http://149.56.14.45//Logo/sports/SportsnetWorldHD.png" group-title="Sports",SportsNet World HD
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="SportsNet World HD" tvg-logo="http://149.56.14.45//Logo/sports/SportsnetWorldHD.png" group-title="Sports - Unsorted",SportsNet World HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1106
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX Sports 1" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" group-title="Sports",FOX Sports 1
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX Sports 1" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" group-title="Sports - Unsorted",FOX Sports 1
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/35
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="FOX Sports 2" tvg-logo="http://149.56.14.45/Logo/2018/uxxtrt1433944508.png" group-title="Sports",FOX Sports 2
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="FOX Sports 2" tvg-logo="http://149.56.14.45/Logo/2018/uxxtrt1433944508.png" group-title="Sports - Unsorted",FOX Sports 2
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/34
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports West" tvg-logo="" group-title="Sports",Fox Sports West
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports West" tvg-logo="" group-title="Sports - Unsorted",Fox Sports West
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19070
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 West" tvg-logo="" group-title="Sports",Fox Sports 2 West
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 West" tvg-logo="" group-title="Sports - Unsorted",Fox Sports 2 West
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19071
-#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN HD" tvg-logo="http://149.56.14.45/Logo/2018/xuprrx1472105225.png" group-title="Sports",ESPN HD
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN HD" tvg-logo="http://149.56.14.45/Logo/2018/xuprrx1472105225.png" group-title="Sports - Unsorted",ESPN HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/89
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 HD" tvg-logo="http://149.56.14.45/Logo/2018/xryqyp1472105342.png" group-title="Sports",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 HD" tvg-logo="http://149.56.14.45/Logo/2018/xryqyp1472105342.png" group-title="Sports - Unsorted",ESPN 2 HD
 http://161.0.157.6/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPN U HD" tvg-logo="http://149.56.14.45/Logo/2018/wuqypq1434501650.png" group-title="Sports",ESPN U HD
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPN U HD" tvg-logo="http://149.56.14.45/Logo/2018/wuqypq1434501650.png" group-title="Sports - Unsorted",ESPN U HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1231
-#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN News HD" tvg-logo="http://149.56.14.45/Logo/2018/vtsutx1434501589.png" group-title="Sports",ESPN News HD
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN News HD" tvg-logo="http://149.56.14.45/Logo/2018/vtsutx1434501589.png" group-title="Sports - Unsorted",ESPN News HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/88
-#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="NBC Sports HD" tvg-logo="http://149.56.14.45/Logo/sports/nbc_sports_network.png" group-title="Sports",NBC Sports HD
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="NBC Sports HD" tvg-logo="http://149.56.14.45/Logo/sports/nbc_sports_network.png" group-title="Sports - Unsorted",NBC Sports HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/33
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports- California" tvg-logo="" group-title="Sports",NBC Sports- California
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports- California" tvg-logo="" group-title="Sports - Unsorted",NBC Sports- California
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18658
 #EXTINF:-1 tvg-id="" tvg-name="NBCSportsCaliforniaPlus" tvg-logo="" group-title="Poland",NBCSportsCaliforniaPlus
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18659
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports - Bay Area" tvg-logo="" group-title="Sports",NBC Sports - Bay Area
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports - Bay Area" tvg-logo="" group-title="Sports - Unsorted",NBC Sports - Bay Area
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18657
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Bay Area Plus" tvg-logo="" group-title="Sports",NBC Sports Bay Area Plus
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Bay Area Plus" tvg-logo="" group-title="Sports - Unsorted",NBC Sports Bay Area Plus
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19069
-#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="NBC SPORTS CHICAGO HD" tvg-logo="" group-title="Sports",NBC SPORTS CHICAGO HD
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="NBC SPORTS CHICAGO HD" tvg-logo="" group-title="Sports - Unsorted",NBC SPORTS CHICAGO HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10513
-#EXTINF:-1 tvg-id="NBC5WMAQTV.us" tvg-name="NBC SPORTS CHICAGO + HD" tvg-logo="" group-title="Sports",NBC SPORTS CHICAGO + HD
+#EXTINF:-1 tvg-id="NBC5WMAQTV.us" tvg-name="NBC SPORTS CHICAGO + HD" tvg-logo="" group-title="Sports - Unsorted",NBC SPORTS CHICAGO + HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13710
-#EXTINF:-1 tvg-id="" tvg-name="Sports Illustrated HD" tvg-logo="" group-title="Sports",Sports Illustrated HD
+#EXTINF:-1 tvg-id="" tvg-name="Sports Illustrated HD" tvg-logo="" group-title="Sports - Unsorted",Sports Illustrated HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/14199
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="NBA TV" tvg-logo="http://149.56.14.45/Logo/sports/NBATV.png" group-title="Sports",NBA TV
+#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="NBA TV" tvg-logo="http://149.56.14.45/Logo/sports/NBATV.png" group-title="Sports - Unsorted",NBA TV
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV HD USA" tvg-logo="http://149.56.14.45/Logo/2018/xutptv1433429127.png" group-title="Sports",NBA TV HD USA
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV HD USA" tvg-logo="http://149.56.14.45/Logo/2018/xutptv1433429127.png" group-title="Sports - Unsorted",NBA TV HD USA
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8516
-#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="NHL NETWORK HD" tvg-logo="http://149.56.14.45/Logo/nhl/NHL-Network.png" group-title="Sports",NHL NETWORK HD
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="NHL NETWORK HD" tvg-logo="http://149.56.14.45/Logo/nhl/NHL-Network.png" group-title="Sports - Unsorted",NHL NETWORK HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/32
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="The Golf Channel HD" tvg-logo="http://149.56.14.45/Logo/sports/golf_channel_us.png" group-title="Sports",The Golf Channel HD
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="The Golf Channel HD" tvg-logo="http://149.56.14.45/Logo/sports/golf_channel_us.png" group-title="Sports - Unsorted",The Golf Channel HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/82
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="TENNIS CHANNEL HD" tvg-logo="http://149.56.14.45/Logo/sports/tennis-channel.png" group-title="Sports",TENNIS CHANNEL HD
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="TENNIS CHANNEL HD" tvg-logo="http://149.56.14.45/Logo/sports/tennis-channel.png" group-title="Sports - Unsorted",TENNIS CHANNEL HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/48
-#EXTINF:-1 tvg-id="CBSSports.ca" tvg-name="CBS Sports HD" tvg-logo="http://149.56.14.45/Logo/sports/cbs_sports_network_color.png" group-title="Sports",CBS Sports HD
+#EXTINF:-1 tvg-id="CBSSports.ca" tvg-name="CBS Sports HD" tvg-logo="http://149.56.14.45/Logo/sports/cbs_sports_network_color.png" group-title="Sports - Unsorted",CBS Sports HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/98
-#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="UK : BOXNATION" tvg-logo="http://149.56.14.45/Logo/2018/vuvwsr1433336020.png" group-title="Sports",UK : BOXNATION
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="UK : BOXNATION" tvg-logo="http://149.56.14.45/Logo/2018/vuvwsr1433336020.png" group-title="Sports - Unsorted",UK : BOXNATION
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4884
-#EXTINF:-1 tvg-id="" tvg-name="GINXesportsTV" tvg-logo="" group-title="Sports",GINXesportsTV
+#EXTINF:-1 tvg-id="" tvg-name="GINXesportsTV" tvg-logo="" group-title="Sports - Unsorted",GINXesportsTV
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18647
-#EXTINF:-1 tvg-id="UFCTV.us" tvg-name="UFC FIGHT PASS HD" tvg-logo="" group-title="Sports",UFC FIGHT PASS HD
+#EXTINF:-1 tvg-id="UFCTV.us" tvg-name="UFC FIGHT PASS HD" tvg-logo="" group-title="Sports - Unsorted",UFC FIGHT PASS HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19281
-#EXTINF:-1 tvg-id="FightBox.UK" tvg-name="FIGHTBOX HD" tvg-logo="http://149.56.14.45/Logo/2018/uypswt1444749022.png" group-title="Sports",FIGHTBOX HD
+#EXTINF:-1 tvg-id="FightBox.UK" tvg-name="FIGHTBOX HD" tvg-logo="http://149.56.14.45/Logo/2018/uypswt1444749022.png" group-title="Sports - Unsorted",FIGHTBOX HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9300
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Fight Network HD" tvg-logo="http://149.56.14.45/Logo/sports/thefightnetwork.png" group-title="Sports",Fight Network HD
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Fight Network HD" tvg-logo="http://149.56.14.45/Logo/sports/thefightnetwork.png" group-title="Sports - Unsorted",Fight Network HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10443
-#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE HD" tvg-logo="http://149.56.14.45/Logo/sports/wwe.png" group-title="Sports",WWE HD
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE HD" tvg-logo="http://149.56.14.45/Logo/sports/wwe.png" group-title="Sports - Unsorted",WWE HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2
-#EXTINF:-1 tvg-id="" tvg-name="World Fishing Network" tvg-logo="http://149.56.14.45/Logo/2018/6iblrh1494150426.png" group-title="Sports",World Fishing Network
+#EXTINF:-1 tvg-id="" tvg-name="World Fishing Network" tvg-logo="http://149.56.14.45/Logo/2018/6iblrh1494150426.png" group-title="Sports - Unsorted",World Fishing Network
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13698
-#EXTINF:-1 tvg-id="" tvg-name="OUTSIDE TV" tvg-logo="" group-title="Sports",OUTSIDE TV
+#EXTINF:-1 tvg-id="" tvg-name="OUTSIDE TV" tvg-logo="" group-title="Sports - Unsorted",OUTSIDE TV
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13713
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="OutDoor Channels HD" tvg-logo="http://149.56.14.45/Logo/2018/yqxrpv1444920887.png" group-title="Sports",OutDoor Channels HD
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="OutDoor Channels HD" tvg-logo="http://149.56.14.45/Logo/2018/yqxrpv1444920887.png" group-title="Sports - Unsorted",OutDoor Channels HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13696
-#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="Sports Man" tvg-logo="http://149.56.14.45/Logo/2018/qrpyxs1433452623.png" group-title="Sports",Sports Man
+#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="Sports Man" tvg-logo="http://149.56.14.45/Logo/2018/qrpyxs1433452623.png" group-title="Sports - Unsorted",Sports Man
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13697
-#EXTINF:-1 tvg-id="MAVTV.us" tvg-name="MAV TV" tvg-logo="http://149.56.14.45/Logo/2018/ih52jj1493833046.png" group-title="Sports",MAV TV
+#EXTINF:-1 tvg-id="MAVTV.us" tvg-name="MAV TV" tvg-logo="http://149.56.14.45/Logo/2018/ih52jj1493833046.png" group-title="Sports - Unsorted",MAV TV
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/13694
-#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="Willow Cricket HD" tvg-logo="http://149.56.14.45/Logo/sports/willow_cricket.png" group-title="Sports",Willow Cricket HD
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="Willow Cricket HD" tvg-logo="http://149.56.14.45/Logo/sports/willow_cricket.png" group-title="Sports - Unsorted",Willow Cricket HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/41
-#EXTINF:-1 tvg-id="" tvg-name="USA : SN CENTRAL HD" tvg-logo="http://149.56.14.45/Logo/sports/Sportsnet%20central%20HD.png" group-title="Sports",USA : SN CENTRAL HD
+#EXTINF:-1 tvg-id="" tvg-name="USA : SN CENTRAL HD" tvg-logo="http://149.56.14.45/Logo/sports/Sportsnet%20central%20HD.png" group-title="Sports - Unsorted",USA : SN CENTRAL HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/55
-#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network HD" tvg-logo="http://149.56.14.45/Logo/2018/qttuww1478064647.png" group-title="Sports",YES Network HD
+#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network HD" tvg-logo="http://149.56.14.45/Logo/2018/qttuww1478064647.png" group-title="Sports - Unsorted",YES Network HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9511
-#EXTINF:-1 tvg-id="newenglandsportsnetwork.us" tvg-name="NESN-1" tvg-logo="" group-title="Sports",NESN-1
+#EXTINF:-1 tvg-id="newenglandsportsnetwork.us" tvg-name="NESN-1" tvg-logo="" group-title="Sports - Unsorted",NESN-1
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18651
-#EXTINF:-1 tvg-id="" tvg-name="NESN-2" tvg-logo="" group-title="Sports",NESN-2
+#EXTINF:-1 tvg-id="" tvg-name="NESN-2" tvg-logo="" group-title="Sports - Unsorted",NESN-2
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18652
-#EXTINF:-1 tvg-id="" tvg-name="NESN-3" tvg-logo="" group-title="Sports",NESN-3
+#EXTINF:-1 tvg-id="" tvg-name="NESN-3" tvg-logo="" group-title="Sports - Unsorted",NESN-3
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18653
-#EXTINF:-1 tvg-id="" tvg-name="NESN-4" tvg-logo="" group-title="Sports",NESN-4
+#EXTINF:-1 tvg-id="" tvg-name="NESN-4" tvg-logo="" group-title="Sports - Unsorted",NESN-4
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18654
-#EXTINF:-1 tvg-id="" tvg-name="NESN-5" tvg-logo="" group-title="Sports",NESN-5
+#EXTINF:-1 tvg-id="" tvg-name="NESN-5" tvg-logo="" group-title="Sports - Unsorted",NESN-5
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18655
-#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="BIG TEN HD" tvg-logo="http://149.56.14.45/Logo/sports/big-ten-network.png" group-title="Sports",BIG TEN HD
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="BIG TEN HD" tvg-logo="http://149.56.14.45/Logo/sports/big-ten-network.png" group-title="Sports - Unsorted",BIG TEN HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9514
-#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="SEC Network HD" tvg-logo="http://149.56.14.45/Logo/sports/SEC_network.png" group-title="Sports",SEC Network HD
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="SEC Network HD" tvg-logo="http://149.56.14.45/Logo/sports/SEC_network.png" group-title="Sports - Unsorted",SEC Network HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/39
-#EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-name="LONGHORN HD" tvg-logo="http://149.56.14.45/Logo/2018/qbvu6b1499694699.png" group-title="Sports",LONGHORN HD
+#EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-name="LONGHORN HD" tvg-logo="http://149.56.14.45/Logo/2018/qbvu6b1499694699.png" group-title="Sports - Unsorted",LONGHORN HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9512
-#EXTINF:-1 tvg-id="PAC12Network.us" tvg-name="PAC NETWORK" tvg-logo="" group-title="Sports",PAC NETWORK
+#EXTINF:-1 tvg-id="PAC12Network.us" tvg-name="PAC NETWORK" tvg-logo="" group-title="Sports - Unsorted",PAC NETWORK
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/16714
-#EXTINF:-1 tvg-id="" tvg-name="PAC NETWORK ARIZONA" tvg-logo="" group-title="Sports",PAC NETWORK ARIZONA
+#EXTINF:-1 tvg-id="" tvg-name="PAC NETWORK ARIZONA" tvg-logo="" group-title="Sports - Unsorted",PAC NETWORK ARIZONA
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/16715
-#EXTINF:-1 tvg-id="PAC12BayArea.us" tvg-name="PAC NETWORK BAY AREA" tvg-logo="" group-title="Sports",PAC NETWORK BAY AREA
+#EXTINF:-1 tvg-id="PAC12BayArea.us" tvg-name="PAC NETWORK BAY AREA" tvg-logo="" group-title="Sports - Unsorted",PAC NETWORK BAY AREA
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/16716
-#EXTINF:-1 tvg-id="PAC12LosAngeles.us" tvg-name="PAC NETWORK LOS ANGELES" tvg-logo="" group-title="Sports",PAC NETWORK LOS ANGELES
+#EXTINF:-1 tvg-id="PAC12LosAngeles.us" tvg-name="PAC NETWORK LOS ANGELES" tvg-logo="" group-title="Sports - Unsorted",PAC NETWORK LOS ANGELES
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/16717
-#EXTINF:-1 tvg-id="PAC12Mountain.us" tvg-name="PAC NETWORK Mountain" tvg-logo="" group-title="Sports",PAC NETWORK Mountain
+#EXTINF:-1 tvg-id="PAC12Mountain.us" tvg-name="PAC NETWORK Mountain" tvg-logo="" group-title="Sports - Unsorted",PAC NETWORK Mountain
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/16718
-#EXTINF:-1 tvg-id="PAC12Oregon.us" tvg-name="PAC NETWORK OREGON" tvg-logo="" group-title="Sports",PAC NETWORK OREGON
+#EXTINF:-1 tvg-id="PAC12Oregon.us" tvg-name="PAC NETWORK OREGON" tvg-logo="" group-title="Sports - Unsorted",PAC NETWORK OREGON
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/16719
-#EXTINF:-1 tvg-id="PAC12Washington.us" tvg-name="PAC NETWORK WASHINGTON" tvg-logo="" group-title="Sports",PAC NETWORK WASHINGTON
+#EXTINF:-1 tvg-id="PAC12Washington.us" tvg-name="PAC NETWORK WASHINGTON" tvg-logo="" group-title="Sports - Unsorted",PAC NETWORK WASHINGTON
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/16720
-#EXTINF:-1 tvg-id="FoxCollegeSports.us" tvg-name="Fox Sports College Atlantic HD" tvg-logo="" group-title="Sports",Fox Sports College Atlantic HD
+#EXTINF:-1 tvg-id="FoxCollegeSports.us" tvg-name="Fox Sports College Atlantic HD" tvg-logo="" group-title="Sports - Unsorted",Fox Sports College Atlantic HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10508
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports College Central HD" tvg-logo="" group-title="Sports",Fox Sports College Central HD
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports College Central HD" tvg-logo="" group-title="Sports - Unsorted",Fox Sports College Central HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10509
-#EXTINF:-1 tvg-id="FoxCollegeSports.us" tvg-name="Fox Sports College Pacific HD" tvg-logo="" group-title="Sports",Fox Sports College Pacific HD
+#EXTINF:-1 tvg-id="FoxCollegeSports.us" tvg-name="Fox Sports College Pacific HD" tvg-logo="" group-title="Sports - Unsorted",Fox Sports College Pacific HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10510
-#EXTINF:-1 tvg-id="" tvg-name="USA : NBC GOLD FHD 1" tvg-logo="" group-title="Sports",USA : NBC GOLD FHD 1
+#EXTINF:-1 tvg-id="" tvg-name="USA : NBC GOLD FHD 1" tvg-logo="" group-title="Sports - Unsorted",USA : NBC GOLD FHD 1
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12910
-#EXTINF:-1 tvg-id="" tvg-name="USA : NBC GOLD FHD 2" tvg-logo="http://149.56.14.45/Logo/sports/nbc_extra_time2.png" group-title="Sports",USA : NBC GOLD FHD 2
+#EXTINF:-1 tvg-id="" tvg-name="USA : NBC GOLD FHD 2" tvg-logo="http://149.56.14.45/Logo/sports/nbc_extra_time2.png" group-title="Sports - Unsorted",USA : NBC GOLD FHD 2
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12909
-#EXTINF:-1 tvg-id="" tvg-name="USA : NBC GOLD FHD 3" tvg-logo="http://149.56.14.45/Logo/sports/nbc_extra_time3.png" group-title="Sports",USA : NBC GOLD FHD 3
+#EXTINF:-1 tvg-id="" tvg-name="USA : NBC GOLD FHD 3" tvg-logo="http://149.56.14.45/Logo/sports/nbc_extra_time3.png" group-title="Sports - Unsorted",USA : NBC GOLD FHD 3
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12908
-#EXTINF:-1 tvg-id="" tvg-name="USA : NBC GOLD FHD 4" tvg-logo="http://149.56.14.45/Logo/sports/nbc_extra_time4.png" group-title="Sports",USA : NBC GOLD FHD 4
+#EXTINF:-1 tvg-id="" tvg-name="USA : NBC GOLD FHD 4" tvg-logo="http://149.56.14.45/Logo/sports/nbc_extra_time4.png" group-title="Sports - Unsorted",USA : NBC GOLD FHD 4
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12907
-#EXTINF:-1 tvg-id="" tvg-name="USA : NBC GOLD FHD 5" tvg-logo="http://149.56.14.45/Logo/sports/nbc_extra_time5.png" group-title="Sports",USA : NBC GOLD FHD 5
+#EXTINF:-1 tvg-id="" tvg-name="USA : NBC GOLD FHD 5" tvg-logo="http://149.56.14.45/Logo/sports/nbc_extra_time5.png" group-title="Sports - Unsorted",USA : NBC GOLD FHD 5
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12906
-#EXTINF:-1 tvg-id="" tvg-name="USA : NBC GOLD FHD 6" tvg-logo="" group-title="Sports",USA : NBC GOLD FHD 6
+#EXTINF:-1 tvg-id="" tvg-name="USA : NBC GOLD FHD 6" tvg-logo="" group-title="Sports - Unsorted",USA : NBC GOLD FHD 6
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12905
-#EXTINF:-1 tvg-id="" tvg-name="USA : NBC GOLD FHD 7" tvg-logo="" group-title="Sports",USA : NBC GOLD FHD 7
+#EXTINF:-1 tvg-id="" tvg-name="USA : NBC GOLD FHD 7" tvg-logo="" group-title="Sports - Unsorted",USA : NBC GOLD FHD 7
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/12904
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK FHD : SKY SPORTS ACTION FHD" tvg-logo="http://149.56.14.45/Logo/2018/kf0oba1502554875.png" group-title="Sports",UK FHD : SKY SPORTS ACTION FHD
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK FHD : SKY SPORTS ACTION FHD" tvg-logo="http://149.56.14.45/Logo/2018/kf0oba1502554875.png" group-title="Sports - Unsorted",UK FHD : SKY SPORTS ACTION FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9406
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK FHD : SKY SPORTS ARENA FHD" tvg-logo="" group-title="Sports",UK FHD : SKY SPORTS ARENA FHD
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK FHD : SKY SPORTS ARENA FHD" tvg-logo="" group-title="Sports - Unsorted",UK FHD : SKY SPORTS ARENA FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9405
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK FHD : SKY SPORTS CRICKET FHD" tvg-logo="http://149.56.14.45/Logo/2018/47d7os1502554865.png" group-title="Sports",UK FHD : SKY SPORTS CRICKET FHD
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK FHD : SKY SPORTS CRICKET FHD" tvg-logo="http://149.56.14.45/Logo/2018/47d7os1502554865.png" group-title="Sports - Unsorted",UK FHD : SKY SPORTS CRICKET FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9404
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK FHD : SKY SPORTS F1 FHD" tvg-logo="http://149.56.14.45/Logo/2018/nj0lf61502555096.png" group-title="Sports",UK FHD : SKY SPORTS F1 FHD
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK FHD : SKY SPORTS F1 FHD" tvg-logo="http://149.56.14.45/Logo/2018/nj0lf61502555096.png" group-title="Sports - Unsorted",UK FHD : SKY SPORTS F1 FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9403
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK FHD : Sky SPORTS FOOTBALL FHD" tvg-logo="http://www.thelogodb.com/images/media/logo/lnd1p01502554851.png" group-title="Sports",UK FHD : Sky SPORTS FOOTBALL FHD
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK FHD : Sky SPORTS FOOTBALL FHD" tvg-logo="http://www.thelogodb.com/images/media/logo/lnd1p01502554851.png" group-title="Sports - Unsorted",UK FHD : Sky SPORTS FOOTBALL FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9402
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK FHD : SKY SPORTS GOLF FHD" tvg-logo="http://149.56.14.45/Logo/2018/ae6hgo1510074664.png" group-title="Sports",UK FHD : SKY SPORTS GOLF FHD
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK FHD : SKY SPORTS GOLF FHD" tvg-logo="http://149.56.14.45/Logo/2018/ae6hgo1510074664.png" group-title="Sports - Unsorted",UK FHD : SKY SPORTS GOLF FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9401
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK FHD : SKY SPORTS MIX FHD" tvg-logo="http://www.thelogodb.com/images/media/logo/r2lhcf1501989097.png" group-title="Sports",UK FHD : SKY SPORTS MIX FHD
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK FHD : SKY SPORTS MIX FHD" tvg-logo="http://www.thelogodb.com/images/media/logo/r2lhcf1501989097.png" group-title="Sports - Unsorted",UK FHD : SKY SPORTS MIX FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9399
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK FHD : SKY SPORTS NEWS FHD" tvg-logo="http://149.56.14.45/Logo/2018/qttxwy1438374067.png" group-title="Sports",UK FHD : SKY SPORTS NEWS FHD
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK FHD : SKY SPORTS NEWS FHD" tvg-logo="http://149.56.14.45/Logo/2018/qttxwy1438374067.png" group-title="Sports - Unsorted",UK FHD : SKY SPORTS NEWS FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9398
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK : SKY SPORTS  NEWS" tvg-logo="http://149.56.14.45/Logo/2018/sxwwxv1433780905.png" group-title="Sports",UK : SKY SPORTS  NEWS
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK : SKY SPORTS  NEWS" tvg-logo="http://149.56.14.45/Logo/2018/sxwwxv1433780905.png" group-title="Sports - Unsorted",UK : SKY SPORTS  NEWS
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4757
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK : SKY SPORTS ACTION" tvg-logo="http://149.56.14.45/Logo/2018/kf0oba1502554875.png" group-title="Sports",UK : SKY SPORTS ACTION
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK : SKY SPORTS ACTION" tvg-logo="http://149.56.14.45/Logo/2018/kf0oba1502554875.png" group-title="Sports - Unsorted",UK : SKY SPORTS ACTION
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4756
 #EXTINF:-1 tvg-id="Sky Sports 2" tvg-name="UK : SKY SPORTS ACTIVE 2" tvg-logo="http://149.56.14.45/Logo/2018/ysrvxq1434037809.png" group-title="International Sports",UK : SKY SPORTS ACTIVE 2
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4754
@@ -2335,45 +2336,45 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4750
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4749
 #EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS ACTIVE 8" tvg-logo="http://149.56.14.45/Logo/2018/oz7hkn1507449954.png" group-title="International Sports",UK : SKY SPORTS ACTIVE 8
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4748
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK : SKY SPORTS ARENA" tvg-logo="" group-title="Sports",UK : SKY SPORTS ARENA
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK : SKY SPORTS ARENA" tvg-logo="" group-title="Sports - Unsorted",UK : SKY SPORTS ARENA
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4747
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK : SKY SPORTS CRICKET" tvg-logo="http://149.56.14.45/Logo/2018/47d7os1502554865.png" group-title="Sports",UK : SKY SPORTS CRICKET
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK : SKY SPORTS CRICKET" tvg-logo="http://149.56.14.45/Logo/2018/47d7os1502554865.png" group-title="Sports - Unsorted",UK : SKY SPORTS CRICKET
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4745
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK : SKY SPORTS F1" tvg-logo="http://149.56.14.45/Logo/2018/rqqxvx1433965320.png" group-title="Sports",UK : SKY SPORTS F1
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK : SKY SPORTS F1" tvg-logo="http://149.56.14.45/Logo/2018/rqqxvx1433965320.png" group-title="Sports - Unsorted",UK : SKY SPORTS F1
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4744
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK : SKY SPORTS FOOTBALL" tvg-logo="" group-title="Sports",UK : SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK : SKY SPORTS FOOTBALL" tvg-logo="" group-title="Sports - Unsorted",UK : SKY SPORTS FOOTBALL
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4743
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK : SKY SPORTS GOLF (THE OPEN)" tvg-logo="http://149.56.14.45/Logo/2018/ae6hgo1510074664.png" group-title="Sports",UK : SKY SPORTS GOLF (THE OPEN)
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK : SKY SPORTS GOLF (THE OPEN)" tvg-logo="http://149.56.14.45/Logo/2018/ae6hgo1510074664.png" group-title="Sports - Unsorted",UK : SKY SPORTS GOLF (THE OPEN)
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4742
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="-= BT Sports =-" tvg-logo="" group-title="Sports",-= BT Sports =-
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="-= BT Sports =-" tvg-logo="" group-title="Sports - Unsorted",-= BT Sports =-
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4918
 #EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK FHD : BT ESPN FHD" tvg-logo="" group-title="UK - Entertainment",UK FHD : BT ESPN FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15602
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK FHD : BT Sports 1 FHD" tvg-logo="http://149.56.14.45/Logo/2018/yqvvvx1433963709.png" group-title="Sports",UK FHD : BT Sports 1 FHD
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK FHD : BT Sports 1 FHD" tvg-logo="http://149.56.14.45/Logo/2018/yqvvvx1433963709.png" group-title="Sports - Unsorted",UK FHD : BT Sports 1 FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9447
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK FHD : BT Sports 2 FHD" tvg-logo="http://149.56.14.45/Logo/2018/vsuvvu1433963716.png" group-title="Sports",UK FHD : BT Sports 2 FHD
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK FHD : BT Sports 2 FHD" tvg-logo="http://149.56.14.45/Logo/2018/vsuvvu1433963716.png" group-title="Sports - Unsorted",UK FHD : BT Sports 2 FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9446
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK FHD : BT Sports 3 FHD" tvg-logo="http://149.56.14.45/Logo/2018/j1babk1512993780.png" group-title="Sports",UK FHD : BT Sports 3 FHD
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK FHD : BT Sports 3 FHD" tvg-logo="http://149.56.14.45/Logo/2018/j1babk1512993780.png" group-title="Sports - Unsorted",UK FHD : BT Sports 3 FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9445
-#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="UK FHD : BT Sports ESPN FHD" tvg-logo="http://149.56.14.45/Logo/2018/xstwys1438373796.png" group-title="Sports",UK FHD : BT Sports ESPN FHD
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="UK FHD : BT Sports ESPN FHD" tvg-logo="http://149.56.14.45/Logo/2018/xstwys1438373796.png" group-title="Sports - Unsorted",UK FHD : BT Sports ESPN FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9444
-#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="UK : BT Sport ESPN" tvg-logo="http://149.56.14.45/Logo/2018/uxpyxq1441049842.png" group-title="Sports",UK : BT Sport ESPN
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="UK : BT Sport ESPN" tvg-logo="http://149.56.14.45/Logo/2018/uxpyxq1441049842.png" group-title="Sports - Unsorted",UK : BT Sport ESPN
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4882
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK : BT SPORTS 1" tvg-logo="http://149.56.14.45/Logo/2018/ruprqp1433360902.png" group-title="Sports",UK : BT SPORTS 1
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK : BT SPORTS 1" tvg-logo="http://149.56.14.45/Logo/2018/ruprqp1433360902.png" group-title="Sports - Unsorted",UK : BT SPORTS 1
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4881
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK : BT SPORTS 2" tvg-logo="http://149.56.14.45/Logo/2018/vwxvty1433360911.png" group-title="Sports",UK : BT SPORTS 2
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK : BT SPORTS 2" tvg-logo="http://149.56.14.45/Logo/2018/vwxvty1433360911.png" group-title="Sports - Unsorted",UK : BT SPORTS 2
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4880
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT SPORTS 3" tvg-logo="http://149.56.14.45/Logo/2018/brpeb81512993614.png" group-title="Sports",UK : BT SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="UK : BT SPORTS 3" tvg-logo="http://149.56.14.45/Logo/2018/brpeb81512993614.png" group-title="Sports - Unsorted",UK : BT SPORTS 3
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4879
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT SPORTS MOSAIC" tvg-logo="http://149.56.14.45/Logo/2018/wysstw1434038860.png" group-title="Sports",UK : BT SPORTS MOSAIC
+#EXTINF:-1 tvg-id="" tvg-name="UK : BT SPORTS MOSAIC" tvg-logo="http://149.56.14.45/Logo/2018/wysstw1434038860.png" group-title="Sports - Unsorted",UK : BT SPORTS MOSAIC
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4878
-#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="UK HD : BT SPORTS EXTRA" tvg-logo="http://149.56.14.45/Logo/2018/stxpwq1433361453.png" group-title="Sports",UK HD : BT SPORTS EXTRA
+#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="UK HD : BT SPORTS EXTRA" tvg-logo="http://149.56.14.45/Logo/2018/stxpwq1433361453.png" group-title="Sports - Unsorted",UK HD : BT SPORTS EXTRA
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4672
-#EXTINF:-1 tvg-id="BTSportX2.uk" tvg-name="UK HD : BT SPORTS EXTRA 2" tvg-logo="http://149.56.14.45/Logo/2018/stxpwq1433361453.png" group-title="Sports",UK HD : BT SPORTS EXTRA 2
+#EXTINF:-1 tvg-id="BTSportX2.uk" tvg-name="UK HD : BT SPORTS EXTRA 2" tvg-logo="http://149.56.14.45/Logo/2018/stxpwq1433361453.png" group-title="Sports - Unsorted",UK HD : BT SPORTS EXTRA 2
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4671
-#EXTINF:-1 tvg-id="BTSportX3.uk" tvg-name="UK HD : BT SPORTS EXTRA 3" tvg-logo="http://149.56.14.45/Logo/2018/stxpwq1433361453.png" group-title="Sports",UK HD : BT SPORTS EXTRA 3
+#EXTINF:-1 tvg-id="BTSportX3.uk" tvg-name="UK HD : BT SPORTS EXTRA 3" tvg-logo="http://149.56.14.45/Logo/2018/stxpwq1433361453.png" group-title="Sports - Unsorted",UK HD : BT SPORTS EXTRA 3
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4670
-#EXTINF:-1 tvg-id="BTSportX5.uk" tvg-name="UK HD : BT SPORTS EXTRA 5" tvg-logo="http://149.56.14.45/Logo/2018/stxpwq1433361453.png" group-title="Sports",UK HD : BT SPORTS EXTRA 5
+#EXTINF:-1 tvg-id="BTSportX5.uk" tvg-name="UK HD : BT SPORTS EXTRA 5" tvg-logo="http://149.56.14.45/Logo/2018/stxpwq1433361453.png" group-title="Sports - Unsorted",UK HD : BT SPORTS EXTRA 5
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4668
 #EXTINF:-1 tvg-id="beinsports.us" tvg-name="Bein Sports HD USA" tvg-logo="http://149.56.14.45/Logo/sports/BeinSportsUSAHD.png" group-title="Bein Sports",Bein Sports HD USA
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/37
@@ -2421,25 +2422,25 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15373
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15378
 #EXTINF:-1 tvg-id="beINMax4.qa" tvg-name="AR : BEIN MAX 4 HD" tvg-logo="" group-title="Bein Sports",AR : BEIN MAX 4 HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15377
-#EXTINF:-1 tvg-id="" tvg-name="SPFL : ABERDEEN FC TV ( LIVE ON MATCHES )" tvg-logo="" group-title="Sports",SPFL : ABERDEEN FC TV ( LIVE ON MATCHES )
+#EXTINF:-1 tvg-id="" tvg-name="SPFL : ABERDEEN FC TV ( LIVE ON MATCHES )" tvg-logo="" group-title="Sports - Unsorted",SPFL : ABERDEEN FC TV ( LIVE ON MATCHES )
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2231
-#EXTINF:-1 tvg-id="" tvg-name="SPFL : CELTIC FC TV ( LIVE ON MATCHES )" tvg-logo="http://149.56.14.45/Logo/2018/juhldp1504257462.png" group-title="Sports",SPFL : CELTIC FC TV ( LIVE ON MATCHES )
+#EXTINF:-1 tvg-id="" tvg-name="SPFL : CELTIC FC TV ( LIVE ON MATCHES )" tvg-logo="http://149.56.14.45/Logo/2018/juhldp1504257462.png" group-title="Sports - Unsorted",SPFL : CELTIC FC TV ( LIVE ON MATCHES )
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2232
-#EXTINF:-1 tvg-id="" tvg-name="SPFL : DUNDEE FC TV ( LIVE ON MATCHES )" tvg-logo="" group-title="Sports",SPFL : DUNDEE FC TV ( LIVE ON MATCHES )
+#EXTINF:-1 tvg-id="" tvg-name="SPFL : DUNDEE FC TV ( LIVE ON MATCHES )" tvg-logo="" group-title="Sports - Unsorted",SPFL : DUNDEE FC TV ( LIVE ON MATCHES )
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2229
-#EXTINF:-1 tvg-id="" tvg-name="SPFL : RANGERS FC TV ( LIVE ON MATCHES )" tvg-logo="" group-title="Sports",SPFL : RANGERS FC TV ( LIVE ON MATCHES )
+#EXTINF:-1 tvg-id="" tvg-name="SPFL : RANGERS FC TV ( LIVE ON MATCHES )" tvg-logo="" group-title="Sports - Unsorted",SPFL : RANGERS FC TV ( LIVE ON MATCHES )
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2230
-#EXTINF:-1 tvg-id="" tvg-name="SPFL : RED FC TV ( LIVE ON MATCHES )" tvg-logo="" group-title="Sports",SPFL : RED FC TV ( LIVE ON MATCHES )
+#EXTINF:-1 tvg-id="" tvg-name="SPFL : RED FC TV ( LIVE ON MATCHES )" tvg-logo="" group-title="Sports - Unsorted",SPFL : RED FC TV ( LIVE ON MATCHES )
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2233
-#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK : RACING UK" tvg-logo="http://149.56.14.45/Logo/2018/txuryp1433379134.png" group-title="Sports",UK : RACING UK
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK : RACING UK" tvg-logo="http://149.56.14.45/Logo/2018/txuryp1433379134.png" group-title="Sports - Unsorted",UK : RACING UK
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4789
-#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="UK : AT THE RACES" tvg-logo="http://149.56.14.45/Logo/2018/vuxwvt1433794640.png" group-title="Sports",UK : AT THE RACES
+#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="UK : AT THE RACES" tvg-logo="http://149.56.14.45/Logo/2018/vuxwvt1433794640.png" group-title="Sports - Unsorted",UK : AT THE RACES
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4903
 #EXTINF:-1 tvg-id="" tvg-name="MIO ELEVEN HD" tvg-logo="" group-title="International Sports",MIO ELEVEN HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8538
 #EXTINF:-1 tvg-id="" tvg-name="MIO  ELEVEN SPORTS HD" tvg-logo="" group-title="International Sports",MIO  ELEVEN SPORTS HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8537
-#EXTINF:-1 tvg-id="Eleven Sports Network" tvg-name="Eleven Sports HD" tvg-logo="" group-title="Sports",Eleven Sports HD
+#EXTINF:-1 tvg-id="Eleven Sports Network" tvg-name="Eleven Sports HD" tvg-logo="" group-title="Sports - Unsorted",Eleven Sports HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10507
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS FHD" tvg-logo="" group-title="International Sports",ELEVEN SPORTS FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15961
@@ -2463,9 +2464,9 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8531
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8532
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS HD 5" tvg-logo="" group-title="International Sports",EUROSPORTS HD 5
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8533
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK FHD : EUROSPORTS 1 FHD" tvg-logo="http://149.56.14.45/Logo/2018/cco61g1515364096.png" group-title="Sports",UK FHD : EUROSPORTS 1 FHD
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK FHD : EUROSPORTS 1 FHD" tvg-logo="http://149.56.14.45/Logo/2018/cco61g1515364096.png" group-title="Sports - Unsorted",UK FHD : EUROSPORTS 1 FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9435
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK FHD : EUROSPORTS 2 FHD" tvg-logo="http://149.56.14.45/Logo/2018/vysrvq1444899758.png" group-title="Sports",UK FHD : EUROSPORTS 2 FHD
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK FHD : EUROSPORTS 2 FHD" tvg-logo="http://149.56.14.45/Logo/2018/vysrvq1444899758.png" group-title="Sports - Unsorted",UK FHD : EUROSPORTS 2 FHD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9434
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS ASIA HD 1" tvg-logo="" group-title="International Sports",FOX SPORTS ASIA HD 1
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/8524
@@ -2573,15 +2574,15 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/6745
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15914
 #EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE" tvg-logo="http://149.56.14.45/Logo/2018/swppwq1434505673.png" group-title="Sports Pass",NFL REDZONE
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4401
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK HD" tvg-logo="http://149.56.14.45/Logo/2018/yptxsp1478034120.png" group-title="Sports",NFL NETWORK HD
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK HD" tvg-logo="http://149.56.14.45/Logo/2018/yptxsp1478034120.png" group-title="Sports - Unsorted",NFL NETWORK HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/62
 #EXTINF:-1 tvg-id="" tvg-name="NFL Arena 1-16: UNTIL NEXT SEASON" tvg-logo="" group-title="Sports Pass",NFL Arena 1-16: UNTIL NEXT SEASON
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19216
-#EXTINF:-1 tvg-id="" tvg-name="-= MLB =-" tvg-logo="" group-title="Sports",-= MLB =-
+#EXTINF:-1 tvg-id="" tvg-name="-= MLB =-" tvg-logo="" group-title="Sports - Unsorted",-= MLB =-
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/6746
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network HD" tvg-logo="http://149.56.14.45/Logo/sports/mlb-network.png" group-title="Sports",MLB Network HD
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network HD" tvg-logo="http://149.56.14.45/Logo/sports/mlb-network.png" group-title="Sports - Unsorted",MLB Network HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/74
-#EXTINF:-1 tvg-id="" tvg-name="MLB Srike Zone" tvg-logo="" group-title="Sports",MLB Srike Zone
+#EXTINF:-1 tvg-id="" tvg-name="MLB Srike Zone" tvg-logo="" group-title="Sports - Unsorted",MLB Srike Zone
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18650
 #EXTINF:-1 tvg-id="" tvg-name="MLB Arena 1:" tvg-logo="" group-title="Sports Pass",MLB Arena 1:
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22846
@@ -3487,7 +3488,7 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10535
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10534
 #EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="FOX DEPORTES HD" tvg-logo="http://149.56.14.45/Logo/2018/vpwuyu1433430852.png" group-title="International Sports",FOX DEPORTES HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10521
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://149.56.14.45/Logo/2018/m47gjg1490640508.png" group-title="Sports",TYC SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://149.56.14.45/Logo/2018/m47gjg1490640508.png" group-title="Sports - Unsorted",TYC SPORTS
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10511
 #EXTINF:-1 tvg-id="" tvg-name="LAT : UNIVISION HD" tvg-logo="" group-title="Latino",LAT : UNIVISION HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1489
@@ -4273,7 +4274,7 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19630
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19626
 #EXTINF:-1 tvg-id="" tvg-name="Fox Comedy HD PL" tvg-logo="" group-title="Poland",Fox Comedy HD PL
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19625
-#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="Fox Soccer Plus HD" tvg-logo="" group-title="Sports",Fox Soccer Plus HD
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="Fox Soccer Plus HD" tvg-logo="" group-title="Sports - Unsorted",Fox Soccer Plus HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10512
 #EXTINF:-1 tvg-id="" tvg-name="H2 FHD PL [Multi-Audio]" tvg-logo="" group-title="Poland",H2 FHD PL [Multi-Audio]
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19611
