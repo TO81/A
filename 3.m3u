@@ -128,7 +128,7 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/98
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9512
 #EXTINF:0, tvg-id="secnetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/SEC_network.png" tvg-name="SEC NETWORK | HD"  group-title="Sports",SEC NETWORK | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/39
-#EXTINF:0, tvg-id="PAC12Network.us" tvg-logo="Logo N/A" tvg-name="PAC 12 NETWORK | HD"  group-title="Sports",PAC 12 NETWORK | HD
+#EXTINF:0, tvg-id="PAC12Network.us" tvg-logo="http://static.pac-12.com.s3.amazonaws.com/images/logos/pac-12-logo.png" tvg-name="PAC 12 NETWORK | HD"  group-title="Sports",PAC 12 NETWORK | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/16714
 #EXTINF:0, tvg-id="bigtennetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/big-ten-network.png" tvg-name="BIG TEN NETWORK | HD"  group-title="Sports",BIG TEN NETWORK | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9514
@@ -166,7 +166,7 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15122
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACTION SPORTS 4U | HD" tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="Sports",ACTION SPORTS 4U | HD
 https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADVENTURE SPORTS NETWORK | HD" tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="Sports",ADVENTURE SPORTS NETWORK | HD
+#EXTINF:-1 tvg-id="" tvg-name="ADVENTURE SPORTS NETWORK" tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="Sports",ADVENTURE SPORTS NETWORK
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/sports/wwe.png" group-title="Sports",WWE NETWORK | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2
@@ -174,16 +174,18 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/2
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4884
 #EXTINF:-1 tvg-id="FightBox.UK" tvg-name="FIGHTBOX UK | HD" tvg-logo="http://149.56.14.45/Logo/2018/uypswt1444749022.png" group-title="Sports",FIGHTBOX UK | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9300
-#EXTINF:-1 tvg-id="" tvg-name="HARD KNOCKS FIGHTING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Sports",HARD KNOCKS FIGHTING
+#EXTINF:-1 tvg-id="" tvg-name="HARD KNOCKS FIGHTING | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Sports",HARD KNOCKS FIGHTING | HD
 https://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="FIGHT NETWORK CANADA | HD" tvg-logo="http://149.56.14.45/Logo/sports/thefightnetwork.png" group-title="Sports",FIGHT NETWORK CANADA | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10443
-#EXTINF:0, tvg-id="UFCTV.us" tvg-logo="Logo N/A" tvg-name="UFC FIGHT PASS | HD"  group-title="Sports",UFC FIGHT PASS | HD
+#EXTINF:0, tvg-id="UFCTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" tvg-name="UFC FIGHT PASS | HD"  group-title="Sports",UFC FIGHT PASS | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19281
 #EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/ITV_Box_Office_logo.png" tvg-name="ITV BOX OFFICE PPV SPORTS | HD"  group-title="Sports",ITV BOX OFFICE PPV SPORTS | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10502
 #EXTINF:0, tvg-id="" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsmainevent_130x130.png" tvg-name="SKY SPORTS MAIN EVENT PPV | HD"  group-title="Sports",SKY SPORTS MAIN EVENT PPV | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10503
+#EXTINF:-1 tvg-id"" tvg-name="SKY SPORTS MAIN EVENT PPV | HD - Backup 2" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsmainevent_130x130.png" group-title="Sports",SKY SPORTS MAIN EVENT PPV - Backup 2 | HD
+https://sbsports.pro/lba/NDI5OGFiOTU4ZjFmYjQzOGU0YmRhYjkyMjNhYzA3MDc=/g2/maineventss.m3u8
 
 ###MLB EXTRA INNINGS###
 
