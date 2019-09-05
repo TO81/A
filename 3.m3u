@@ -1183,7 +1183,7 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/41
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 9 | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/9HD.png" group-title="Australia",CHANNEL 9 | HD
 http://124.187.96.56:9981/stream/channelid/1773831472
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 7 | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/7HD.png" group-title="Australia",CHANNEL 7 | HD
-http://203.208.100.17:9981/stream/channelid/78620037
+http://124.187.96.56:9981/stream/channelid/1614712908
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 10 | HD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/848ca7f0-25ca-4ce5-8a87-52b6c8caa677.png" group-title="Australia",CHANNEL 10 | HD
 http://124.187.96.56:9981/stream/channelid/2080370834
 #EXTINF:-1 tvg-id="" tvg-name="ABC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/ABC_HD_Australia_logo.png" group-title="Australia",ABC | HD
@@ -1196,7 +1196,7 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9LIFE" tvg-logo="https://www.ourguide.com.au/images/station_images/9Life.png" group-title="Australia",9LIFE
 http://124.187.96.56:9981/stream/channelid/1755294610
-#EXTINF:-1 tvg-id="" tvg-name="9GEM" tvg-logo="https://www.ourguide.com.au/images/station_images/GEM.png" group-title="Australia",9GE
+#EXTINF:-1 tvg-id="" tvg-name="9GEM" tvg-logo="https://www.ourguide.com.au/images/station_images/GEM.png" group-title="Australia",9GEM
 http://124.187.96.56:9981/stream/channelid/556174266
 #EXTINF:-1 tvg-id="" tvg-name="9GO!" tvg-logo="https://www.ourguide.com.au/images/station_images/GO.png" group-title="Australia",9GO
 http://124.187.96.56:9981/stream/channelid/1804486312
@@ -1236,8 +1236,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXPO CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png" group-title="Australia",EXPO CHANNEL
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 7 (Melbourne) | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/7HD.png" group-title="Australia",CHANNEL 7 (Melbourne) | HD
-http://124.187.96.56:9981/stream/channelid/1614712908
 #EXTINF:-1 tvg-id="" tvg-name="TVNZ 1 (New Zealand) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TVNZ_1_logo.svg/1200px-TVNZ_1_logo.svg.png" group-title="Australia",TVNZ 1 (New Zealand) | HD
 http://43.224.120.99:8080/tv1/tv1_1500k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVNZ 2 (New Zealand) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/TVNZ_2_logo.svg/1200px-TVNZ_2_logo.svg.png" group-title="Australia",TVNZ 2 (New Zealand) | HD
