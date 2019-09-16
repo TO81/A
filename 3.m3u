@@ -30,6 +30,8 @@ http://www.djing.com/tv/underground.m3u8
 http://www.djing.com/tv/session_wild-edm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" tvg-name="TRACE URBAN"  group-title="Music",TRACE URBAN
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:-1,tvg-id="" tvg-logo="http://www.one.by/images/logo.png" tvg-name="ONE | HD"  group-title="Music",ONE | HD
+http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="" tvg-name="MTV (Nordic)" tvg-logo="https://iptv.live/images/logo/channel/smalls/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="Music",MTV (Nordic)
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live USA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/MTV_Live.svg/1200px-MTV_Live.svg.png" group-title="Music",MTV Live USA | HD
@@ -70,7 +72,11 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV 9: GLOBAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fashion",FASHION TV 9: GLOBAL | HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MODELS INC." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Fashion",MODELS INC.
+#EXTINF:-1 tvg-id="" tvg-name="MODELS INC." tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fashion",MODELS INC.
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WORLD FASHION CHANNEL | HD" tvg-logo="https://www.cableman.ru/sites/default/files/world_fashion.png" group-title="Fashion",WORLD FASHION CHANNEL | HD
+http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION & LIFESTYLE | HD" tvg-logo="https://i.ibb.co/qN44FtK/stub-ua.png" group-title="Fashion",FASHION & LIFESTYLE | HD
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBAL FASHION CHANNEL | HD" tvg-logo="https://i.imgur.com/qcrsf49.png" group-title="Fashion",GLOBAL FASHION CHANNEL | HD
 https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8?fluxustv.m3u8
@@ -209,90 +215,6 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10502
 #EXTINF:0, tvg-id="" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsmainevent_130x130.png" tvg-name="SKY SPORTS MAIN EVENT PPV | HD"  group-title="Sports",SKY SPORTS MAIN EVENT PPV | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10503
 
-###MLB EXTRA INNINGS###
-
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/MLB EXTRA INNINGS/mlb-network.png" group-title="MLB Extra Innings",MLB NETWORK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/74
-#EXTINF:-1 tvg-id="" tvg-name="MLB STRIKE ZONE | HD" tvg-logo="https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fwww.blogcdn.com%2Fwww.engadget.com%2Fmedia%2F2012%2F04%2Fmlb-network-strike-zone.jpg&client=amp-blogside-v2&signature=1222ab4a11812461da03e610bc0cc1f5b8c6ea75" group-title="MLB Extra Innings",MLB STRIKE ZONE | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18650
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 1 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22846
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 2 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 2 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22845
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 3 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 3 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22844
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 4 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 4 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22843
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 5 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 5 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22842
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 6 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 6 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22841
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 7 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 7 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22840
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 8 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 8 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22839
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS 9 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS 9 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22838
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 1 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22813
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 2 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 2 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22812
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 3 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 3 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22811
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 4 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 4 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22810
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 5 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 5 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22809
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 6 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 6 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22808
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 7 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 7 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22807
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 8 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 8 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22806
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 9 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 9 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22805
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 10 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 10 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22804
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 11 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 11 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22803
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 12 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 12 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22802
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 13 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 13 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22801
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 14 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 14 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22800
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 15 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 15 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22799
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 16 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 16 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22798
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 17 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 17 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22797
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 18 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 18 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22796
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 19 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 19 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22795
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 20 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 20 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22794
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 21 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 21 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22793
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 22 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 22 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22792
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 23 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 23 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22791
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 24 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 24 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22790
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 25 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 25 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22789
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 26 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 26 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22788
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 27 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 27 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22787
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 28 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 28 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22786
-#EXTINF:-1 tvg-id="" tvg-name="MLB EXTRA INNINGS (DirecTV) 29 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/MLB_Extra_Innings.svg/1200px-MLB_Extra_Innings.svg.png" group-title="MLB Extra Innings",MLB EXTRA INNINGS (DirecTV) 29 | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/22785
-
-
 ###NEWS###
 
 #EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CBC NEWS NETWORK | HD" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png" group-title="News",CBC NEWS NETWORK | HD
@@ -397,7 +319,7 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/25
 #EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/discovery.png" tvg-name="DISCOVERY SCIENCE UK"  group-title="Nature & Science",DISCOVERY SCIENCE UK
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4857
-EXTINF:0, tvg-id="natgeo.us" tvg-logo="http://149.56.14.45/Logo/2018/NATIONALGEOGRAPHICHD.png" tvg-name="NAT GEO USA | HD"  group-title="Nature & Science",NAT GEO USA | HD
+#EXTINF:0, tvg-id="natgeo.us" tvg-logo="http://149.56.14.45/Logo/2018/NATIONALGEOGRAPHICHD.png" tvg-name="NAT GEO USA | HD"  group-title="Nature & Science",NAT GEO USA | HD
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:0, tvg-id="discoverychannel.us" tvg-logo="http://149.56.14.45/Logo/2018/usyusu1480364903.png" tvg-name="DISCOVERY USA | HD"  group-title="Nature & Science",DISCOVERY USA | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1108
@@ -1318,11 +1240,13 @@ http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
 #EXTINF:-1 tvg-id="NBN.lb" tvg-name="NBN | HD" tvg-logo="http://www.znn-lb.com/wp-content/uploads/2017/11/nbn-600x360.jpg" group-title="Arabic",NBN | HD
 http://livecdnh1.tvanywhere.ae/hls/nbn/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL MANAR" tvg-logo="https://worldnews-sy.com/wp-content/uploads/2016/12/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B1.png" group-title="Arabic",AL MANAR
-http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+http://manar.live/x.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE لبنان" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Arabic",TELE لبنان
 http://213.162.202.9:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="LBC.lb" tvg-name="LBC SATELLITE" tvg-logo="http://149.56.14.45/Logo/AR/LBCHD_lb.png" group-title="Arabic",LBC SATELLITE
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL MAYADEEN" tvg-logo="https://static.wixstatic.com/media/c098fe_105c011bedcf4b5789afdea45cd390d0~mv2.png/v1/fill/w_560,h_152,al_c,lg_1,q_80/c098fe_105c011bedcf4b5789afdea45cd390d0~mv2.webp" group-title="Arabic",AL MAYADEEN
+http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANADIAN ARAB TV" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="Arabic",CANADIAN ARAB TV
 http://192.226.228.32:8080/hls/catv/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SYRIA TV | HD" group-title="Arabic",SYRIA TV | HD
