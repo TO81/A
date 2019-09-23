@@ -1230,7 +1230,7 @@ http://aljazeera-ara-HD-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147
 #EXTINF:-1 tvg-id="LDC.lb" tvg-name="LDC" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f3/Ldc_2013.jpg" group-title="Arabic",LDC
 http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="FUTURE TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD0Jb8mJYiFmV2lYFFdh64DtmyejaKv3W-zxA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Arabic",FUTURE TV
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/815
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.ts
 #EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV | HD" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="Arabic",MTV | HD
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
 #EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="AL JADEED" tvg-logo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL_400x400.jpg" group-title="Arabic",AL JADEED
@@ -1242,34 +1242,34 @@ http://livecdnh1.tvanywhere.ae/hls/nbn/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL MANAR" tvg-logo="https://worldnews-sy.com/wp-content/uploads/2016/12/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B1.png" group-title="Arabic",AL MANAR
 http://manar.live/x.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE لبنان" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Arabic",TELE لبنان
-http://213.162.202.9:8000/play/a00y/index.m3u8
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/8806
 #EXTINF:-1 tvg-id="LBC.lb" tvg-name="LBC SATELLITE" tvg-logo="http://149.56.14.45/Logo/AR/LBCHD_lb.png" group-title="Arabic",LBC SATELLITE
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL MAYADEEN" tvg-logo="https://static.wixstatic.com/media/c098fe_105c011bedcf4b5789afdea45cd390d0~mv2.png/v1/fill/w_560,h_152,al_c,lg_1,q_80/c098fe_105c011bedcf4b5789afdea45cd390d0~mv2.webp" group-title="Arabic",AL MAYADEEN
+#EXTINF:-1 tvg-id="" tvg-name="FATAFEAT | HD" tvg-logo="https://i.imgur.com/61QXqJv.png" group-title="Arabic",FATAFEAT | HD
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/16051
+#EXTINF:-1 tvg-id="" tvg-name="AL MAYADEEN" tvg-logo="https://static.wixstatic.com/media/c098fe_105c011bedcf4b5789afdea45cd390d0~mv2.png" group-title="Arabic",AL MAYADEEN
 http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANADIAN ARAB TV" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="Arabic",CANADIAN ARAB TV
 http://192.226.228.32:8080/hls/catv/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SYRIA TV | HD" group-title="Arabic",SYRIA TV | HD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL ARABY | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/220px-Alaraby_TV_Logo.png" group-title="Arabic",AL ARABY | HD
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL ARABY 2 | HD" tvg-logo="https://4.bp.blogspot.com/-EoHa7_Pqu3Y/WOV44deMAwI/AAAAAAAAExA/SGJ8x8sPiWYN5ZBfQvYQjc70nPl_FSy6wCLcB/s1600/alaraby_tv_uk_2.png" group-title="Arabic",AL ARABY 2 | HD
-http://213.162.202.9:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1 | HD" group-title="Arabic",MBC 1 | HD
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Arabic",MBC 1 | HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 | HD" group-title="Arabic",MBC 2 | HD
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="Arabic",MBC 2 | HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MBC 3 | HD" group-title="Arabic",MBC 3 | HD
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MBC 3 | HD" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Arabic",MBC 3 | HD
 http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
-#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="MBC 4 | HD" group-title="Arabic",MBC 4 | HD
+#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="MBC 4 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="Arabic",MBC 4 | HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbc4/05.m3u8
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC MAX | HD" group-title="Arabic",MBC MAX | HD
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" tvg-name="MBC MAX | HD" group-title="Arabic",MBC MAX | HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC ACTION | HD" group-title="Arabic",MBC ACTION | HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/05.m3u8
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC DRAMA | HD" group-title="Arabic",MBC DRAMA | HD
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC ACTION" tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="Arabic",MBC ACTION
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/2438
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC DRAMA | HD" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="Arabic",MBC DRAMA | HD
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MECCA | HD" group-title="Arabic",MECCA | HD
+#EXTINF:-1 tvg-id="" tvg-name="MY TV COMEDY" tvg-logo="https://i.imgur.com/TwQaZJ9.png" group-title="Arabic",MY TV COMEDY
+http://185.228.19.115:8009/MyTV_Comedy/mono.m3u8?token=4xqfYjeH82
+#EXTINF:-1 tvg-id="" tvg-name="MECCA" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="Arabic",MECCA
 http://m.live.net.sa:1935/live/quran/chunklist_w1660804461.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA | HD" group-title="Arabic",AL ARABIYA | HD
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_b4500000.m3u8
@@ -1307,10 +1307,12 @@ http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AGHANI" tvg-logo="https://aghaniaghani.com/images/logo.png" group-title="Arabic",AGHANI
 http://109.236.92.216:9090/Aghani/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABY | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/220px-Alaraby_TV_Logo.png" group-title="Arabic",AL ARABY | HD
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABY 2 | HD" tvg-logo="https://4.bp.blogspot.com/-EoHa7_Pqu3Y/WOV44deMAwI/AAAAAAAAExA/SGJ8x8sPiWYN5ZBfQvYQjc70nPl_FSy6wCLcB/s1600/alaraby_tv_uk_2.png" group-title="Arabic",AL ARABY 2 | HD
+http://213.162.202.9:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOURSAT" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Noursat-TV.png" group-title="Arabic",NOURSAT
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FATAFEAT | HD" group-title="Arabic",FATAFEAT | HD
-http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/2714
 
 
 ###INTERNATIONAL ENGLISH###
@@ -1389,43 +1391,31 @@ http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 
 ###ADULT###
 
-#EXTINF:-1 tvg-logo="https://www.babestation.tv/cams/_nuxt/img/15f4392.png" group-title="Adult",Babestation
-http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="Adult",Eye Candy
-http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rpJyXdK.png" group-title="Adult",Hot Korean Dance-Off (New!)
-http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="Adult",Jasmin TV (HD)
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin TV | HD" tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="Adult",Jasmin TV | HD
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Big Ass
-http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Big Dick
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic - Big Dick" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Big Dick
 http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Blowjob
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic - Blowjob" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Blowjob
 http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Cuckold
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic - Cuckold" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Cuckold
 http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Fetish
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic - Fetish" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Fetish
 http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Hardcore
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic - Hardcore" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Hardcore
 http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Interracial
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic - Interracial" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Interracial
 http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Latina
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic - Latina" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Latina
 http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Lesbian
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic - Lesbian" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Lesbian
 http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - MILF
-http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - POV
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic - POV" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - POV
 http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Pornstar
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic - Pornstar" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Pornstar
 http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Russian
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic - Russian" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Russian
 http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Teen
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic - Teen" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Teen
 http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Threesome
+#EXTINF:-1 tvg-id="" tvg-name="RedTraffic - Threesome" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Adult",RedTraffic - Threesome
 http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
