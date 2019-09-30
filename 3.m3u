@@ -1230,27 +1230,27 @@ http://aljazeera-ara-HD-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147
 #EXTINF:-1 tvg-id="LDC.lb" tvg-name="LDC" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f3/Ldc_2013.jpg" group-title="Arabic",LDC
 http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="FUTURE TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD0Jb8mJYiFmV2lYFFdh64DtmyejaKv3W-zxA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Arabic",FUTURE TV
-http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.ts
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 #EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV | HD" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="Arabic",MTV | HD
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
 #EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="AL JADEED" tvg-logo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL_400x400.jpg" group-title="Arabic",AL JADEED
 http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
-#EXTINF:-1 tvg-id="OTVLebanon.lb" tvg-name="OTV" tvg-logo="hhttp://lebanonvoyager.com/temp/wp-content/uploads/2018/04/otv.jpg" group-title="Arabic",OTV
+#EXTINF:-1 tvg-id="OTVLebanon.lb" tvg-name="OTV" tvg-logo="https://semicolonlb.net/main/media/press/10.png" group-title="Arabic",OTV
 http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
 #EXTINF:-1 tvg-id="NBN.lb" tvg-name="NBN | HD" tvg-logo="http://www.znn-lb.com/wp-content/uploads/2017/11/nbn-600x360.jpg" group-title="Arabic",NBN | HD
 http://livecdnh1.tvanywhere.ae/hls/nbn/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL MANAR" tvg-logo="https://worldnews-sy.com/wp-content/uploads/2016/12/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B1.png" group-title="Arabic",AL MANAR
 http://manar.live/x.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE لبنان" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Arabic",TELE لبنان
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/8806
+http://www.vtpii.net:8000/live/vtpii/vtpii/235.m3u8
 #EXTINF:-1 tvg-id="LBC.lb" tvg-name="LBC SATELLITE" tvg-logo="http://149.56.14.45/Logo/AR/LBCHD_lb.png" group-title="Arabic",LBC SATELLITE
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FATAFEAT | HD" tvg-logo="https://i.imgur.com/61QXqJv.png" group-title="Arabic",FATAFEAT | HD
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/16051
+http://www.vtpii.net:8000/live/vtpii/vtpii/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN GOURMET | HD" tvg-logo="http://www.hadarasport.com/wp-content/uploads/2018/05/5copy.png" group-title="Arabic",BEIN GOURMET | HD
+http://www.vtpii.net:8000/live/vtpii/vtpii/222.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL MAYADEEN" tvg-logo="https://static.wixstatic.com/media/c098fe_105c011bedcf4b5789afdea45cd390d0~mv2.png" group-title="Arabic",AL MAYADEEN
 http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANADIAN ARAB TV" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="Arabic",CANADIAN ARAB TV
-http://192.226.228.32:8080/hls/catv/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SYRIA TV | HD" group-title="Arabic",SYRIA TV | HD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Arabic",MBC 1 | HD
@@ -1263,8 +1263,8 @@ http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
 http://livecdnh3.tvanywhere.ae:80/hls/mbc4/05.m3u8
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" tvg-name="MBC MAX | HD" group-title="Arabic",MBC MAX | HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC ACTION" tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="Arabic",MBC ACTION
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/2438
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC ACTION | HD" tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="Arabic",MBC ACTION | HD
+http://www.vtpii.net:8000/live/vtpii/vtpii/43.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC DRAMA | HD" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="Arabic",MBC DRAMA | HD
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY TV COMEDY" tvg-logo="https://i.imgur.com/TwQaZJ9.png" group-title="Arabic",MY TV COMEDY
@@ -1309,8 +1309,6 @@ http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
 http://109.236.92.216:9090/Aghani/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABY | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/220px-Alaraby_TV_Logo.png" group-title="Arabic",AL ARABY | HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL ARABY 2 | HD" tvg-logo="https://4.bp.blogspot.com/-EoHa7_Pqu3Y/WOV44deMAwI/AAAAAAAAExA/SGJ8x8sPiWYN5ZBfQvYQjc70nPl_FSy6wCLcB/s1600/alaraby_tv_uk_2.png" group-title="Arabic",AL ARABY 2 | HD
-http://213.162.202.9:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOURSAT" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Noursat-TV.png" group-title="Arabic",NOURSAT
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 
