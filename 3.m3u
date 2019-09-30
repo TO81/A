@@ -1283,17 +1283,17 @@ http://185.228.19.115:8009/MyTV_Comedy/mono.m3u8?token=4xqfYjeH82
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/classic.png" group-title="Arabic",ROTANA CLASSIC | HD
 http://universeiptv.com:8000/live/charlie/2019/3513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic",ROTANA MUSIC | HD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic",ROTANA MUSIC
 http://universeiptv.com:8000/live/charlie/2019/3516.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA CLIP" tvg-logo="https://image.mysatgo.com/resize-width/400//content/y/fD/8/Thumbnail.png" group-title="Arabic",ROTANA CLIP
 http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA AFLAM" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-logo-880x660.png" group-title="Arabic",ROTANA AFLAM
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA DRAMA | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/drama.png" group-title="Arabic",ROTANA DRAMA | HD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA DRAMA" tvg-logo="https://rotana.net/assets/uploads/2017/03/drama.png" group-title="Arabic",ROTANA DRAMA
 http://universeiptv.com:8000/live/charlie/2019/3515.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA" tvg-logo="https://rotana.net/assets/uploads/2017/03/ro-cinema-logo-copy.png" group-title="Arabic",ROTANA CINEMA
 http://universeiptv.com:8000/live/charlie/2019/3512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA KHALIJIYA | HD" tvg-logo="https://rotana.net/assets/uploads/2016/10/Final-Khaleejia-logo.png" group-title="Arabic",ROTANA KHALIJIYA | HD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KHALIJIYA" tvg-logo="https://rotana.net/assets/uploads/2016/10/Final-Khaleejia-logo.png" group-title="Arabic",ROTANA KHALIJIYA
 http://universeiptv.com:8000/live/charlie/2019/3514.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABY | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/220px-Alaraby_TV_Logo.png" group-title="Arabic",AL ARABY | HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
