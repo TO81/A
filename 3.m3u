@@ -1334,13 +1334,14 @@ http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
 
 
 ###ARABIC MUSIC###
+
 #EXTINF:-1 tvg-id="" tvg-name="FAIRUZ RADIO | HD" tvg-logo="https://images.sk-static.com/images/media/profile_images/artists/267655/huge_avatar" group-title="Arabic Music",FAIRUZ RADIO | HD
 http://universeiptv.com:8000/live/charlie/2019/7615.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABDEL HALIM HAFEZ RADIO| HD" tvg-logo="https://pbs.twimg.com/profile_images/1479587450/Abdel_Halim_Hafez_birthday_400x400.jpg" group-title="Arabic Music",ABDEL HALIM HAFEZ | HD
 http://universeiptv.com:8000/live/charlie/2019/7616.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UMM KALTHOUM RADIO" tvg-logo="https://scontent.fyyc2-1.fna.fbcdn.net/v/t1.0-9/56775732_2318886325024629_5317164860998418432_n.jpg?_nc_cat=101&_nc_oc=AQm8DZnA-GlpVpzPhBKyd2pqU8Lg7xo8qaPlMbhUDxA62DHwUFZJ_60HEpbZQkOxUQI&_nc_ht=scontent.fyyc2-1.fna&oh=1172675ac367ef87fc3248fc28b6a250&oe=5E340903" group-title="Arabic Music",UMM KALTHOUM RADIO
 http://universeiptv.com:8000/live/charlie/2019/7614.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic Music",ROTANA MUSIC | HD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic Music",ROTANA MUSIC
 http://universeiptv.com:8000/live/charlie/2019/3516.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARABICA MUSIC" tvg-logo="https://sc.dish.com/shared/images/station-logos/arbmu.png" group-title="Arabic Music",ARABICA MUSIC
 http://universeiptv.com:8000/live/charlie/2019/7461.m3u8
