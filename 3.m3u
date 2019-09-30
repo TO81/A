@@ -1259,7 +1259,7 @@ http://universeiptv.com:8000/live/charlie/2019/2728.m3u8
 http://universeiptv.com:8000/live/charlie/2019/3447.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL ARABIC | HD" tvg-logo="http://pluspng.com/img-png/travel-hd-png-file-travel-channel-hd-logo-png-1350.png" group-title="Arabic",TRAVEL CHANNEL ARABIC | HD
 http://universeiptv.com:8000/live/charlie/2019/3045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH ARABIC | HD" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg" group-title="Arabic",BBC EARTH ARABIC | HD
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH ARABIC | HD" tvg-logo="https://www.bbcearth.com/brand/assets/images/channel-assets/bbc-earth/about-logo-bbc-earth.png" group-title="Arabic",BBC EARTH ARABIC | HD
 http://universeiptv.com:8000/live/charlie/2019/19748.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SYRIA TV | HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1338_1.png" group-title="Arabic",SYRIA TV | HD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
