@@ -1227,13 +1227,11 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 
 ###ARABIC###
 
-#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA ARABIC | HD" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo.png" group-title="Arabic",AL JAZEERA ARABIC | HD
-http://aljazeera-ara-HD-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBC EUROPE | HD" tvg-logo="https://content4tv.com/wp-content/uploads//2017/08/LBC-Europe--320x0-c-default.png" group-title="Arabic",LBC EUROPE | HD
 http://universeiptv.com:8000/live/charlie/2019/26205.m3u8
 #EXTINF:-1 tvg-id="LDC.lb" tvg-name="LBC INTERNATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="Arabic",LBC INTERNATIONAL
 http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
-#EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="FUTURE TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD0Jb8mJYiFmV2lYFFdh64DtmyejaKv3W-zxA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Arabic",FUTURE TV
+#EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="FUTURE TV" tvg-logo="http://www.futuretvnetwork.com/images/logo-n2.png" group-title="Arabic",FUTURE TV
 http://universeiptv.com:8000/live/charlie/2019/21863.m3u8
 #EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV | HD" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="Arabic",MTV | HD
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
@@ -1261,8 +1259,6 @@ http://universeiptv.com:8000/live/charlie/2019/3447.m3u8
 http://universeiptv.com:8000/live/charlie/2019/3045.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC EARTH ARABIC | HD" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg" group-title="Arabic",BBC EARTH ARABIC | HD
 http://universeiptv.com:8000/live/charlie/2019/19748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL MAYADEEN" tvg-logo="https://static.wixstatic.com/media/c098fe_105c011bedcf4b5789afdea45cd390d0~mv2.png" group-title="Arabic",AL MAYADEEN
-http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SYRIA TV | HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1338_1.png" group-title="Arabic",SYRIA TV | HD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Arabic",MBC 1 | HD
@@ -1281,26 +1277,6 @@ http://www.vtpii.net:8000/live/vtpii/vtpii/43.m3u8
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY TV COMEDY" tvg-logo="https://i.imgur.com/TwQaZJ9.png" group-title="Arabic",MY TV COMEDY
 http://185.228.19.115:8009/MyTV_Comedy/mono.m3u8?token=4xqfYjeH82
-#EXTINF:-1 tvg-id="" tvg-name="MECCA | HD" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="Arabic",MECCA | HD
-http://universeiptv.com:8000/live/charlie/2019/1271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA | HD" tvg-logo="http://www.reachmediatv.com/images/alarabia.png" group-title="Arabic",AL ARABIYA | HD
-http://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_b4500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT ARABIC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/0/06/RTarabic.jpg" group-title="Arabic",RT ARABIC | HD
-http://rt-arab.secure.footprint.net:80/1104.m3u8?streamType=live
-#EXTINF:-1 tvg-id="" tvg-name="TRT ARABIC | HD" tvg-logo="https://i.imgur.com/iJIHMq9.png" group-title="Arabic",TRT ARABIC | HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS ARABIYA | HD" tvg-logo="https://www.skynewsarabia.com/static/web-rev/img/app-banner/sna_logo_192_20_Pad.png" group-title="Arabic",SKY NEWS ARABIYA | HD
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ARABIC" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/02/France24Arabi.png" group-title="Arabic",FRANCE 24 ARABIC
-http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC ARABIC" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="Arabic",BBC ARABIC
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA AL HADATH | HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-al-arabiya-al-hada.jpg" group-title="Arabic",AL ARABIYA AL HADATH | HD
-http://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b4500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA MUBASHER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png" group-title="Arabic",AL JAZEERA MUBASHER
-http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/appleman.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA DOCUMENTARY" tvg-logo="https://network.aljazeera.com/sites/aj_corporate/files/ajd-sm.png" group-title="Arabic",AL JAZEERA DOCUMENTARY
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Arabic",DW ARABIC
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/classic.png" group-title="Arabic",ROTANA CLASSIC | HD
@@ -1319,8 +1295,40 @@ http://universeiptv.com:8000/live/charlie/2019/3512.m3u8
 http://universeiptv.com:8000/live/charlie/2019/3514.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABY | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/220px-Alaraby_TV_Logo.png" group-title="Arabic",AL ARABY | HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MECCA | HD" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="Arabic",MECCA | HD
+http://universeiptv.com:8000/live/charlie/2019/1271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IQRAA" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100766q.png" group-title="Arabic",IQRAA
+http://universeiptv.com:8000/live/charlie/2019/1278.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOURSAT" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Noursat-TV.png" group-title="Arabic",NOURSAT
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AGHAPY TV | HD" tvg-logo="https://sc.dish.com/shared/images/station-logos/agapy.png" group-title="Arabic",AGHAPY TV | HD
+http://universeiptv.com:8000/live/charlie/2019/1905.m3u8
+
+
+###ARABIC NEWS###
+
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA ARABIC | HD" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo.png" group-title="Arabic News",AL JAZEERA ARABIC | HD
+http://aljazeera-ara-HD-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA | HD" tvg-logo="http://www.reachmediatv.com/images/alarabia.png" group-title="Arabic News",AL ARABIYA | HD
+http://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_b4500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT ARABIC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/0/06/RTarabic.jpg" group-title="Arabic News",RT ARABIC | HD
+http://rt-arab.secure.footprint.net:80/1104.m3u8?streamType=live
+#EXTINF:-1 tvg-id="" tvg-name="TRT ARABIC | HD" tvg-logo="https://i.imgur.com/iJIHMq9.png" group-title="Arabic News",TRT ARABIC | HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS ARABIYA | HD" tvg-logo="https://www.skynewsarabia.com/static/web-rev/img/app-banner/sna_logo_192_20_Pad.png" group-title="Arabic News",SKY NEWS ARABIYA | HD
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ARABIC" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/02/France24Arabi.png" group-title="Arabic News",FRANCE 24 ARABIC
+http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC ARABIC" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="Arabic News",BBC ARABIC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA AL HADATH | HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-al-arabiya-al-hada.jpg" group-title="Arabic News",AL ARABIYA AL HADATH | HD
+http://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b4500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA MUBASHER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png" group-title="Arabic News",AL JAZEERA MUBASHER
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/appleman.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA DOCUMENTARY" tvg-logo="https://network.aljazeera.com/sites/aj_corporate/files/ajd-sm.png" group-title="Arabic News",AL JAZEERA DOCUMENTARY
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL MAYADEEN" tvg-logo="https://static.wixstatic.com/media/c098fe_105c011bedcf4b5789afdea45cd390d0~mv2.png" group-title="Arabic News",AL MAYADEEN
+http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
 
 
 ###INTERNATIONAL ENGLISH###
