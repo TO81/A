@@ -28,8 +28,8 @@ http://www.djing.com/tv/session_summer-vibes.m3u8
 http://www.djing.com/tv/underground.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music",DJing WILD EDM
 http://www.djing.com/tv/session_wild-edm.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" tvg-name="TRACE URBAN"  group-title="Music",TRACE URBAN
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" tvg-name="TRACE URBAN | HD"  group-title="Music",TRACE URBAN | HD
+http://universeiptv.com:8000/live/charlie/2019/3227.m3u8
 #EXTINF:-1,tvg-id="" tvg-logo="http://www.one.by/images/logo.png" tvg-name="ONE | HD"  group-title="Music",ONE | HD
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="" tvg-name="MTV (Nordic)" tvg-logo="https://iptv.live/images/logo/channel/smalls/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="Music",MTV (Nordic)
@@ -136,6 +136,8 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/126
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9
 #EXTINF:0, tvg-id="NBATV.us" tvg-logo="http://149.56.14.45/Logo/2018/xutptv1433429127.png" tvg-name="NBA TV USA | HD"  group-title="Sports",NBA TV USA | HD
 http://185.246.209.109:8080/NBA9/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://assets.beinsports.com/3.1.49/images/themes/nba/logo.png" tvg-name="BEIN SPORTS NBA | HD"  group-title="Sports",BEIN SPORTS NBA | HD
+http://universeiptv.com:8000/live/charlie/2019/3084.m3u8
 #EXTINF:-1 tvg-id="nhlnetwork.us" tvg-logo="http://149.56.14.45/Logo/nhl/NHL-Network.png" tvg-name="NHL NETWORK USA | HD"  group-title="Sports",NHL NETWORK USA | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/32
 #EXTINF:-1 tvg-id="mlbnetwork.us" tvg-logo="http://149.56.14.45/Logo/sports/mlb-network.png" tvg-name="MLB NETWORK | HD"  group-title="Sports",MLB NETWORK | HD
@@ -1227,10 +1229,12 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 
 #EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA ARABIC | HD" tvg-logo="https://i.ytimg.com/vi/FzLzeDo_FU8/hqdefault_live.jpg?sqp=CKiPieYF-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB4T3Sh7I9nMWR2d8c0g-8PySSowA" group-title="Arabic",AL JAZEERA ARABIC | HD
 http://aljazeera-ara-HD-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LBC EUROPE | HD" tvg-logo="https://content4tv.com/wp-content/uploads//2017/08/LBC-Europe--320x0-c-default.png" group-title="Arabic",LBC EUROPE | HD
+http://universeiptv.com:8000/live/charlie/2019/26205.m3u8
 #EXTINF:-1 tvg-id="LDC.lb" tvg-name="LDC" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f3/Ldc_2013.jpg" group-title="Arabic",LDC
 http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="FUTURE TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD0Jb8mJYiFmV2lYFFdh64DtmyejaKv3W-zxA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Arabic",FUTURE TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+http://universeiptv.com:8000/live/charlie/2019/21863.m3u8
 #EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV | HD" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="Arabic",MTV | HD
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
 #EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="AL JADEED" tvg-logo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL_400x400.jpg" group-title="Arabic",AL JADEED
@@ -1243,12 +1247,20 @@ http://livecdnh1.tvanywhere.ae/hls/nbn/05.m3u8
 http://manar.live/x.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE لبنان" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Arabic",TELE لبنان
 http://www.vtpii.net:8000/live/vtpii/vtpii/235.m3u8
-#EXTINF:-1 tvg-id="LBC.lb" tvg-name="LBC SATELLITE" tvg-logo="http://149.56.14.45/Logo/AR/LBCHD_lb.png" group-title="Arabic",LBC SATELLITE
-http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="LBC SATELLITE | HD" tvg-logo="https://ibcap.us/logo/LBC.png" group-title="Arabic",LBC SATELLITE | HD
+http://universeiptv.com:8000/live/charlie/2019/3455.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FATAFEAT | HD" tvg-logo="https://i.imgur.com/61QXqJv.png" group-title="Arabic",FATAFEAT | HD
 http://www.vtpii.net:8000/live/vtpii/vtpii/45.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN GOURMET | HD" tvg-logo="http://www.hadarasport.com/wp-content/uploads/2018/05/5copy.png" group-title="Arabic",BEIN GOURMET | HD
 http://www.vtpii.net:8000/live/vtpii/vtpii/222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK ARABIC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Arabic",FOOD NETWORK ARABIC | HD
+http://universeiptv.com:8000/live/charlie/2019/2728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV ARABIC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png" group-title="Arabic",HGTV ARABIC | HD
+http://universeiptv.com:8000/live/charlie/2019/3447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL ARABIC | HD" tvg-logo="http://pluspng.com/img-png/travel-hd-png-file-travel-channel-hd-logo-png-1350.png" group-title="Arabic",TRAVEL CHANNEL ARABIC | HD
+http://universeiptv.com:8000/live/charlie/2019/3045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH ARABIC | HD" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg" group-title="Arabic",BBC EARTH ARABIC | HD
+http://universeiptv.com:8000/live/charlie/2019/19748.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL MAYADEEN" tvg-logo="https://static.wixstatic.com/media/c098fe_105c011bedcf4b5789afdea45cd390d0~mv2.png" group-title="Arabic",AL MAYADEEN
 http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SYRIA TV | HD" group-title="Arabic",SYRIA TV | HD
@@ -1269,8 +1281,8 @@ http://www.vtpii.net:8000/live/vtpii/vtpii/43.m3u8
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY TV COMEDY" tvg-logo="https://i.imgur.com/TwQaZJ9.png" group-title="Arabic",MY TV COMEDY
 http://185.228.19.115:8009/MyTV_Comedy/mono.m3u8?token=4xqfYjeH82
-#EXTINF:-1 tvg-id="" tvg-name="MECCA" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="Arabic",MECCA
-http://m.live.net.sa:1935/live/quran/chunklist_w1660804461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MECCA | HD" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="Arabic",MECCA | HD
+http://universeiptv.com:8000/live/charlie/2019/1271.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA | HD" group-title="Arabic",AL ARABIYA | HD
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_b4500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RT ARABIC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/0/06/RTarabic.jpg" group-title="Arabic",RT ARABIC | HD
@@ -1291,22 +1303,20 @@ http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubashe
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="Arabic",DW ARABIC
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC" tvg-logo="https://rotana.net/assets/uploads/2017/03/classic.png" group-title="Arabic",ROTANA CLASSIC
-http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic",ROTANA MUSIC
-http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA AFLAM" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-logo-880x660.png" group-title="Arabic",ROTANA AFLAM
-http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA" tvg-logo="https://rotana.net/assets/uploads/2017/03/ro-cinema-logo-copy.png" group-title="Arabic",ROTANA CINEMA
-http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA DRAMA" tvg-logo="https://rotana.net/assets/uploads/2017/03/drama.png" group-title="Arabic",ROTANA DRAMA
-http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA KHALIJIYA" tvg-logo="https://rotana.net/assets/uploads/2016/10/Final-Khaleejia-logo.png" group-title="Arabic",ROTANA KHALIJIYA
-http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/classic.png" group-title="Arabic",ROTANA CLASSIC | HD
+http://universeiptv.com:8000/live/charlie/2019/3513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic",ROTANA MUSIC | HD
+http://universeiptv.com:8000/live/charlie/2019/3516.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA CLIP" tvg-logo="https://image.mysatgo.com/resize-width/400//content/y/fD/8/Thumbnail.png" group-title="Arabic",ROTANA CLIP
 http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AGHANI" tvg-logo="https://aghaniaghani.com/images/logo.png" group-title="Arabic",AGHANI
-http://109.236.92.216:9090/Aghani/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA AFLAM" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-logo-880x660.png" group-title="Arabic",ROTANA AFLAM
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA DRAMA | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/drama.png" group-title="Arabic",ROTANA DRAMA | HD
+http://universeiptv.com:8000/live/charlie/2019/3515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA" tvg-logo="https://rotana.net/assets/uploads/2017/03/ro-cinema-logo-copy.png" group-title="Arabic",ROTANA CINEMA
+http://universeiptv.com:8000/live/charlie/2019/3512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KHALIJIYA | HD" tvg-logo="https://rotana.net/assets/uploads/2016/10/Final-Khaleejia-logo.png" group-title="Arabic",ROTANA KHALIJIYA | HD
+http://universeiptv.com:8000/live/charlie/2019/3514.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABY | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/220px-Alaraby_TV_Logo.png" group-title="Arabic",AL ARABY | HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOURSAT" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Noursat-TV.png" group-title="Arabic",NOURSAT
