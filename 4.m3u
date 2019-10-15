@@ -60,11 +60,11 @@ http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
 #EXTINF:-1 tvg-id="MBC4.sa" tvg-name="MBC 4 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="Arabic Variety",MBC 4 | HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbc4/05.m3u8
-#EXTINF:-1 tvg-id="MBC5.sa" tvg-name="MBC 5 | HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEesc7sCthJhuWOXktCsq4fSEPIvJ7urL0OGM7vxf2WHP3JEuuw" group-title="Arabic Variety",MBC 5 | HD
+#EXTINF:-1 tvg-id="MBC5.sa" tvg-name="MBC 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEesc7sCthJhuWOXktCsq4fSEPIvJ7urL0OGM7vxf2WHP3JEuuw" group-title="Arabic Variety",MBC 5
 http://185.236.229.22:8000/play/a06k
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" tvg-name="MBC MAX | HD" group-title="Arabic Variety",MBC MAX | HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC ACTION | HD" tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="Arabic Variety",MBC ACTION | HD
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC ACTION" tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="Arabic Variety",MBC ACTION
 http://185.236.229.22:8000/play/a06n
 #EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC DRAMA | HD" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="Arabic Variety",MBC DRAMA | HD
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
@@ -82,8 +82,6 @@ http://185.236.229.22:8000/play/Rotana_Drama_HD
 http://185.236.229.22:8000/play/Rotana_Khalijeah_HD
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA CLIP" tvg-logo="https://image.mysatgo.com/resize-width/400//content/y/fD/8/Thumbnail.png" group-title="Arabic Variety",ROTANA CLIP
 http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY TV COMEDY" tvg-logo="https://i.imgur.com/TwQaZJ9.png" group-title="Arabic Variety",MY TV COMEDY
-http://185.228.19.115:8009/MyTV_Comedy/mono.m3u8?token=4xqfYjeH82
 #EXTINF:-1 tvg-id="" tvg-name="SYRIA TV | HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1338_1.png" group-title="Arabic Variety",SYRIA TV | HD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SAUDI TV | HD" tvg-logo="https://pbs.twimg.com/profile_images/1132817434505830401/30I7aA1E.png" group-title="Arabic Variety",SAUDI TV | HD
@@ -114,6 +112,46 @@ http://185.236.229.22:8000/play/Rotana_Classic_HD
 http://185.236.229.22:8000/play/a077
 #EXTINF:-1 tvg-id="" tvg-name="AGHANI" tvg-logo="http://musicormedia.com/assets/img/companies/aghani-g.png" group-title="Arabic Music",AGHANI
 http://185.236.229.22:8000/play/a076
+
+
+###ENGLISH NEWS###
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="AL JAZEERA ENGLISH | HD" tvg-logo="http://149.56.14.45/Logo/2018/yystpx1433945387.png" group-title="News",AL JAZEERA ENGLISH | HD
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="News",EURONEWS | HD
+http://164.40.161.46:8002/play/s4
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="FRANCE 24 ENGLISH | HD" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="News",FRANCE 24 ENGLISH | HD
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT AMERICA | HD" tvg-logo="https://i.imgur.com/buPAXY7.png" group-title="News",RT AMERICA | HD
+https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD | HD" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="News",TRT WORLD | HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="FOX NEWS CHANNEL | HD" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" group-title="News",FOX NEWS CHANNEL | HD
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/ABC_News_Channel.png" group-title="News",ABC NEWS AUSTRALIA
+http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15128
+#EXTINF:-1 tvg-id="" tvg-name="AUSTRALIA CHANNEL NEWS | HD" tvg-logo="http://australiachannel.com.au/images/Logo.png" group-title="News",AUSTRALIA CHANNEL NEWS | HD
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY NEWS UK | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="News",SKY NEWS UK | HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="News",CNN INTERNATIONAL
+http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="BLOOMBERG TV USA | HD" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="News",BLOOMBERG TV USA | HD
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC | HD" tvg-logo="http://149.56.14.45/Logo/2018/pfsn7f1505903340.png" group-title="News",CNBC | HD
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="News",RT DOCUMENTARY
+https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v5.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FREE SPEECH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="News",FREE SPEECH TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UN WEB TV | HD" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN WEB TV | HD
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CPAC | HD" tvg-logo="https://i.imgur.com/eMMoLjS.png" group-title="News",CPAC | HD
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="THE WEATHER CHANNEL USA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1024px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News",THE WEATHER CHANNEL USA | HD
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEATHER NATION USA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="News",WEATHER NATION USA | HD
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 
 ###INTERNATIONAL ENGLISH###
