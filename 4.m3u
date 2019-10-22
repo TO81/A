@@ -2,6 +2,7 @@
 ### M3U LIST: https://tinyurl.com/uuyyuy ###
 ### BESTBUY IPTV EPG: https://tinyurl.com/uuyuyu ###
 
+
 ###LEBANON###
 
 #EXTINF:-1 tvg-id="" tvg-name="TELE لبنان" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Lebanon",TELE لبنان
@@ -20,8 +21,8 @@ http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nbn/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL MANAR" tvg-logo="https://worldnews-sy.com/wp-content/uploads/2016/12/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B1.png" group-title="Lebanon",AL MANAR
 http://manar.live/x.smil/index.m3u8
-#EXTINF:-1 tvg-id="LBC.lb" tvg-name="LBC SATELLITE | HD" tvg-logo="https://ibcap.us/logo/LBC.png" group-title="Lebanon",LBC SATELLITE | HD
-http://185.236.229.22:8000/play/LBC_HD
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="LBC SATELLITE" tvg-logo="https://ibcap.us/logo/LBC.png" group-title="Lebanon",LBC SATELLITE
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL MAYADEEN" tvg-logo="https://static.wixstatic.com/media/c098fe_105c011bedcf4b5789afdea45cd390d0~mv2.png" group-title="Lebanon",AL MAYADEEN
 http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
 
@@ -72,50 +73,42 @@ http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
 http://185.236.229.22:8000/play/a06n
 #EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC DRAMA | HD" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="Arabic Variety",MBC DRAMA | HD
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/classic.png" group-title="Arabic Variety",ROTANA CLASSIC | HD
-http://185.236.229.22:8000/play/Rotana_Classic_HD
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic Variety",ROTANA MUSIC | HD
-http://185.236.229.22:8000/play/Rotana_Music_HD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC" tvg-logo="https://rotana.net/assets/uploads/2017/03/classic.png" group-title="Arabic Variety",ROTANA CLASSIC
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic Variety",ROTANA MUSIC
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA AFLAM" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-logo-880x660.png" group-title="Arabic Variety",ROTANA AFLAM
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/ro-cinema-logo-copy.png" group-title="Arabic Variety",ROTANA CINEMA | HD
-http://185.236.229.22:8000/play/Rotana_Cinema_HD
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA DRAMA | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/drama.png" group-title="Arabic Variety",ROTANA DRAMA | HD
-http://185.236.229.22:8000/play/Rotana_Drama_HD
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA KHALIJIYA | HD" tvg-logo="https://rotana.net/assets/uploads/2016/10/Final-Khaleejia-logo.png" group-title="Arabic Variety",ROTANA KHALIJIYA | HD
-http://185.236.229.22:8000/play/Rotana_Khalijeah_HD
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA" tvg-logo="https://rotana.net/assets/uploads/2017/03/ro-cinema-logo-copy.png" group-title="Arabic Variety",ROTANA CINEMA
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA DRAMA" tvg-logo="https://rotana.net/assets/uploads/2017/03/drama.png" group-title="Arabic Variety",ROTANA DRAMA
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KHALIJIYA" tvg-logo="https://rotana.net/assets/uploads/2016/10/Final-Khaleejia-logo.png" group-title="Arabic Variety",ROTANA KHALIJIYA
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA CLIP" tvg-logo="https://image.mysatgo.com/resize-width/400//content/y/fD/8/Thumbnail.png" group-title="Arabic Variety",ROTANA CLIP
 http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SYRIA TV | HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1338_1.png" group-title="Arabic Variety",SYRIA TV | HD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SAUDI TV | HD" tvg-logo="https://pbs.twimg.com/profile_images/1132817434505830401/30I7aA1E.png" group-title="Arabic Variety",SAUDI TV | HD
-http://185.236.229.22:8000/play/a07f
-#EXTINF:-1 tvg-id="" tvg-name="KUWAIT TV | HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KTV1.png" group-title="Arabic Variety",KUWAIT TV | HD
-http://185.228.19.115:8009/MyTV_Comedy/mono.m3u8?token=4xqfYjeH82
-#EXTINF:-1 tvg-id="" tvg-name="KUWAIT AL ARABI TV | HD" tvg-logo="https://4.bp.blogspot.com/-Pn29KUUIYmU/WSSxj50alQI/AAAAAAAAGT0/0rqjycHPHgYWR6Cj286eZGRix7Kl3xwmACLcB/s1600/ktv_al_araby.png" group-title="Arabic Variety",KUWAIT AL ARABI TV | HD
-http://185.228.19.115:8009/MyTV_Comedy/mono.m3u8?token=4xqfYjeH82
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABY | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/220px-Alaraby_TV_Logo.png" group-title="Arabic Variety",AL ARABY | HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="Arabic Variety",DW ARABIC
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MECCA | HD" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="Arabic Variety",MECCA | HD
-http://185.236.229.22:8000/play/a07k
-#EXTINF:-1 tvg-id="" tvg-name="MECCA 2 | HD" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="Arabic Variety",MECCA 2 | HD
-http://185.236.229.22:8000/play/a071
+#EXTINF:-1 tvg-id="" tvg-name="MECCA" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="Arabic Variety",MECCA
+http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUNNAH" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="Arabic Variety",SUNNAH
+http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOURSAT" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Noursat-TV.png" group-title="Arabic Variety",NOURSAT
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 
 
 ###ARABIC MUSIC###
 
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic Music",ROTANA MUSIC | HD
-http://185.236.229.22:8000/play/Rotana_Music_HD
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/classic.png" group-title="Arabic Music",ROTANA CLASSIC | HD
-http://185.236.229.22:8000/play/Rotana_Classic_HD
-#EXTINF:-1 tvg-id="" tvg-name="ARABICA MUSIC" tvg-logo="https://sc.dish.com/shared/images/station-logos/arbmu.png" group-title="Arabic Music",ARABICA MUSIC
-http://185.236.229.22:8000/play/a077
 #EXTINF:-1 tvg-id="" tvg-name="AGHANI" tvg-logo="http://musicormedia.com/assets/img/companies/aghani-g.png" group-title="Arabic Music",AGHANI
-http://185.236.229.22:8000/play/a076
+https://svs.itworkscdn.net/aghanilive/aghanilive/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic Music",ROTANA MUSIC
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC" tvg-logo="https://rotana.net/assets/uploads/2017/03/classic.png" group-title="Arabic Music",ROTANA CLASSIC
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
 
 
 ###ENGLISH NEWS###
@@ -133,7 +126,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="FOX NEWS CHANNEL | HD" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" group-title="News",FOX NEWS CHANNEL | HD
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC NEWS AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/ABC_News_Channel.png" group-title="News",ABC NEWS AUSTRALIA
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15128
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AUSTRALIA CHANNEL NEWS | HD" tvg-logo="http://australiachannel.com.au/images/Logo.png" group-title="News",AUSTRALIA CHANNEL NEWS | HD
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY NEWS UK | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="News",SKY NEWS UK | HD
