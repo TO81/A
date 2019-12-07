@@ -1,5 +1,83 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/51" tvg-id="e75c7aad21fc0b3b8bd5298730220e4e",ABC HD
+http://203.208.100.17:9981/stream/channelid/762993895?ticket=68FD62415AF9E7025D1AB5FAD6E838E18B87D99E&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/52" tvg-id="8adb7ac36c81ed1a3ede714832cacf8d",SBS ONE HD
+http://203.208.100.17:9981/stream/channelid/1132125066?ticket=8C000A6F22201E254066F828062CCB294A90CF39&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/53" tvg-id="b79497887b10bf89457ae1041da48fdb",7HD Melbourne
+http://203.208.100.17:9981/stream/channelid/144151735?ticket=724996D7B8DE43E65C6954F26C4513975E283A8F&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/54" tvg-id="95e2095da1c37643e154c6cd486cdb19",9HD Melbourne
+http://203.208.100.17:9981/stream/channelid/1560928917?ticket=D37EBF02FC7D7B9AD084CEFB24C94A2B997E65BF&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/55" tvg-id="9ef4013da24eaa3b96a5c1694125e4e1",10 HD
+http://203.208.100.17:9981/stream/channelid/1023538334?ticket=F2FB23360987E0D0C5F99836DB0D7CC3CC326A05&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/56" tvg-id="908745fe27f02d7c549a19c3650b8ab2",10 Peach
+http://203.208.100.17:9981/stream/channelid/2118485904?ticket=DB5788233C9716324C09A03966B94733B76A11EF&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/50" tvg-id="54fae8eae1154ca964f881e43f62df96",10 BOLD
+http://203.208.100.17:9981/stream/channelid/1793653332?ticket=9DF1FC0B29F324F89353C63696A22F417D1DA5DC&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/57" tvg-id="8ce34f2e3eb1b694b756c5b500aa38a1",10
+http://203.208.100.17:9981/stream/channelid/776987532?ticket=F1262023E4F88A78F32BAB251177034BC0196E6D&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/58" tvg-id="d586cdf6012bcf5f75abd4935ab4bd82",TVSN
+http://203.208.100.17:9981/stream/channelid/1993180885?ticket=531BB706662D86A8875145DDD5FE67A09711DC51&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/59" tvg-id="016c23f2768f2cbfced101eb555e138e",SpreeTV
+http://203.208.100.17:9981/stream/channelid/1914924033?ticket=65970724B1F7871F8BF53D429182297A4A9B91DB&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/60" tvg-id="686cd7df3072c3f84e8d2719238e7c68",ABC
+http://203.208.100.17:9981/stream/channelid/1607953512?ticket=8B95F480236A1DB9F0F1B3122A5DA0223073CC01&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/61" tvg-id="cb43cecfc1e2664515cb789e02e2deca",ABCComedy/Kids
+http://203.208.100.17:9981/stream/channelid/1338917835?ticket=A978B9420A5F8296A98861299AD5D773CCBB5C6F&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/62" tvg-id="85a070de627d41c6b9301e935d6bdc04",ABC ME
+http://203.208.100.17:9981/stream/channelid/1584439429?ticket=38CF2A7794534DF5CE37F02B14FA75734BC11589&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/63" tvg-id="6c520d6b39987a3fa473204dc105d6c1",ABC NEWS
+http://203.208.100.17:9981/stream/channelid/1796035180?ticket=13D5C17AB673D85D2913A8891E9DF816CA1CD7D4&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/64" tvg-id="ea697021f77ce19dbec7aa20b3b5dea7",SBS ONE
+http://203.208.100.17:9981/stream/channelid/561015274?ticket=D38A7239A962DC44B31BFFE3CEFA572B8A4F4CE3&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/65" tvg-id="02ecd4bfd9a8f32c21c5ad7d67e237dd",SBS VICELAND
+http://203.208.100.17:9981/stream/channelid/1070918658?ticket=AC33C436F57E9B49CC88292FA862258CE1CF0B98&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/66" tvg-id="c986367ccc4c1764a3076b7f5feaf2d7",SBS VICELAND HD
+http://203.208.100.17:9981/stream/channelid/2083948233?ticket=542A43587326491AA191D4825A32EE29ED13873C&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/67" tvg-id="17d481cbb1e9e72293172937c114476b",SBS Food
+http://203.208.100.17:9981/stream/channelid/1266799639?ticket=2FD449D45BEB77729EED2879AA24D85B00B0E0E0&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/68" tvg-id="37aba38cca3ef8c215a13ea230e83c6b",C31
+http://203.208.100.17:9981/stream/channelid/212052791?ticket=73A46A6077A0B7BE5DB278CAAEFDDB33E5B3E29C&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/69" tvg-id="d3543c06e581e61b298cf4e2a1012e4c",NITV
+http://203.208.100.17:9981/stream/channelid/104617171?ticket=E8087B368151BCD4230FB9AD47AB738BEAACBF43&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/70" tvg-id="cd8d9a2e76eefa110eb230da41444c75",7 Melbourne
+http://203.208.100.17:9981/stream/channelid/781880781?ticket=42F8857A0F75BC8360D6270EB89A763359F1A543&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/71" tvg-id="f5bfb9581ea4e7f34d59b1fcfa5a01f2",7TWO Melbourne
+http://203.208.100.17:9981/stream/channelid/1488568309?ticket=C44043D7D4616E02C2158E526FD994B764231768&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/72" tvg-id="e53a21327a7c9d4dc77ffeed13b5691a",7mate Melbourne
+http://203.208.100.17:9981/stream/channelid/841038565?ticket=698ED9CC1447F23740F43FB38BEF255B69A1C38B&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/73" tvg-id="8ad5225b32fe0ec0c0e0e800bfb0eada",7food network
+http://203.208.100.17:9981/stream/channelid/1529009546?ticket=E1D7FC02DEAC9A278AF119F2C60480488914AD95&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/74" tvg-id="5ce5c819c16561832ea8df6d0d05c7b5",7flix Melbourne
+http://203.208.100.17:9981/stream/channelid/432596316?ticket=A2813AC4005ADC81D4E106541AB05AEE4171189F&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/75" tvg-id="4256d9f7110d1920ac5bf6ceb18448bc",RACING.COM
+http://203.208.100.17:9981/stream/channelid/2010732098?ticket=D49D7D1989AC9637D2383451D67D08E3F7455CCB&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/76" tvg-id="277012005093acabeb0d4307e5b7969c",Channel 9 Melbourne
+http://203.208.100.17:9981/stream/channelid/1208359?ticket=1D7E25AF624D78D6FAE4A85A582C832F3332F2C0&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/77" tvg-id="07fcfbe7bd08e02dae8c6fc5a00099dd",9Gem Melbourne
+http://203.208.100.17:9981/stream/channelid/1744567303?ticket=1F835A5F6CD2148862728036680077A004307034&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/78" tvg-id="bd3b2eafe68a3298ccbad2a4b0024886",9Life Melbourne
+http://203.208.100.17:9981/stream/channelid/791559101?ticket=5AAA9B7DBEF2B00BA8269006CDE703B5D6461FAF&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/79" tvg-id="9208057c30c4e427224457676e754b81",9Gem HD Melbourne
+http://203.208.100.17:9981/stream/channelid/2080704658?ticket=59F65AAD2842A6EC6672963C293A9371B08597E2&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/80" tvg-id="d17214e4444de0a0a104f188c1215b62",9Go! Melbourne
+http://203.208.100.17:9981/stream/channelid/1679061713?ticket=E118735722B13DDFBAF6051FB76B3B87C2DC3C68&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/81" tvg-id="c281f1c82bc426e99e5528b0b27c4e53",Double J
+http://203.208.100.17:9981/stream/channelid/1223786946?ticket=A5D92FD398CB6B3F01CB1302D85EB1415921E333&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/82" tvg-id="04189cf8f81f525e78efc355ab733609",ABC Jazz
+http://203.208.100.17:9981/stream/channelid/2023495684?ticket=566815440941389F066AB9940AE8B9CF6A48A969&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/83" tvg-id="ed43784c6cd59f4c3a584d6f7ee8cbd8",SBS Radio 1
+http://203.208.100.17:9981/stream/channelid/1282950125?ticket=4C447BFABEFF8E3D584EB35C1FBB6B2BE91598B6&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/84" tvg-id="69ef6feaf3e8cd1a8c2dfcbe83dcb60c",SBS Radio 2
+http://203.208.100.17:9981/stream/channelid/1785720681?ticket=396B90368D0C9EFC6B32A5ED54336A4E2915E523&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/85" tvg-id="a4c89f9fe42a9ed7d1aabe570fa2b682",SBS Radio 3
+http://203.208.100.17:9981/stream/channelid/530565284?ticket=828CE21F3B042B55C28DEADB7EA479F688FE4A97&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/86" tvg-id="301c510d72dfb79569dfd170cb5f187f",SBS Chill
+http://203.208.100.17:9981/stream/channelid/223419440?ticket=F91B8F7EEDE3842115D79AC82EA083D8EF005062&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/87" tvg-id="509b34a0364be3103bb01ced868dbbc1",SBS PopDesi
+http://203.208.100.17:9981/stream/channelid/540318544?ticket=CF134C55B7A5C16C243EFEAC9110E574F46A6B57&profile=pass
+#EXTINF:-1 logo="http://203.208.100.17:9981/imagecache/88" tvg-id="f409f5382a823b5f9bdf2b8dba846d12",SBS PopAsia
+http://203.208.100.17:9981/stream/channelid/955582964?ticket=0E16FD0C4AF4EA46E2F77A9A1B812489EDF56461&profile=pass
 
 ###MUSIC###
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music",DJing
