@@ -1,5 +1,57 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,##########   Australia   ########## (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/2535
+#EXTINF:-1,7 FLIX HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30019
+#EXTINF:-1,7 MATE HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30018
+#EXTINF:-1,7 TWO HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30016
+#EXTINF:-1,9GEM HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30015
+#EXTINF:-1,9GO HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30014
+#EXTINF:-1,9LIFE HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30013
+#EXTINF:-1,ABC COMEDY HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30012
+#EXTINF:-1,ABC KIDS HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30011
+#EXTINF:-1,ABC ME HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30010
+#EXTINF:-1,ABC NEWS 24 HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30025
+#EXTINF:-1,ABC One HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30009
+#EXTINF:-1,Channel One HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30005
+#EXTINF:-1,CHANNEL 7 HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30007
+#EXTINF:-1,CHANNEL 9 HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30006
+#EXTINF:-1,Channel 10 HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30008
+#EXTINF:-1,EXPO CHANNEL HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30022
+#EXTINF:-1,Food Network HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30004
+#EXTINF:-1,FOX FOOTY NETWORK HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/29996
+#EXTINF:-1,FOX SPORTS NEWS HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30003
+#EXTINF:-1,NITV HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30002
+#EXTINF:-1,RACING.COM HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30001
+#EXTINF:-1,SBS HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/30000
+#EXTINF:-1,SBS VICELAND HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/29999
+#EXTINF:-1,SKY RACING 1 HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/29998
+#EXTINF:-1,SKY RACING 2 HD AU (Australia)
+http://tv-share.ddns.net:8080/drFreak/C5jTDU3xr1/29997
 
 ###MUSIC###
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music",DJing
