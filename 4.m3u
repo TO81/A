@@ -6,15 +6,15 @@
 ###LEBANON###
 
 #EXTINF:-1 tvg-id="" tvg-name="TELE لبنان" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Lebanon",TELE لبنان
-http://m3ulink.com:7899/siriusfan501/uSPivkiL/7592
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06.m3u8
 #EXTINF:-1 tvg-id="LDC.lb" tvg-name="LBC INTERNATIONAL" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/lbci-logo-png-5.png" group-title="Lebanon",LBC INTERNATIONAL
 http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
 #EXTINF:-1 tvg-id="Future.lb" tvg-name="FUTURE TV" tvg-logo="http://www.alnadim.com/images/articles/alnadim_20190918161144.png" group-title="Lebanon",FUTURE TV
 http://livecdnh2.tvanywhere.ae/hls/future/04.m3u8
 #EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV | HD" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="Lebanon",MTV | HD
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
-#EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="AL JADEED" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlJadeedTV.png" group-title="Lebanon",AL JADEED
-http://m3ulink.com:7899/siriusfan501/uSPivkiL/6757
+#EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="AL JADEED" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlJadeedTV.png" group-title="Arabic",AL JADEED
+http://livecdnh3.tvanywhere.ae/hls/jadeed/03.m3u8
 #EXTINF:-1 tvg-id="OTVLebanon.lb" tvg-name="OTV" tvg-logo="https://semicolonlb.net/main/media/press/10.png" group-title="Lebanon",OTV
 http://youness-export.com/tv/otv
 #EXTINF:-1 tvg-id="NBN.lb" tvg-name="NBN | HD" tvg-logo="https://4.bp.blogspot.com/-LJ7t8RluMeM/Wx2cY5BDssI/AAAAAAAAUBM/Krgs27I013Acfl_T9peqUaMN3-OXmgT5ACLcBGAs/s320/nbn_lb.png" group-title="Lebanon",NBN | HD
@@ -30,9 +30,9 @@ http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA ARABIC | HD" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo.png" group-title="Arabic News",AL JAZEERA ARABIC | HD
 http://aljazeera-ara-HD-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA | HD" tvg-logo="http://www.reachmediatv.com/images/alarabia.png" group-title="Arabic News",AL ARABIYA | HD
-http://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_b4500000.m3u8
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA AL HADATH | HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-al-arabiya-al-hada.jpg" group-title="Arabic News",AL ARABIYA AL HADATH | HD
-http://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b4500000.m3u8
+http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RT ARABIC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/0/06/RTarabic.jpg" group-title="Arabic News",RT ARABIC | HD
 http://rt-arab.secure.footprint.net:80/1104.m3u8?streamType=live
 #EXTINF:-1 tvg-id="" tvg-name="TRT ARABIC | HD" tvg-logo="https://i.imgur.com/iJIHMq9.png" group-title="Arabic News",TRT ARABIC | HD
