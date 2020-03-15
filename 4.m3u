@@ -174,7 +174,7 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT AMERICA | HD" tvg-logo="https://i.imgur.com/buPAXY7.png" group-title="News",RT AMERICA | HD
 https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT WORLD | HD" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="News",TRT WORLD | HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="FOX NEWS CHANNEL | HD" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" group-title="News",FOX NEWS CHANNEL | HD
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC NEWS AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/ABC_News_Channel.png" group-title="News",ABC NEWS AUSTRALIA
