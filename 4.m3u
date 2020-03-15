@@ -36,7 +36,7 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RT ARABIC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/0/06/RTarabic.jpg" group-title="Arabic News",RT ARABIC | HD
 http://rt-arab.secure.footprint.net:80/1104.m3u8?streamType=live
 #EXTINF:-1 tvg-id="" tvg-name="TRT ARABIC | HD" tvg-logo="https://i.imgur.com/iJIHMq9.png" group-title="Arabic News",TRT ARABIC | HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8?fluxustv.m3u8
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY NEWS ARABIYA | HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/N/2k/23/Thumbnail.png" group-title="Arabic News",SKY NEWS ARABIYA | HD
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ARABIC" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/02/France24Arabi.png" group-title="Arabic News",FRANCE 24 ARABIC
