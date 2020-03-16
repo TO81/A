@@ -1,9 +1,7 @@
 ﻿#EXTM3U
 
 ###MUSIC###
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" tvg-name="TRACE URBAN | HD"  group-title="Music",TRACE URBAN | HD
-http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/133981
-#EXTINF:-1 tvg-id="TraceUrban" tvg-name="TRACE HIP HOP | HD" tvg-logo="https://trace.tv/wp-content/uploads/2017/01/logo.png" group-title="Music",TRACE HIP HOP | HD
+#EXTINF:-1 tvg-id="TraceUrban" tvg-name="TRACE URBAN | HD" tvg-logo="https://trace.tv/wp-content/uploads/2017/01/logo.png" group-title="Music",TRACE URBAN | HD
 http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/46556
 #EXTINF:-1 tvg-id="mtvbase.za" tvg-name="MTV BASE | HD" tvg-logo="http://149.56.14.45/Logo/2018/xpwqvr1433522069.png" group-title="Music",MTV BASE | HD
 http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/113270
@@ -104,7 +102,7 @@ http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/9645
 
 ###FASHION###
 
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV: MS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fav",FASHION TV: MS | HD
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV: MS | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fashion",FASHION TV: MS | HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV 1: L'ORIGINAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fashion",FASHION TV 1: L'ORIGINAL | HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -112,7 +110,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV 9: GLOBAL | HD" tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fashion",FASHION TV 9: GLOBAL | HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MODELS INC." tvg-logo="https://i.imgur.com/SBIJ9Mx.png" group-title="Fashion",MODELS INC.
+#EXTINF:-1 tvg-id="" tvg-name="FASHION CHANNEL | HD" tvg-logo="https://userscontent2.emaze.com/images/0b0913db-7fa4-4966-b85f-e59ee9a3bd8f/6d091fc560ab13386be28b651049c6da.jpg" group-title="Fashion",FASHION CHANNEL | HD
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WORLD FASHION CHANNEL | HD" tvg-logo="https://www.cableman.ru/sites/default/files/world_fashion.png" group-title="Fashion",WORLD FASHION CHANNEL | HD
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
@@ -120,9 +118,7 @@ http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
 https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID FASHION | HD" tvg-logo="http://acrotv.com/images/broad/20181126195123531.jpg" group-title="Fashion",ID FASHION | HD
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUNWAY TV | HD" tvg-logo="https://i.imgur.com/gh8UdCR.png" group-title="Fashion",RUNWAY TV | HD
-http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LUXE TV | HD" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/LUXE-logo.png" group-title="Fashion",LUXE TV | HD
+#EXTINF:-1 tvg-id="" tvg-name="LUXE TV" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/LUXE-logo.png" group-title="Fashion",LUXE TV
 http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/37364
 #EXTINF:-1 tvg-id="" tvg-name="LUXURY (Russia) | HD" tvg-logo="https://i.imgur.com/6gVDM9S.jpg" group-title="Fashion",LUXURY (Russia) | HD
 http://nano.teleservice.su:8080/hls/luxury.m3u8
@@ -134,68 +130,58 @@ http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/23587
 
 ###NEWS###
 
+#EXTINF:-1 tvg-id="" tvg-name="CBC: THE NATIONAL | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/175px-CBC_News_Logo.svg.png" group-title="News",CBC: THE NATIONAL | HD
+http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2672.ts
 #EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CBC NEWS NETWORK | HD" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png" group-title="News",CBC NEWS NETWORK | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2740.ts
 #EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CTV NEWS CHANNEL | HD" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/ctv_news_0.png" group-title="News",CTV NEWS CHANNEL | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2686.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBC: THE NATIONAL | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/175px-CBC_News_Logo.svg.png" group-title="News",CBC: THE NATIONAL | HD
-http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2672.ts
-#EXTINF:-1 tvg-id="bnnbloomberg.ca" tvg-name="BNN BLOOMBERG | HD" tvg-logo="http://149.56.14.45/Logo/2018/txypxp1478066803.png" group-title="News",BNN BLOOMBERG | HD
-hhttp://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2654.ts
-#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CP24 | HD" tvg-logo="http://149.56.14.45/Logo/english/509_CP24-en.png" group-title="News",CP24 | HD
-http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2678.ts
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="AL JAZEERA ENGLISH | HD" tvg-logo="http://149.56.14.45/Logo/2018/yystpx1433945387.png" group-title="News",AL JAZEERA ENGLISH | HD
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="News",EURONEWS | HD
-http://164.40.161.46:8002/play/s4
-#EXTINF:-1 tvg-id="France24English.fr" tvg-name="FRANCE 24 ENGLISH | HD" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="News",FRANCE 24 ENGLISH | HD
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT | HD" tvg-logo="https://i.imgur.com/buPAXY7.png" group-title="News",RT | HD
-https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD | HD" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="News",TRT WORLD | HD
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC WORLD NEWS" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="News",BBC WORLD NEWS
-https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/ABC_News_Channel.png" group-title="News",ABC NEWS AUSTRALIA
-http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/160295
-#EXTINF:-1 tvg-id="" tvg-name="AUSTRALIA CHANNEL NEWS | HD" tvg-logo="http://australiachannel.com.au/images/Logo.png" group-title="News",AUSTRALIA CHANNEL NEWS | HD
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY NEWS UK | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="News",SKY NEWS UK | HD
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL | HD" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="News",CNN INTERNATIONAL | HD
-http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/7879.ts
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN | HD" tvg-logo="http://149.56.14.45/Logo/english/CNN_HD-en.png" group-title="News",CNN | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1279.ts
 #EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC | HD" tvg-logo="http://149.56.14.45/Logo/english/msnbc-en.png" group-title="News",MSNBC | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1411.ts
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="FOX NEWS CHANNEL | HD" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" group-title="News",FOX NEWS CHANNEL | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1381.ts
-#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS | HD" tvg-logo="https://i.imgur.com/DhyuABZ.png" group-title="News",ABC NEWS | HD
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS NEWS | HD" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="News",CBS NEWS | HD
-https://www.cbsnews.com/common/video/dai_prod.m3u8
-#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN | HD" tvg-logo="http://149.56.14.45/Logo/english/502_HLN-en.png" group-title="News",HLN | HD
-http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1399.ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWSMAX TV | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="News",NEWSMAX TV | HD
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="BLOOMBERG TV USA | HD" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="News",BLOOMBERG TV USA | HD
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG TV AU | HD" tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="News",BLOOMBERG TV AU | HD
-https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="bnnbloomberg.ca" tvg-name="BNN BLOOMBERG | HD" tvg-logo="http://149.56.14.45/Logo/2018/txypxp1478066803.png" group-title="News",BNN BLOOMBERG | HD
+http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2654.ts
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC | HD" tvg-logo="http://149.56.14.45/Logo/2018/pfsn7f1505903340.png" group-title="News",CNBC | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1278.ts
 #EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="FOX BUSINESS NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/2018/xtqpxr1434502104.png" group-title="News",FOX BUSINESS NETWORK | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1379.ts
 #EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="CNBC WORLD | HD" tvg-logo="https://cspirehome.files.wordpress.com/2016/12/logo_cnbcworld.png" group-title="News",CNBC WORLD | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1277.ts
-#EXTINF:-1 tvg-id="" tvg-name="RT DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="News",RT DOCUMENTARY
-https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v5.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="AL JAZEERA ENGLISH | HD" tvg-logo="http://149.56.14.45/Logo/2018/yystpx1433945387.png" group-title="News",AL JAZEERA ENGLISH | HD
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="News",EURONEWS
+http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/30839
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="FRANCE 24 ENGLISH" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="News",FRANCE 24 ENGLISH
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT | HD" tvg-logo="https://i.imgur.com/buPAXY7.png" group-title="News",RT | HD
+https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD | HD" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="News",TRT WORLD | HD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC WORLD NEWS" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="News",BBC WORLD NEWS
+http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1266.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/ABC_News_Channel.png" group-title="News",ABC NEWS AUSTRALIA
+http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/160295
+#EXTINF:-1 tvg-id="" tvg-name="AUSTRALIA CHANNEL NEWS | HD" tvg-logo="http://australiachannel.com.au/images/Logo.png" group-title="News",AUSTRALIA CHANNEL NEWS | HD
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY NEWS UK | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="News",SKY NEWS UK | HD
+http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/133983
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL | HD" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="News",CNN INTERNATIONAL | HD
+http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/117311
+#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CP24 | HD" tvg-logo="http://149.56.14.45/Logo/english/509_CP24-en.png" group-title="News",CP24 | HD
+http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2678.ts
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="BLOOMBERG TV USA | HD" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="News",BLOOMBERG TV USA | HD
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG TV AU | HD" tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="News",BLOOMBERG TV AU | HD
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CPAC | HD" tvg-logo="https://i.imgur.com/eMMoLjS.png" group-title="News",CPAC | HD
+http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2679.ts
 #EXTINF:-1 tvg-id="" tvg-name="FREE SPEECH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="News",FREE SPEECH TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UN WEB TV | HD" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN WEB TV | HD
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CPAC | HD" tvg-logo="https://i.imgur.com/eMMoLjS.png" group-title="News",CPAC | HD
-http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN | HD" tvg-logo="http://149.56.14.45/Logo/english/502_HLN-en.png" group-title="News",HLN | HD
+http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1399.ts
 #EXTINF:-1 tvg-id="weathernetwork.ca" tvg-name="THE WEATHER NETWORK | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TWN_Logo_2011.svg/230px-TWN_Logo_2011.svg.png" group-title="News",THE WEATHER NETWORK | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2736.ts
 #EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="THE WEATHER CHANNEL USA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1024px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News",THE WEATHER CHANNEL USA | HD
@@ -1449,6 +1435,13 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/23481
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10502
 #EXTINF:0, tvg-id="" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsmainevent_130x130.png" tvg-name="SKY SPORTS MAIN EVENT PPV | HD"  group-title="Sports",SKY SPORTS MAIN EVENT PPV | HD
 http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10503
+
+###24/7 CHANNELS###
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SEINFELD" tvg-logo="https://vignette.wikia.nocookie.net/whatever-you-want/images/f/f4/24-7-365-call-center.jpg" group-title="24/7 CHANNELS",24/7 | SEINFELD
+http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/9552.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CURB YOUR ENTHUSIASM" tvg-logo="https://vignette.wikia.nocookie.net/whatever-you-want/images/f/f4/24-7-365-call-center.jpg" group-title="24/7 CHANNELS",24/7 | CURB YOUR ENTHUSIASM
+http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/9406.ts
 
 
 ###NATURE & SCIENCE###
