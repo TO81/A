@@ -130,61 +130,61 @@ http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/23587
 
 ###NEWS###
 
-#EXTINF:-1 tvg-id="" tvg-name="CBC: THE NATIONAL | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/175px-CBC_News_Logo.svg.png" group-title="News",CBC: THE NATIONAL | HD
+#EXTINF:-1 tvg-id="" tvg-name="CBC: THE NATIONAL | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/CBC_The_National%2C_as_of_6_Nov_2017.png" group-title="News",CBC: THE NATIONAL | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2672.ts
-#EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CBC NEWS NETWORK | HD" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png" group-title="News",CBC NEWS NETWORK | HD
+#EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CBC NEWS NETWORK | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/CBC_News_Network_%28depuis_2016%29.svg/1200px-CBC_News_Network_%28depuis_2016%29.svg.png" group-title="News",CBC NEWS NETWORK | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2740.ts
-#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CTV NEWS CHANNEL | HD" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/ctv_news_0.png" group-title="News",CTV NEWS CHANNEL | HD
+#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CTV NEWS CHANNEL | HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ctvnews.png" group-title="News",CTV NEWS CHANNEL | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2686.ts
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN | HD" tvg-logo="http://149.56.14.45/Logo/english/CNN_HD-en.png" group-title="News",CNN | HD
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="News",CNN | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1279.ts
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC | HD" tvg-logo="http://149.56.14.45/Logo/english/msnbc-en.png" group-title="News",MSNBC | HD
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MSNBC_2015_logo.svg/1280px-MSNBC_2015_logo.svg.png" group-title="News",MSNBC | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1411.ts
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="FOX NEWS CHANNEL | HD" tvg-logo="http://149.56.14.45/Logo/2018/sqwqtt1436847658.png" group-title="News",FOX NEWS CHANNEL | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1381.ts
-#EXTINF:-1 tvg-id="bnnbloomberg.ca" tvg-name="BNN BLOOMBERG | HD" tvg-logo="http://149.56.14.45/Logo/2018/txypxp1478066803.png" group-title="News",BNN BLOOMBERG | HD
+#EXTINF:-1 tvg-id="bnnbloomberg.ca" tvg-name="BNN BLOOMBERG | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/1200px-BNN_Bloomberg.svg.png" group-title="News",BNN BLOOMBERG | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2654.ts
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC | HD" tvg-logo="http://149.56.14.45/Logo/2018/pfsn7f1505903340.png" group-title="News",CNBC | HD
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" group-title="News",CNBC | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1278.ts
-#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="FOX BUSINESS NETWORK | HD" tvg-logo="http://149.56.14.45/Logo/2018/xtqpxr1434502104.png" group-title="News",FOX BUSINESS NETWORK | HD
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="FOX BUSINESS NETWORK | HD" tvg-logo="https://foxcareers.com/Content/img2019/OurBrands/logo-lg-fox-business-network.png" group-title="News",FOX BUSINESS NETWORK | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1379.ts
-#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="CNBC WORLD | HD" tvg-logo="https://cspirehome.files.wordpress.com/2016/12/logo_cnbcworld.png" group-title="News",CNBC WORLD | HD
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="CNBC WORLD | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="News",CNBC WORLD | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1277.ts
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="AL JAZEERA ENGLISH | HD" tvg-logo="http://149.56.14.45/Logo/2018/yystpx1433945387.png" group-title="News",AL JAZEERA ENGLISH | HD
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="AL JAZEERA ENGLISH | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="News",AL JAZEERA ENGLISH | HD
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="News",EURONEWS
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="https://www.thematv.com/medias/channels/euronews/euronews-logo.png" group-title="News",EURONEWS
 http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/30839
-#EXTINF:-1 tvg-id="France24English.fr" tvg-name="FRANCE 24 ENGLISH" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="News",FRANCE 24 ENGLISH
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="FRANCE 24 ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="News",FRANCE 24 ENGLISH
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT | HD" tvg-logo="https://i.imgur.com/buPAXY7.png" group-title="News",RT | HD
+#EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="RT | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="News",RT | HD
 https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD | HD" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="News",TRT WORLD | HD
+#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/TRT_World.png/revision/latest?cb=20151105004712" group-title="News",TRT WORLD | HD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC WORLD NEWS" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="News",BBC WORLD NEWS
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC WORLD NEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/BBC_World_News_2008.svg/revision/latest/scale-to-width-down/340?cb=20190712133831" group-title="News",BBC WORLD NEWS
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1266.ts
-#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/ABC_News_Channel.png" group-title="News",ABC NEWS AUSTRALIA
+#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS AUSTRALIA" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/863f44b1-99fb-41c7-b003-85ff5437b992.png" group-title="News",ABC NEWS AUSTRALIA
 http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/160295
-#EXTINF:-1 tvg-id="" tvg-name="AUSTRALIA CHANNEL NEWS | HD" tvg-logo="http://australiachannel.com.au/images/Logo.png" group-title="News",AUSTRALIA CHANNEL NEWS | HD
+#EXTINF:-1 tvg-id="" tvg-name="AUSTRALIA CHANNEL NEWS | HD" tvg-logo="https://www.satlogo.com/hires/aa/australia_channel_au.png" group-title="News",AUSTRALIA CHANNEL NEWS | HD
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY NEWS UK | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="News",SKY NEWS UK | HD
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY NEWS UK | HD" tvg-logo="https://news.sky.com/assets/sky-news-logo.png" group-title="News",SKY NEWS UK | HD
 http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/133983
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL | HD" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="News",CNN INTERNATIONAL | HD
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL | HD" tvg-logo="https://seeklogo.com/images/C/cnn-international-logo-FE0A0045ED-seeklogo.com.png" group-title="News",CNN INTERNATIONAL | HD
 http://king-tv.net:8080/johnsimmons81/1cEZ3SV9WB/117311
-#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CP24 | HD" tvg-logo="http://149.56.14.45/Logo/english/509_CP24-en.png" group-title="News",CP24 | HD
+#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CP24 | HD" tvg-logo="https://www.ottawalife.com/admin/cms/images/small/tv_cp24-490x490.png" group-title="News",CP24 | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2678.ts
-#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="BLOOMBERG TV USA | HD" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="News",BLOOMBERG TV USA | HD
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="BLOOMBERG TV USA | HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bloomberg.png" group-title="News",BLOOMBERG TV USA | HD
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG TV AU | HD" tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="News",BLOOMBERG TV AU | HD
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG TV AU | HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bloomberg.png" group-title="News",BLOOMBERG TV AU | HD
 https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CPAC | HD" tvg-logo="https://i.imgur.com/eMMoLjS.png" group-title="News",CPAC | HD
+#EXTINF:-1 tvg-id="" tvg-name="CPAC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/1200px-2016_CPAC_logo.svg.png" group-title="News",CPAC | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2679.ts
-#EXTINF:-1 tvg-id="" tvg-name="FREE SPEECH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="News",FREE SPEECH TV
+#EXTINF:-1 tvg-id="" tvg-name="FREE SPEECH TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/freespeech.png" group-title="News",FREE SPEECH TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN | HD" tvg-logo="http://149.56.14.45/Logo/english/502_HLN-en.png" group-title="News",HLN | HD
+#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN | HD" tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170504153443-hln-2017-logo-for-specials-page-large-169.png" group-title="News",HLN | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/1399.ts
-#EXTINF:-1 tvg-id="weathernetwork.ca" tvg-name="THE WEATHER NETWORK | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TWN_Logo_2011.svg/230px-TWN_Logo_2011.svg.png" group-title="News",THE WEATHER NETWORK | HD
+#EXTINF:-1 tvg-id="weathernetwork.ca" tvg-name="THE WEATHER NETWORK | HD" tvg-logo="https://www.streamworldnews.com/wp-content/uploads/2019/07/The-Weather-Network-2.png" group-title="News",THE WEATHER NETWORK | HD
 http://beastiptv.tv:25461/live/AUYZ4qysY0/Vne205a7gF/2736.ts
-#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="THE WEATHER CHANNEL USA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1024px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News",THE WEATHER CHANNEL USA | HD
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="THE WEATHER CHANNEL USA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News",THE WEATHER CHANNEL USA | HD
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEATHER NATION USA | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="News",WEATHER NATION USA | HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
