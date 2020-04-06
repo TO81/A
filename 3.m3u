@@ -1544,52 +1544,78 @@ http://beastiptv.tv:25461/live/johns/5PjqFBds2m/9406.ts
 
 ###NATURE & SCIENCE###
 
-#EXTINF:-1 tvg-id="" tvg-name="SILENCE TV WORLD | HD" tvg-logo="https://i.pinimg.com/originals/c2/bd/dc/c2bddcbbbb3694fc71b6a453e502f0cc.png" group-title="Nature & Science",SILENCE TV WORLD | HD
-http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" tvg-name="BBC EARTH CANADA | HD"  group-title="Nature & Science",BBC EARTH CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/14697
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" tvg-name="BBC EARTH POLAND"  group-title="Nature & Science",BBC EARTH POLAND 
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/19669
-#EXTINF:-1 tvg-id="" tvg-logo="http://my-hd.tv/shared/img/channels/Planet-earth.png" tvg-name="PLANET EARTH ARABIC | HD"  group-title="Nature & Science",PLANET EARTH ARABIC | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18750
-#EXTINF:-1 tvg-id="natgeowild.ca" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD CANADA | HD"  group-title="Nature & Science",NAT GEO WILD CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD USA| HD"  group-title="Nature & Science",NAT GEO WILD USA| HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD ARABIC | HD"  group-title="Nature & Science",NAT GEO WILD ARABIC | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18751
-#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD UK"  group-title="Nature & Science",NAT GEO WILD UK
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/9423
-#EXTINF:-1 tvg-id="" tvg-logo=https://banner2.kisspng.com/20180409/jte/kisspng-nat-geo-people-national-geographic-television-chan-eslimi-5acbd9458a35c9.8843066715233088695661.jpg" tvg-name="NAT GEO PEOPLE | HD"  group-title="Nature & Science",NAT GEO PEOPLE | HD
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=http://shaw.tmsimg.com/assets/s53121_ll_h3_aa.png" tvg-name="SMITHSONIAN CHANNEL | HD"  group-title="Nature & Science",SMITHSONIAN CHANNEL | HD
-http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NASA TV | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Nature & Science",NASA TV | HD
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX" tvg-logo="http://www.docuboxlive.com/img/docu_logo.png" group-title="Nature & Science",DOCUBOX
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
-#EXTINF:0, tvg-id="discoveryscience.us" tvg-logo="http://149.56.14.45/Logo/2018/wwyqwt1462874376.png" tvg-name="DISCOVERY SCIENCE USA | HD"  group-title="Nature & Science",DISCOVERY SCIENCE USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/25
-#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/discovery.png" tvg-name="DISCOVERY SCIENCE UK"  group-title="Nature & Science",DISCOVERY SCIENCE UK
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4857
-#EXTINF:0, tvg-id="natgeo.us" tvg-logo="http://149.56.14.45/Logo/2018/NATIONALGEOGRAPHICHD.png" tvg-name="NAT GEO USA | HD"  group-title="Nature & Science",NAT GEO USA | HD
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:0, tvg-id="discoverychannel.us" tvg-logo="http://149.56.14.45/Logo/2018/usyusu1480364903.png" tvg-name="DISCOVERY USA | HD"  group-title="Nature & Science",DISCOVERY USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/1108
-#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="HISTORY TV CANADA | HD" tvg-logo="http://149.56.14.45/Logo/2018/wrsxux1435675016.png" group-title="Nature & Science",HISTORY TV CANADA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/15
-#EXTINF:-1 tvg-id="historychannel.us" tvg-name="HISTORY TV USA | HD" tvg-logo="http://149.56.14.45/Logo/2018/wrsxux1435675016.png" group-title="Nature & Science",HISTORY TV USA | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/10516
-#EXTINF:-1 tvg-id="history2.ca" tvg-name="H2 UK" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png" group-title="Nature & Science",H2 UK
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/81
-#EXTINF:0, tvg-id="animalplanet.us" tvg-logo="http://149.56.14.45/Logo/english/AnimalPlanetHD-en.png" tvg-name="ANIMAL PLANET | HD"  group-title="Nature & Science",ANIMAL PLANET | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/29
-#EXTINF:0, tvg-id="discoveryvelocity.us" tvg-logo="http://149.56.14.45/Logo/2018/ysysuu1434506168.png" tvg-name="MOTORTREND | HD"  group-title="Nature & Science",MOTORTREND | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/24
-#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-logo="http://149.56.14.45/Logo/2018/6mn8pk1515367247.png" tvg-name="MOTORS TV UK | HD" group-title="Nature & Science",MOTORS TV UK | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/4813
-#EXTINF:-1 tvg-id="" tvg-logo="http://gobx.com/wp-content/uploads/2017/08/134-Motorvision-HD.png" tvg-name="MOTORVISION ARABIC | HD" group-title="Nature & Science",MOTORVISION ARABIC | HD
-http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/18762
+#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="LOVE NATURE (Canada) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Nature & Science",LOVE NATURE (Canada) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/6437.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" tvg-name="BBC EARTH (Canada) | HD"  group-title="Nature & Science",BBC EARTH (Canada) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/174875
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH (UK) | HD" tvg-logo="https://i.imgur.com/If3siRo.png" group-title="Nature & Science",BBC EARTH (UK) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/85759
+#EXTINF:-1 tvg-id="bbcearthenglish.qa" tvg-name="BBC EARTH (Middle East) | HD" tvg-logo="https://i.ibb.co/zRCK8LF/bbc.png" group-title="Nature & Science",BBC EARTH (Middle East) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/53568
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH +1 (Middle East) | HD" tvg-logo="https://i.ibb.co/WDCk51f/bbc.png" group-title="Nature & Science",BBC EARTH +1 (Middle East) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/53569
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH +2 (Middle East) | HD" tvg-logo="https://i.ibb.co/sPDHSQS/bbc.png" group-title="Nature & Science",BBC EARTH +2 (Middle East) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/53570
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH +4 (Middle East) | HD" tvg-logo="https://i.ibb.co/9W4ptvw/bbc.png" group-title="Nature & Science",BBC EARTH +4 (Middle East) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/53571
+#EXTINF:-1 tvg-id="" tvg-logo="http://my-hd.tv/shared/img/channels/Planet-earth.png" tvg-name="PLANET EARTH (Middle East) | HD"  group-title="Nature & Science",PLANET EARTH (Middle East) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/44741
+#EXTINF:-1 tvg-id="natgeowild.ca" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD (Canada) | HD"  group-title="Nature & Science",NAT GEO WILD (Canada) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/2715.ts
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD (USA) | HD"  group-title="Nature & Science",NAT GEO WILD (USA) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/1420.ts
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-logo="http://149.56.14.45/Logo/english/nat_geo_wild_hd-en.png" tvg-name="NAT GEO WILD (UK) | HD"  group-title="Nature & Science",NAT GEO WILD (UK) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/158482
+#EXTINF:-1 tvg-id="NatGeoWildFrance" tvg-name="NAT GEO WILD (France) | HD" tvg-logo="" group-title="Nature & Science",NAT GEO WILD (France) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/112924
+#EXTINF:-1 tvg-id="natgeowild.sa" tvg-name="NAT GEO WILD (Middle East) | HD" tvg-logo="https://image.ibb.co/bR9oeU/NAT_GEO_WILD_HD.png" group-title="Nature & Science",NAT GEO WILD (Middle East) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/94642
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD +1 (Middle East) | HD" tvg-logo="" group-title="Nature & Science",NAT GEO WILD +1 (Middle East) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/156738
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD +2 (Middle East) | HD" tvg-logo="" group-title="Nature & Science",NAT GEO WILD +2 (Middle East) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/157185
+#EXTINF:-1 tvg-id="natgeopeople.sa" tvg-name="NAT GEO PEOPLE (Middle East) | HD" tvg-logo="https://image.ibb.co/mn3HwV/Nat-Geo-People-HD.png" group-title="Nature & Science",NAT GEO PEOPLE (Middle East) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/94640
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY LIFE | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/225px-Discovery_Life_logo_2016.svg.png" group-title="Nature & Science",DISCOVERY LIFE (USA) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/1292.ts
+#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-logo=http://shaw.tmsimg.com/assets/s53121_ll_h3_aa.png" tvg-name="SMITHSONIAN CHANNEL (USA) | HD"  group-title="Nature & Science",SMITHSONIAN CHANNEL (USA) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/1431.ts
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV (USA) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Nature & Science",NASA TV (USA) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/12458.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX (Middle East) | HD" tvg-logo="http://www.docuboxlive.com/img/docu_logo.png" group-title="Nature & Science",DOCUBOX (Middle East) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/117430
+#EXTINF:0, tvg-id="discoveryscience.us" tvg-logo="http://149.56.14.45/Logo/2018/wwyqwt1462874376.png" tvg-name="DISCOVERY SCIENCE (USA) | HD"  group-title="Nature & Science",DISCOVERY SCIENCE (USA) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/1293.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/discovery.png" tvg-name="DISCOVERY SCIENCE (UK) | HD"  group-title="Nature & Science",DISCOVERY SCIENCE (UK) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/6889.ts
+#EXTINF:-1 tvg-id="NatGeo.ca" tvg-name="NATIONAL GEOGRAPHIC (Canada) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png" group-title="Nature & Science",NATIONAL GEOGRAPHIC (Canada) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/2714.ts
+#EXTINF:0, tvg-id="natgeo.us" tvg-logo="http://149.56.14.45/Logo/2018/NATIONALGEOGRAPHICHD.png" tvg-name="NATIONAL GEOGRAPHIC (USA) | HD"  group-title="Nature & Science",NATIONAL GEOGRAPHIC (USA) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/1419.ts
+#EXTINF:0, tvg-id="discoverychannel.us" tvg-logo="http://149.56.14.45/Logo/2018/usyusu1480364903.png" tvg-name="DISCOVERY CHANNEL EAST (USA) | HD"  group-title="Nature & Science",DISCOVERY CHANNEL EAST (USA) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/1289.ts
+#EXTINF:-1 tvg-id="discoverychannelwest.us" tvg-name="DISCOVERY CHANNEL WEST (USA) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/330px-2019_Discovery_logo.svg.png" group-title="Nature & Science",DISCOVERY CHANNEL WEST (USA) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/1290.ts
+#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="HISTORY TV (Canada) | HD" tvg-logo="http://149.56.14.45/Logo/2018/wrsxux1435675016.png" group-title="Nature & Science",HISTORY TV (Canada) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/2707.ts
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="HISTORY TV (USA) | HD" tvg-logo="http://149.56.14.45/Logo/2018/wrsxux1435675016.png" group-title="Nature & Science",HISTORY TV (USA) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/1400.ts
+#EXTINF:-1 tvg-id="history2.ca" tvg-name="H2 (UK) | HD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png" group-title="Nature & Science",H2 (UK) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/6924.ts
+#EXTINF:0, tvg-id="animalplanet.us" tvg-logo="http://149.56.14.45/Logo/english/AnimalPlanetHD-en.png" tvg-name="ANIMAL PLANET (USA) | HD"  group-title="Nature & Science",ANIMAL PLANET (USA) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/1260.ts
+#EXTINF:-1 tvg-id="cozitveast.us" tvg-name="DISCOVERY TURBO (USA) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/200px-Discovery_Turbo.png" group-title="Nature & Science",DISCOVERY TURBO (USA) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/7881.ts
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="DISCOVERY TURBO (UK) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/200px-Discovery_Turbo.png" group-title="Nature & Science",UK: DISCOVERY TURBO (UK) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/6891.ts
+#EXTINF:0, tvg-id="MotorTrend.us" tvg-logo="http://149.56.14.45/Logo/2018/ysysuu1434506168.png" tvg-name="MOTORTREND (USA) | HD"  group-title="Nature & Science",MOTORTREND (USA) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/1412.ts
+#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-logo="http://149.56.14.45/Logo/2018/6mn8pk1515367247.png" tvg-name="MOTORS TV (UK) | HD" group-title="Nature & Science",MOTORS TV (UK) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/38459
+#EXTINF:-1 tvg-id="" tvg-logo="http://gobx.com/wp-content/uploads/2017/08/134-Motorvision-HD.png" tvg-name="MOTORVISION (Middle East) | HD" group-title="Nature & Science",MOTORVISION (Middle East) | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/144007
+#EXTINF:-1 tvg-id="" tvg-name="NAUTICAL CHANNEL (USA) | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c0/NAUTICAL_CHANNEL_2012.png" group-title="Nature & Science",NAUTICAL CHANNEL (USA) | HD
+http://beastiptv.tv:25461/live/johns/5PjqFBds2m/7894.ts
 
 
 ###MOVIES###
