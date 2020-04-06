@@ -1544,6 +1544,8 @@ http://beastiptv.tv:25461/live/johns/5PjqFBds2m/9406.ts
 
 ###NATURE & SCIENCE###
 
+#EXTINF:-1 tvg-id="" tvg-name="EAGLE NATURE DISCOVERY (Italy) | 4K" tvg-logo="https://i.ytimg.com/vi/pcJlK9RmPuI/maxresdefault.jpg" group-title="Nature & Science",EAGLE NATURE DISCOVERY (Italy) | 4K
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/155649
 #EXTINF:-1 tvg-id="lovenature.ca" tvg-name="LOVE NATURE (Canada) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Nature & Science",LOVE NATURE (Canada) | HD
 http://beastiptv.tv:25461/live/johns/5PjqFBds2m/6437.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" tvg-name="BBC EARTH (Canada) | HD"  group-title="Nature & Science",BBC EARTH (Canada) | HD
