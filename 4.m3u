@@ -28,7 +28,7 @@ http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8?fluxustv.m3u8
 ###ARABIC NEWS###
 
 #EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA ARABIC | HD" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo.png" group-title="Arabic News",AL JAZEERA ARABIC | HD
-http://aljazeera-ara-HD-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA | HD" tvg-logo="http://www.reachmediatv.com/images/alarabia.png" group-title="Arabic News",AL ARABIYA | HD
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA AL HADATH | HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-al-arabiya-al-hada.jpg" group-title="Arabic News",AL ARABIYA AL HADATH | HD
