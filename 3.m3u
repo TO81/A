@@ -2578,7 +2578,7 @@ http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
 http://178.132.3.162:88/OTV/video.m3u8?token=test
 #EXTINF:-1 tvg-id="NBN.lb" tvg-name="NBN | HD" tvg-logo="https://4.bp.blogspot.com/-LJ7t8RluMeM/Wx2cY5BDssI/AAAAAAAAUBM/Krgs27I013Acfl_T9peqUaMN3-OXmgT5ACLcBGAs/s320/nbn_lb.png" group-title="Arabic",NBN | HD
 http://livecdnh1.tvanywhere.ae/hls/nbn/05.m3u8
-#EXTINF:-1 tvg-id="Future.lb" tvg-name="FUTURE TV" tvg-logo="http://www.alnadim.com/images/articles/alnadim_20190918161144.png" group-title="Lebanon",FUTURE TV
+#EXTINF:-1 tvg-id="Future.lb" tvg-name="FUTURE TV" tvg-logo="http://www.alnadim.com/images/articles/alnadim_20190918161144.png" group-title="Arabic",FUTURE TV
 http://178.132.3.162:88/Future_TV/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="AL MANAR" tvg-logo="https://worldnews-sy.com/wp-content/uploads/2016/12/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B1.png" group-title="Arabic",AL MANAR
 http://manar.live/x.smil/index.m3u8
