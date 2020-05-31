@@ -228,8 +228,6 @@ http://beastiptv.tv:25461/live/difahk/2wutije9kh/11461.ts
 
 ###NEWS###
 
-#EXTINF:-1 tvg-id="" tvg-name="CBC: THE NATIONAL | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/CBC_The_National%2C_as_of_6_Nov_2017.png" group-title="News",CBC: THE NATIONAL | HD
-http://beastiptv.tv:25461/live/difahk/2wutije9kh/2672.ts
 #EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CBC NEWS NETWORK | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/CBC_News_Network_%28depuis_2016%29.svg/1200px-CBC_News_Network_%28depuis_2016%29.svg.png" group-title="News",CBC NEWS NETWORK | HD
 http://beastiptv.tv:25461/live/difahk/2wutije9kh/2740.ts
 #EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CTV NEWS CHANNEL | HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ctvnews.png" group-title="News",CTV NEWS CHANNEL | HD
@@ -2598,15 +2596,15 @@ http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/7634
 http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/22970
 #EXTINF:-1 tvg-id="" tvg-name="SYRIA TV | HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1338_1.png" group-title="Arabic",SYRIA TV | HD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
-#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Arabic",MBC 1
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Arabic",MBC 1 | HD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="Arabic",MBC 2
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="Arabic",MBC 2 | HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Arabic",MBC 3
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MBC 3 | HD" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Arabic",MBC 3 | HD
 https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
-#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="MBC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="Arabic",MBC 4
+#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="MBC 4 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="Arabic",MBC 4 | HD
 https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
-#EXTINF:-1 tvg-id="MBC5.sa" tvg-name="MBC 5" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Arabic",MBC 5
+#EXTINF:-1 tvg-id="MBC5.sa" tvg-name="MBC 5 | HD" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Arabic",MBC 5 | HD
 https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" tvg-name="MBC MAX | HD" group-title="Arabic",MBC MAX | HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
