@@ -55,15 +55,15 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FATAFEAT | HD" tvg-logo="https://i.imgur.com/61QXqJv.png" group-title="Arabic Variety",FATAFEAT | HD
 http://m3ulink.com:7899/siriusfan501/uSPivkiL/6498
-#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Arabic Variety",MBC 1
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Arabic Variety",MBC 1 | HD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="Arabic Variety",MBC 2
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="Arabic Variety",MBC 2 | HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Arabic Variety",MBC 3
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MBC 3 | HD" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Arabic Variety",MBC 3 | HD
 https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
-#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="MBC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="Arabic Variety",MBC 4
+#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="MBC 4 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="Arabic Variety",MBC 4 | HD
 https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
-#EXTINF:-1 tvg-id="MBC5.sa" tvg-name="MBC 5" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Arabic Variety",MBC 5
+#EXTINF:-1 tvg-id="MBC5.sa" tvg-name="MBC 5 | HD" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Arabic Variety",MBC 5 | HD
 https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" tvg-name="MBC MAX | HD" group-title="Arabic Variety",MBC MAX | HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
@@ -72,9 +72,9 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC DRAMA | HD" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="Arabic Variety",MBC DRAMA | HD
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/classic.png" group-title="Arabic Variety",ROTANA CLASSIC | HD
-https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic Variety",ROTANA MUSIC | HD
-http://m3ulink.com:7899/siriusfan501/uSPivkiL/5501
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA AFLAM | HD" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-logo-880x660.png" group-title="Arabic Variety",ROTANA AFLAM | HD
 http://m3ulink.com:7899/siriusfan501/uSPivkiL/5506
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/ro-cinema-logo-copy.png" group-title="Arabic Variety",ROTANA CINEMA | HD

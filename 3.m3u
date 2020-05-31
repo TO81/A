@@ -2609,13 +2609,11 @@ https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
 #EXTINF:-1 tvg-id="MBC5.sa" tvg-name="MBC 5" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Arabic",MBC 5
 https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" tvg-name="MBC MAX | HD" group-title="Arabic",MBC MAX | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/4075
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
 #EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC ACTION | HD" tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="Arabic",MBC ACTION | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/4078
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC DRAMA | HD" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="Arabic",MBC DRAMA | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/4076
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC DRAMA + | HD" tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png" group-title="Arabic",MBC DRAMA + | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/7542
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY TV COMEDY" tvg-logo="https://i.imgur.com/TwQaZJ9.png" group-title="Arabic",MY TV COMEDY
 http://185.228.19.115:8009/MyTV_Comedy/mono.m3u8?token=4xqfYjeH82
 #EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="Arabic",DW ARABIC
