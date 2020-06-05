@@ -1,6 +1,7 @@
 ﻿#EXTM3U
 
 ###MUSIC###
+
 #EXTINF:-1 tvg-id="TraceUrban" tvg-name="TRACE URBAN | HD" tvg-logo="https://trace.tv/wp-content/uploads/2017/01/logo.png" group-title="Music",TRACE URBAN | HD
 http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/46556
 #EXTINF:-1 tvg-id="mtvbase.za" tvg-name="MTV BASE | HD" tvg-logo="http://149.56.14.45/Logo/2018/xpwqvr1433522069.png" group-title="Music",MTV BASE | HD
@@ -2497,194 +2498,206 @@ http://epic1.ddns.net:80/johnsimmons81@gmail.com/zj1N2ywQVL/41
 ###AUSTRALIA###
 
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 9 | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/9HD.png" group-title="Australia",CHANNEL 9 | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/11483
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170741
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 7 | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/7HD.png" group-title="Australia",CHANNEL 7 | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/11482
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170721
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 10 | HD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/848ca7f0-25ca-4ce5-8a87-52b6c8caa677.png" group-title="Australia",CHANNEL 10 | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/11479
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170706
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/ABC_HD_Australia_logo.png" group-title="Australia",ABC
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/26945
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170755
 #EXTINF:-1 tvg-id="" tvg-name="ABC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/ABC_News_Channel.png" group-title="Australia",ABC NEWS
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/26941
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170752
 #EXTINF:-1 tvg-id="" tvg-name="AUSTRALIA CHANNEL NEWS | HD" tvg-logo="http://australiachannel.com.au/images/Logo.png" group-title="Australia",AUSTRALIA CHANNEL NEWS | HD
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS NEWS | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FoxSportsNews_logo_1.png/revision/latest?cb=20130509121604" group-title="Australia",FOX SPORTS NEWS | HD
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9LIFE | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/9Life.png" group-title="Australia",9LIFE | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/17632
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170738
 #EXTINF:-1 tvg-id="" tvg-name="9GEM | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/GEM.png" group-title="Australia",9GEM | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/17630
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170730
 #EXTINF:-1 tvg-id="" tvg-name="9GO! | HD" tvg-logo="https://www.ourguide.com.au/images/station_images/GO.png" group-title="Australia",9GO | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/17631
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170734
 #EXTINF:-1 tvg-id="" tvg-name="7TWO" tvg-logo="https://www.ourguide.com.au/images/station_images/7TWO.png" group-title="Australia",7TWO
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/11484
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170725
 #EXTINF:-1 tvg-id="" tvg-name="7MATE" tvg-logo="https://www.ourguide.com.au/images/station_images/7MATE.png" group-title="Australia",7MATE
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/11485
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170718
 #EXTINF:-1 tvg-id="" tvg-name="7FLIX" tvg-logo="https://www.ourguide.com.au/images/station_images/7flix.png" group-title="Australia",7FLIX
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/16829
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170711
 #EXTINF:-1 tvg-id="" tvg-name="10 BOLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/1200px-10_Bold_2018.svg.png" group-title="Australia",10 BOLD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/11481
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170698
 #EXTINF:-1 tvg-id="" tvg-name="10 PEACH" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FTA/TDS_290x170.png" group-title="Australia",10 PEACH
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/26946
-#EXTINF:-1 tvg-id="" tvg-name="ABC COMEDY/KIDS" tvg-logo="https://i.imgur.com/G3MpgeW.png" group-title="Australia",ABC COMEDY/KIDS
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/26942
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170704
+#EXTINF:-1 tvg-id="" tvg-name="ABC COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Abc-comedy.svg/1200px-Abc-comedy.svg.png" group-title="Australia",ABC COMEDY
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170746
+#EXTINF:-1 tvg-id="" tvg-name="ABC KIDS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/ABC_Kids_2015.svg/revision/latest/scale-to-width-down/340?cb=20190428141929" group-title="Australia",ABC KIDS
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170747
 #EXTINF:-1 tvg-id="" tvg-name="ABC ME" tvg-logo="https://cdn.imgbin.com/13/5/15/imgbin-australia-abc-me-television-show-broadcasting-abc-9fHYKsyuB281jVTwFBu8MHFhC.jpg" group-title="Australia",ABC ME
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/26944
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170749
 #EXTINF:-1 tvg-id="" tvg-name="SBS | HD" tvg-logo="https://www.abu.org.my/images/articles/news/SBS_HD_2015_logo%20copy.jpg" group-title="Australia",SBS | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/11478
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170781
 #EXTINF:-1 tvg-id="" tvg-name="SBS FOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/SBS_Food_logo.svg/1200px-SBS_Food_logo.svg.png" group-title="Australia",SBS FOOD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/29090
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170776
 #EXTINF:-1 tvg-id="" tvg-name="SBS VICELAND | HD" tvg-logo="https://www.sbs.com.au/programs/sites/sbs.com.au.programs/files/styles/full/public/sbs_viceland_hd_black_1.jpg?itok=jGXUTPqP" group-title="Australia",SBS VICELAND | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/11480
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170782
+#EXTINF:-1 tvg-id="" tvg-name="SBS WORLD MOVIES | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/SBS_World_Movies_logo_2019.svg/1200px-SBS_World_Movies_logo_2019.svg.png" group-title="Australia",SBS WORLD MOVIES | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170785
 #EXTINF:-1 tvg-id="" tvg-name="NITV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/NITV_logo_2016.png" group-title="Australia",NITV
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/11477
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/170763
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG TV AU | HD" tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="Australia",BLOOMBERG TV AU | HD
 https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY NEWS EXTRA 1" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Australia",SKY NEWS EXTRA 1
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/26938
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY NEWS EXTRA 2" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Australia",SKY NEWS EXTRA 2
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/26937
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY NEWS EXTRA 3" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Australia",SKY NEWS EXTRA 3
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/26936
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXPO CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png" group-title="Australia",EXPO CHANNEL
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVNZ 1 (New Zealand) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TVNZ_1_logo.svg/1200px-TVNZ_1_logo.svg.png" group-title="Australia",TVNZ 1 (New Zealand) | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/16566
-#EXTINF:-1 tvg-id="" tvg-name="TVNZ 2 (New Zealand) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/TVNZ_2_logo.svg/1200px-TVNZ_2_logo.svg.png" group-title="Australia",TVNZ 2 (New Zealand) | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/16565 
-#EXTINF:-1 tvg-id="" tvg-name="THREE NZ (New Zealand)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Three_NZ_TV.png" group-title="Australia",THREE (New Zealand)
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/16560
-#EXTINF:-1 tvg-id="" tvg-name="PRIME (New Zealand)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Prime2016NZ.png" group-title="Australia",PRIME (New Zealand)
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/16561
-#EXTINF:-1 tvg-id="" tvg-name="BRAVO (New Zealand)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="Australia",BRAVO (New Zealand)
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/16563
-#EXTINF:-1 tvg-id="" tvg-name="WAIRARAPA TV" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="Australia",WAIRARAPA TV
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/26931
-#EXTINF:-1 tvg-id="" tvg-name="MAORI TV | HD" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/freeview-channel-logos-38.png" group-title="Australia",MAORI TV | HD
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 
 
-###ARABIC###
+###LEBANON###
 
-#EXTINF:-1 tvg-id="" tvg-name="TELE لبنان" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Arabic",TELE لبنان
-#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
-https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-#EXTINF:-1 tvg-id="LDC.lb" tvg-name="LBC INTERNATIONAL" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/lbci-logo-png-5.png" group-title="Arabic",LBC INTERNATIONAL
-http://51.15.3.161:8080/LDC/index.m3u8?token=test
-#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV | HD" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="Arabic",MTV | HD
-http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test
-#EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="AL JADEED" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlJadeedTV.png" group-title="Arabic",AL JADEED
-http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
-#EXTINF:-1 tvg-id="OTVLebanon.lb" tvg-name="OTV | HD" tvg-logo="https://semicolonlb.net/main/media/press/10.png" group-title="Arabic",OTV | HD
-http://178.132.3.162:88/OTV/video.m3u8?token=test
-#EXTINF:-1 tvg-id="NBN.lb" tvg-name="NBN | HD" tvg-logo="https://4.bp.blogspot.com/-LJ7t8RluMeM/Wx2cY5BDssI/AAAAAAAAUBM/Krgs27I013Acfl_T9peqUaMN3-OXmgT5ACLcBGAs/s320/nbn_lb.png" group-title="Arabic",NBN | HD
-http://livecdnh1.tvanywhere.ae/hls/nbn/05.m3u8
-#EXTINF:-1 tvg-id="Future.lb" tvg-name="FUTURE TV" tvg-logo="http://www.alnadim.com/images/articles/alnadim_20190918161144.png" group-title="Arabic",FUTURE TV
-http://178.132.3.162:88/Future_TV/video.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="AL MANAR" tvg-logo="https://worldnews-sy.com/wp-content/uploads/2016/12/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B1.png" group-title="Arabic",AL MANAR
-http://manar.live/x.smil/index.m3u8
-#EXTINF:-1 tvg-id="LBC.lb" tvg-name="LBC SATELLITE" tvg-logo="https://ibcap.us/logo/LBC.png" group-title="Arabic",LBC SATELLITE
-http://178.132.3.162:88/LBC_SAT/video.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="FATAFEAT | HD" tvg-logo="https://i.imgur.com/61QXqJv.png" group-title="Arabic",FATAFEAT | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/5415
-#EXTINF:-1 tvg-id="" tvg-name="BEIN GOURMET | HD" tvg-logo="http://www.hadarasport.com/wp-content/uploads/2018/05/5copy.png" group-title="Arabic",BEIN GOURMET | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/11599
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK ARABIC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Arabic",FOOD NETWORK ARABIC | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/22977
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL ARABIC | HD" tvg-logo="http://pluspng.com/img-png/travel-hd-png-file-travel-channel-hd-logo-png-1350.png" group-title="Arabic",TRAVEL CHANNEL ARABIC | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/7634
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH ARABIC | HD" tvg-logo="https://www.bbcearth.com/brand/assets/images/channel-assets/bbc-earth/about-logo-bbc-earth.png" group-title="Arabic",BBC EARTH ARABIC | HD
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/22970
-#EXTINF:-1 tvg-id="" tvg-name="SYRIA TV | HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1338_1.png" group-title="Arabic",SYRIA TV | HD
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
-#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Arabic",MBC 1 | HD
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="Arabic",MBC 2 | HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MBC 3 | HD" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Arabic",MBC 3 | HD
-https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
-#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="MBC 4 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="Arabic",MBC 4 | HD
-https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
-#EXTINF:-1 tvg-id="MBC5.sa" tvg-name="MBC 5 | HD" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Arabic",MBC 5 | HD
-https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" tvg-name="MBC MAX | HD" group-title="Arabic",MBC MAX | HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
-#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC ACTION | HD" tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="Arabic",MBC ACTION | HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC DRAMA | HD" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="Arabic",MBC DRAMA | HD
-https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY TV COMEDY" tvg-logo="https://i.imgur.com/TwQaZJ9.png" group-title="Arabic",MY TV COMEDY
-http://185.228.19.115:8009/MyTV_Comedy/mono.m3u8?token=4xqfYjeH82
-#EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="Arabic",DW ARABIC
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC" tvg-logo="https://rotana.net/assets/uploads/2017/03/classic.png" group-title="Arabic",ROTANA CLASSIC
-http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic",ROTANA MUSIC
-http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA AFLAM" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-logo-880x660.png" group-title="Arabic",ROTANA AFLAM
-http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA" tvg-logo="https://rotana.net/assets/uploads/2017/03/ro-cinema-logo-copy.png" group-title="Arabic",ROTANA CINEMA
-http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA DRAMA" tvg-logo="https://rotana.net/assets/uploads/2017/03/drama.png" group-title="Arabic",ROTANA DRAMA
-http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA KHALIJIYA" tvg-logo="https://rotana.net/assets/uploads/2016/10/Final-Khaleejia-logo.png" group-title="Arabic",ROTANA KHALIJIYA
-http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLIP" tvg-logo="https://image.mysatgo.com/resize-width/400//content/y/fD/8/Thumbnail.png" group-title="Arabic",ROTANA CLIP
-http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL ARABY | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/220px-Alaraby_TV_Logo.png" group-title="Arabic",AL ARABY | HD
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MECCA | HD" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="Arabic",MECCA | HD
-http://m.live.net.sa:1935/live/quran/chunklist_w1660804461.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUNNAH | HD" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="Arabic",SUNNAH | HD
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IQRAA" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100766q.png" group-title="Arabic",IQRAA
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/6615
-#EXTINF:-1 tvg-id="" tvg-name="NOURSAT" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Noursat-TV.png" group-title="Arabic",NOURSAT
-https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AGHAPY TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/agapy.png" group-title="Arabic",AGHAPY TV
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/23432
+#EXTINF:-1 tvg-id="TeleLiban.lb" tvg-name="TELE لبنان | HD" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Lebanon",TELE لبنان | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/4713
+#EXTINF:-1 tvg-id="LBCInternational.lb" tvg-name="LBC INTERNATIONAL | HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/lbci-logo-png-5.png" group-title="Lebanon",LBC INTERNATIONAL | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/113070
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV | HD" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="Lebanon",MTV | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/113027
+#EXTINF:-1 tvg-id="AlJadeed.lb" tvg-name="AL JADEED | HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlJadeedTV.png" group-title="Lebanon",AL JADEED | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/157146
+#EXTINF:-1 tvg-id="OTVLebanon.lb" tvg-name="OTV | HD" tvg-logo="https://semicolonlb.net/main/media/press/10.png" group-title="Lebanon",OTV | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/157148
+#EXTINF:-1 tvg-id="NBN.lb" tvg-name="NBN | HD" tvg-logo="https://4.bp.blogspot.com/-LJ7t8RluMeM/Wx2cY5BDssI/AAAAAAAAUBM/Krgs27I013Acfl_T9peqUaMN3-OXmgT5ACLcBGAs/s320/nbn_lb.png" group-title="Lebanon",NBN | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/112981
+#EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="FUTURE TV" tvg-logo="http://www.alnadim.com/images/articles/alnadim_20190918161144.png" group-title="Lebanon",FUTURE TV
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/3091
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-name="AL MANAR" tvg-logo="https://worldnews-sy.com/wp-content/uploads/2016/12/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B1.png" group-title="Lebanon",AL MANAR
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/3070
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="LBC SATELLITE | HD" tvg-logo="https://ibcap.us/logo/LBC.png" group-title="Lebanon",LBC SATELLITE | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/112982
 
 
 ###ARABIC NEWS###
 
-#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA ARABIC | HD" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo.png" group-title="Arabic News",AL JAZEERA ARABIC | HD
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="aljazeeraarabic.qa" tvg-name="AL JAZEERA ARABIC | HD" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo.png" group-title="Arabic News",AL JAZEERA ARABIC | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/113060
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA | HD" tvg-logo="http://www.reachmediatv.com/images/alarabia.png" group-title="Arabic News",AL ARABIYA | HD
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/113065
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA AL HADATH | HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-al-arabiya-al-hada.jpg" group-title="Arabic News",AL ARABIYA AL HADATH | HD
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/160199
 #EXTINF:-1 tvg-id="" tvg-name="RT ARABIC | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/0/06/RTarabic.jpg" group-title="Arabic News",RT ARABIC | HD
-http://rt-arab.secure.footprint.net:80/1104.m3u8?streamType=live
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/113068
 #EXTINF:-1 tvg-id="" tvg-name="TRT ARABIC | HD" tvg-logo="https://i.imgur.com/iJIHMq9.png" group-title="Arabic News",TRT ARABIC | HD
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS ARABIYA | HD" tvg-logo="https://www.skynewsarabia.com/static/web-rev/img/app-banner/sna_logo_192_20_Pad.png" group-title="Arabic News",SKY NEWS ARABIYA | HD
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ARABIC" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/02/France24Arabi.png" group-title="Arabic News",FRANCE 24 ARABIC
-http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC ARABIC" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="Arabic News",BBC ARABIC
-https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA MUBASHER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png" group-title="Arabic News",AL JAZEERA MUBASHER
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA DOCUMENTARY" tvg-logo="https://network.aljazeera.com/sites/aj_corporate/files/ajd-sm.png" group-title="Arabic News",AL JAZEERA DOCUMENTARY
-http://185.236.229.22:8000/play/Al_Jazeera_Documentary_HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/113026
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS ARABIYA | HD" tvg-logo="https://image.mysatgo.com/resize-width/400//content/N/2k/23/Thumbnail.png" group-title="Arabic News",SKY NEWS ARABIYA | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/47526
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ARABIC | HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/02/France24Arabi.png" group-title="Arabic News",FRANCE 24 ARABIC | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/103349
+#EXTINF:-1 tvg-id="" tvg-name="BBC ARABIC | HD" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="Arabic News",BBC ARABIC | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/111788
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA MUBASHER | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png" group-title="Arabic News",AL JAZEERA MUBASHER | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/113061
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA DOC | HD" tvg-logo="https://network.aljazeera.com/sites/aj_corporate/files/ajd-sm.png" group-title="Arabic News",AL JAZEERA DOC | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/113063
 #EXTINF:-1 tvg-id="" tvg-name="AL MAYADEEN" tvg-logo="https://static.wixstatic.com/media/c098fe_105c011bedcf4b5789afdea45cd390d0~mv2.png" group-title="Arabic News",AL MAYADEEN
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/3282
+
+
+###ARABIC VARIETY###
+
+#EXTINF:-1 tvg-id="fatafeat.qa" tvg-name="FATAFEAT | HD" tvg-logo="https://i.imgur.com/61QXqJv.png" group-title="Arabic Variety",FATAFEAT | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/44610
+#EXTINF:-1 tvg-id="" tvg-name="FATAFEAT +1 | HD" tvg-logo="https://i.imgur.com/61QXqJv.png" group-title="Arabic Variety",FATAFEAT +1 | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/25410
+#EXTINF:-1 tvg-id="" tvg-name="FATAFEAT +2 | HD" tvg-logo="https://i.imgur.com/61QXqJv.png" group-title="Arabic Variety",FATAFEAT +2 | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/25411
+#EXTINF:-1 tvg-id="gourmet.qa" tvg-name="GOURMET | HD" tvg-logo="https://i.ibb.co/qm83SCn/gourmet.png" group-title="Arabic Variety",BEIN GOURMET | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/23599
+#EXTINF:-1 tvg-id="" tvg-name="GOURMET +1 | HD" tvg-logo="https://i.ibb.co/qm83SCn/gourmet.png" group-title="Arabic Variety",BEIN GOURMET +1 | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/25408
+#EXTINF:-1 tvg-id="" tvg-name="GOURMET +2 | HD" tvg-logo="https://i.ibb.co/qm83SCn/gourmet.png" group-title="Arabic Variety",BEIN GOURMET +2 | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/25409
+#EXTINF:-1 tvg-id="foodnetwork.qa" tvg-name="FOOD NETWORK | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Arabic Variety",BEIN FOOD NETWORK | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/44740
+#EXTINF:-1 tvg-id="foodnetwork.qa" tvg-name="FOOD NETWORK +1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Arabic Variety",BEIN FOOD NETWORK +1 | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/158741
+#EXTINF:-1 tvg-id="hgtv.qa" tvg-name="HGTV | HD" tvg-logo="https://i.ibb.co/b3Ns24d/logo-bein-hgtv.png" group-title="Arabic Variety",HGTV | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/53572
+#EXTINF:-1 tvg-id="" tvg-name="HGTV +1 | HD" tvg-logo="https://i.ibb.co/hVyj2G3/logo-bein-hgtv.png" group-title="Arabic Variety",HGTV +1 | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/53573
+#EXTINF:-1 tvg-id="travelchannel.qa" tvg-name="TRAVEL CHANNEL | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="Arabic Variety",beIN Travel Channel FHD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/23605
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL + 1| HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="Arabic Variety",TRAVEL CHANNEL +1 | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/158745
+#EXTINF:-1 tvg-id="" tvg-name="FINE LIVING | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/1200px-Fine_Living_logo.svg.png" group-title="Arabic Variety",FINE LIVING | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/18073
+#EXTINF:-1 tvg-id="" tvg-name="FINE LIVING +1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/1200px-Fine_Living_logo.svg.png" group-title="Arabic Variety",FINE LIVING +1 | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/158746
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Arabic Variety",MBC 1 | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/91682
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="Arabic Variety",MBC 2 | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/91685
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MBC 3 | HD" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Arabic Variety",MBC 3 | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/91660
+#EXTINF:-1 tvg-id="MBC4.ae" tvg-name="MBC 4 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="Arabic Variety",MBC 4 | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/91681
+#EXTINF:-1 tvg-id="MBC5.sa" tvg-name="MBC 5 | HD" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Arabic Variety",MBC 5 | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/112680
+#EXTINF:-1 tvg-id="MBCAction.sa" tvg-name="MBC ACTION | HD" tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="Arabic Variety",MBC ACTION | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/91683
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" tvg-name="MBC MAX | HD" group-title="Arabic Variety",MBC MAX | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/91684
+#EXTINF:-1 tvg-id="MBCVariety.ae" tvg-name="MBC+ VARIETY | HD" tvg-logo="https://gobx.com/wp-content/uploads/2019/05/MBC-Variety.png" group-title="Arabic Variety",MBC+ VARIETY | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/45252
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC DRAMA | HD" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="Arabic Variety",MBC DRAMA | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/144001
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC+ DRAMA | HD" tvg-logo="https://lh3.googleusercontent.com/proxy/T3JUAjnsFsajsDorXghJR-ZTOrFezaK4ssw4JunafBk81XeXDthK3_b98UAS6Yr46ylCucuWW5_IPKfbd_HzSgQw2Stkzbp1lGIMubqGx0FD2U-MYg" group-title="Arabic Variety",MBC+ DRAMA | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/91680
+#EXTINF:-1 tvg-id="rotanaclassic.eg" tvg-name="ROTANA CLASSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/classic.png" group-title="Arabic Variety",ROTANA CLASSIC | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/113025
+#EXTINF:-1 tvg-id="rotanamusic.eg" tvg-name="ROTANA MUSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic Variety",ROTANA MUSIC | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/112978
+#EXTINF:-1 tvg-id="rotanaaflam.eg" tvg-name="ROTANA AFLAM | HD" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-logo-880x660.png" group-title="Arabic Variety",ROTANA AFLAM | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/4711
+#EXTINF:-1 tvg-id="rotanacinema.eg" tvg-name="ROTANA CINEMA | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/ro-cinema-logo-copy.png" group-title="Arabic Variety",ROTANA CINEMA | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/112976
+#EXTINF:-1 tvg-id="rotanadrama.eg" tvg-name="ROTANA DRAMA | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/drama.png" group-title="Arabic Variety",ROTANA DRAMA | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/113024
+#EXTINF:-1 tvg-id="rotanakhalijiya.eg" tvg-name="ROTANA KHALIJIYA | HD" tvg-logo="https://rotana.net/assets/uploads/2016/10/Final-Khaleejia-logo.png" group-title="Arabic Variety",ROTANA KHALIJIYA | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/112979
+#EXTINF:-1 tvg-id="rotanaclip.eg" tvg-name="ROTANA CLIP" tvg-logo="https://image.mysatgo.com/resize-width/400//content/y/fD/8/Thumbnail.png" group-title="Arabic Variety",ROTANA CLIP
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/929
+#EXTINF:-1 tvg-id="syriasatellitechannel.sy" tvg-name="SYRIA TV | HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1338_1.png" group-title="Arabic Variety",SYRIA TV | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/81508
+#EXTINF:-1 tvg-id="Al Araby ARB" tvg-name="AL ARABY | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/220px-Alaraby_TV_Logo.png" group-title="Arabic Variety",AL ARABY | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/112998
+#EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="Arabic Variety",DW ARABIC
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/3101
+#EXTINF:-1 tvg-id="" tvg-name="MECCA | HD" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="Arabic Variety",MECCA | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/113051
+#EXTINF:-1 tvg-id="" tvg-name="SUNNAH | HD" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="Arabic Variety",SUNNAH | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/113058
+#EXTINF:-1 tvg-id="iqraa.sa" tvg-name="IQRAA" tvg-logo="https://i.imgur.com/JvGPtSd.png" group-title="Arabic Variety",IQRAA
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/2133
+#EXTINF:-1 tvg-id="noursat.lb" tvg-name="NOURSAT" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Noursat-TV.png" group-title="Arabic Variety",NOURSAT
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/160201
 
 
 ###ARABIC MUSIC###
 
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic Music",ROTANA MUSIC
-http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC" tvg-logo="https://rotana.net/assets/uploads/2017/03/classic.png" group-title="Arabic Music",ROTANA CLASSIC
-http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARABICA MUSIC" tvg-logo="https://sc.dish.com/shared/images/station-logos/arbmu.png" group-title="Arabic Music",ARABICA MUSIC
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/16510
-#EXTINF:-1 tvg-id="" tvg-name="AGHANI" tvg-logo="http://musicormedia.com/assets/img/companies/aghani-g.png" group-title="Arabic Music",AGHANI
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/6557
-#EXTINF:-1 tvg-id="" tvg-name="MAZZIKA" tvg-logo="https://logosolusa.com/wp-content/uploads/2016/10/Mazzika-Logo-1.png" group-title="Arabic Music",MAZZIKA
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/6592
-#EXTINF:-1 tvg-id="" tvg-name="MAZZIKA HITS" tvg-logo="https://logosolusa.com/wp-content/uploads/2016/10/Mazzika-Logo-1.png" group-title="Arabic Music",MAZZIKA HITS
-http://pro-stream.club:8080/HcVUyhhX57/aAsscznVJM/23378
+#EXTINF:-1 tvg-id="" tvg-name="ART TARAB" tvg-logo="https://sc.dish.com/shared/images/station-logos/TARAB.PNG" group-title="Arabic Music",ART TARAB
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/184966
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2017/03/classic.png" group-title="Arabic Music",ROTANA CLASSIC | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/113025
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI | HD" tvg-logo="http://musicormedia.com/assets/img/companies/aghani-g.png" group-title="Arabic Music",AGHANI | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/157144
+#EXTINF:-1 tvg-id="" tvg-name="ARABICA MUSIC | HD" tvg-logo="https://lh3.googleusercontent.com/proxy/23b7qAqwsrrnuBvWj2HbQ5-XiWGY0K2hcf3vVoU1lJTmbo0Z3L0ZBaCRWINg7_-WFLL2KrDNEHexrqcprnE" group-title="Arabic Music",ARABICA MUSIC | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/157145
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC | HD" tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Arabic Music",ROTANA MUSIC | HD
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/112978
+#EXTINF:-1 tvg-id="" tvg-name="MELODY CLASSIC" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/mldyc.png" group-title="Arabic Music",MELODY CLASSIC
+http://king-tv.net:8080/johnsimmons81/BK3hxDidC6/184968
+
 
 ###INTERNATIONAL ENGLISH###
 
